@@ -19,6 +19,9 @@ arma::vec analeigenval(double a, double d, int N); // Creating analytical eigenv
 arma::vec analeigenvec(int N, int i); // Creating analytical eigenvectors.
 bool checkequaleig(arma::vec A, arma::vec B, double error); // Checking if vectors are equal.
 bool checkequalmatrix(arma::mat A, arma::mat B, double error); // Checking if vectors are equal.
-double maxoffvalue(arma::mat A, int& k, int& l, int N); // Finding largest off-diagonal value. 
+double maxoffvalue(const arma::mat& A, int& k, int& l, int N); // Finding largest off-diagonal value.
+double jacobi_rotate(arma::mat& A, arma::mat& R, int& k, int& l, int N); // One iteration of Jacobi-rotation.
+void jacobi_eigensolver(arma::mat& A, double eps, arma::vec& eigenvalues, arma::mat& eigenvectors, // Solving Jacobi. 
+                                                   const int maxiter, int& iterations, bool& converged, int N);
 
 #endif /* utilities_hpp */
