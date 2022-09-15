@@ -55,6 +55,7 @@ int main(int argc, const char * argv[]){
     */
     
     
+    /* // Problem 4.
     double n = 10;
     double h = 1/n;
     double a = -1/pow(h, 2);
@@ -96,6 +97,7 @@ int main(int argc, const char * argv[]){
     if (sameval == samevec == true){
         std::cout << "Jacobi and analytical are equal and good friends." << std::endl;
     }
+    */
     
     return 0;
 }
