@@ -1,0 +1,8 @@
+Jordbær,22.20,400
+Mangoterninger,25.40,300
+Bringebær,45.50,400
+Blåbær,26.30,400
+Bærblanding,26.60,400
+Smoothiemix Mango, Ananas & Banan,48.30,800
+Smoothieblanding,54.40,800
+Eplebåter uten skall,32.70,300

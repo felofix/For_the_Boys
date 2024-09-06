@@ -1,0 +1,5 @@
+Pommes Strips,19.90,600
+Søtpotet Fries,30.90,500
+Pommes Express,24.90,450
+Potetbåter Express,31.30,600
+Pommesfrites,36.90,1,2

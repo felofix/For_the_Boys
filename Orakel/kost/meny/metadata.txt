@@ -1,0 +1,13 @@
+Kylling_og_fjærkre.txt
+Drikke.txt
+Bakeri.txt
+Meieri_&_egg.txt
+Ost.txt
+Fisk_&_skalldyr.txt
+Pålegg_&_frokost.txt
+Dessert.txt
+Frukt_&_grønt.txt
+Kjøtt.txt
+Bakevarer_og_kjeks.txt
+Middag.txt
+Middagstilbehør.txt

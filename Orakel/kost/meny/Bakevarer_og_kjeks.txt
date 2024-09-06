@@ -1,0 +1,479 @@
+#Navn #Pris #Mengde #Før #Butikk 
+Vaniljesukker Ekte,73.90,100 g, None, Meny
+Svarthavrebrød,41.50,1 stk, None, Meny
+Svarthavremel,42.70,700 g, None, Meny
+Kjeks til Ost,37.90,100 g, None, Meny
+Cantuccini Kjeks,45.90,200 g, None, Meny
+Kjeks til Ost,37.90,100 g, None, Meny
+Sukker,25.60,1000 g, None, Meny
+Gjær Fersk,5.90,50 g, None, Meny
+Hvetemel Siktet,15.70,1000 g, None, Meny
+Hvetemel Siktet,28.80,2000 g, None, Meny
+Ritz Crackers,23.50,200 g, None, Meny
+Natron,30.20,100 g, None, Meny
+Gjær Fersk Søt,6.90,50 g, None, Meny
+Paneringsmel Panko,58.90,150 g, None, Meny
+Griljermel,43.90,400 g, None, Meny
+Oreo Kjeks,22.90,154 g, 49.70, Meny
+Hvit Sjokolade,35.90,100 g, None, Meny
+Maestro,39.90,150 g, None, Meny
+Pizzamel,45.60,1000 g, None, Meny
+Natreen Tabletter,35.00,500 stk, None, Meny
+Lønnesirup 100%,116.00,250 g, None, Meny
+Caputo Pizzamel,58.00,1000 g, None, Meny
+Rugkjeks Fin,49.90,100 g, None, Meny
+Tuc Kjeks,16.90,100 g, 26.90, Meny
+Kokosmasse,24.40,250 g, None, Meny
+Cookies Milk Choco,44.90,240 g, None, Meny
+Selskaps Sjokolade,25.90,100 g, None, Meny
+Tørrgjær Original,25.50,1 stk, None, Meny
+Svisker,33.50,227 g, None, Meny
+Oreo Kjeks,22.90,154 g, 43.50, Meny
+Kräcker Salt Kjeks,24.70,150 g, None, Meny
+Café Bakeriet,61.30,200 g, None, Meny
+Savoiardi Kjeks,42.90,200 g, None, Meny
+Våre 5 Beste,95.00,170 g, None, Meny
+Melkesjoko Kjeks,42.90,184 g, None, Meny
+Smørkjeks Fransk,41.50,100 g, None, Meny
+Cartoonies,55.90,150 g, None, Meny
+Dadler,4.98,25 g, None, Meny
+Konditorfarger,38.00,40 g, None, Meny
+Mango Tørket,56.50,200 g, None, Meny
+Hasselnøttkjerner,44.30,250 g, None, Meny
+Safari Kjeks,31.90,150 g, None, Meny
+Pepita Kjeks,31.90,180 g, None, Meny
+Chocolate Chip,39.90,270 g, None, Meny
+Shortbread,56.90,150 g, None, Meny
+Kjeks,39.90,230 g, None, Meny
+Mandler,31.00,250 g, None, Meny
+Digestive Kjeks,34.90,400 g, None, Meny
+Dadler,40.20,150 g, None, Meny
+Kokesjokolade 70%,26.00,100 g, None, Meny
+Speltmel Siktet,60.90,1000 g, None, Meny
+Dronningsjokolade,21.90,100 g, None, Meny
+Pavlova Marengs,45.50,1 stk, None, Meny
+Salti Kjeks,41.50,175 g, None, Meny
+Dronningsjokolade,42.50,200 g, None, Meny
+Dadler Tørket,49.90,600 g, None, Meny
+Café Bakeriet,52.50,200 g, None, Meny
+Bakekakao,47.90,250 g, None, Meny
+Pizzamel Tipo 00,36.00,1000 g, None, Meny
+Muffins Mix,47.90,1 stk, None, Meny
+Rosiner,21.50,250 g, None, Meny
+Brownies Mix,54.90,1 stk, None, Meny
+Choco Chip Cookies,35.50,200 g, None, Meny
+Kokesjokolade,10.50,100 g, None, Meny
+Aprikoser,24.90,175 g, None, Meny
+Salattopping,24.90,125 g, None, Meny
+Mango,24.90,60 g, None, Meny
+Dadler,24.90,90 g, None, Meny
+Tranebær,24.90,110 g, None, Meny
+Dadler,24.90,90 g, None, Meny
+Bananchips,24.90,150 g, None, Meny
+Kjeks til Ost,37.90,100 g, None, Meny
+Cantuccini Kjeks,45.90,200 g, None, Meny
+Svisker,75.30,400 g, None, Meny
+Gelatinplater,13.60,20 g, None, Meny
+Sibas Havrekjeks,32.90,290 g, None, Meny
+Choco Chip Cookies,18.90,225 g, None, Meny
+Rørsukker Strø,29.90,500 g, None, Meny
+Tuc Kjeks,16.90,100 g, 21.40, Meny
+Semulegryn,13.00,550 g, None, Meny
+Tuc Kjeks,16.90,100 g, 21.40, Meny
+Tuc Kjeks,16.90,100 g, 21.40, Meny
+Gullvafler Doble,41.50,250 g, None, Meny
+Hvetemel Siktet,29.90,1000 g, None, Meny
+Vaniljekrem,35.30,500 ml, None, Meny
+Rosiner,23.90,252 g, None, Meny
+Pavlovakrem,41.70,500 ml, None, Meny
+Kokesjokolade,10.50,100 g, None, Meny
+Pannekaker Mix,24.50,600 ml, None, Meny
+Melis,21.90,500 g, None, Meny
+Digestive Kjeks,35.50,400 g, None, Meny
+Råsukker Biter,33.20,500 g, None, Meny
+Vafler Mix,24.90,1 stk, None, Meny
+Maryland Cookies,19.90,136 g, None, Meny
+Rosiner,29.90,250 g, None, Meny
+Svisker,59.70,150 g, None, Meny
+Hvete Sammalt Fin,17.90,1000 g, None, Meny
+Havrebrød,31.90,1 stk, None, Meny
+Hvete Sammalt Grov,18.50,1000 g, None, Meny
+Snackers Kjeks,23.90,120 g, None, Meny
+Grovbrød,29.90,1 stk, None, Meny
+Kornmo Original,27.90,225 g, None, Meny
+Speltmel Siktet,48.90,1000 g, None, Meny
+Farin Brun,22.90,500 g, None, Meny
+Maizena,27.50,400 g, None, Meny
+Oreo Kjeks,19.90,157 g, 22.50, Meny
+Ballerina Kjeks,29.50,205 g, None, Meny
+Pizzamel Tipo-0,27.20,1000 g, None, Meny
+Vafler Mix,38.80,1 stk, None, Meny
+Safari Kjeks,24.90,200 g, None, Meny
+Bixit Sjokolade,18.50,200 g, None, Meny
+Bakepulver,25.90,250 g, None, Meny
+Oreo Kjeks,21.90,154 g, 24.50, Meny
+Potetmel,26.90,500 g, None, Meny
+Kjeks,25.90,500 g, None, Meny
+Gjende Original,21.90,220 g, None, Meny
+Brownies Mix,49.90,1 stk, None, Meny
+Eventyrkjeks,31.50,175 g, None, Meny
+Vaniljesukker,25.50,175 g, None, Meny
+Pannekaker Mix,46.90,1500 ml, None, Meny
+Sjokoladekake,59.90,1 stk, None, Meny
+Rosiner,41.90,500 g, None, Meny
+Marie Kjeks,12.90,200 g, None, Meny
+Brownies Mix,28.90,1 stk, None, Meny
+Vafler Mix,39.90,1 stk, None, Meny
+Mariekjeks,12.40,400 g, None, Meny
+Tørrgjær Søt Deig,12.40,1 stk, None, Meny
+Natron,22.40,50 g, None, Meny
+Vanilje Essens,35.90,61 ml, None, Meny
+Mandel Essens,35.80,62 ml, None, Meny
+Jam Syltepulver,27.20,45 g, None, Meny
+Strøbrød,56.30,400 g, None, Meny
+Lapper/Sveler Mix,51.00,1 stk, None, Meny
+Hornsalt,30.60,65 g, None, Meny
+Kakefyll Vanilje,27.70,80 g, None, Meny
+Sitronsyre,21.30,23 g, None, Meny
+Gelatinpulver,43.50,65 g, None, Meny
+Sjokopinner,45.90,144 g, None, Meny
+Maria Kjeks,46.90,200 g, None, Meny
+Cream Fix,11.50,1 stk, None, Meny
+Sjokoklem,51.90,180 g, None, Meny
+Hvetemel,52.00,1000 g, None, Meny
+Oreo Kjeks,90.00,246 g, None, Meny
+Pannekakemiks,158.00,1 stk, None, Meny
+Figurmarsipan,86.00,400 g, None, Meny
+Fondant Hvit,75.30,250 g, None, Meny
+Piruett Kjeks,51.50,110 g, None, Meny
+Kakefyll Vanilje,17.90,1 stk, None, Meny
+Sjokoladeglasur,29.00,1 stk, None, Meny
+Natreen Tabletter,92.00,1533 stk, None, Meny
+Durum Hvete,58.90,1000 g, None, Meny
+Strøssel Rainbow,43.40,50 g, None, Meny
+Barista Hazelnut,71.60,250 ml, None, Meny
+Panko Breadcrumb,64.90,120 g, None, Meny
+Marengstopper,39.20,125 g, None, Meny
+Vaniljesukker,42.00,100 g, None, Meny
+Ladyfingers,55.90,200 g, None, Meny
+Lemon Curd,39.80,320 g, None, Meny
+Mandelmel,53.00,250 g, None, Meny
+Ballerina Kjeks,43.90,190 g, None, Meny
+Rismel,51.70,500 g, None, Meny
+Sukkerbiter Brune,104.00,750 g, None, Meny
+Hvetemel,71.60,1000 g, None, Meny
+Marsipanlokk,115.00,290 g, None, Meny
+Fin Mix Mel,56.30,500 g, None, Meny
+Tall og Bokstaver,46.90,60 g, None, Meny
+Muscovadosukker,41.20,400 g, None, Meny
+Ostekrem Glasur,26.00,1 stk, None, Meny
+Boller Bakemix,59.90,1 stk, None, Meny
+Lønnesirup,110.00,189 ml, None, Meny
+Dekor Skrift,50.90,76 g, None, Meny
+Cocktailbær,50.00,70 g, None, Meny
+Strøssel Rose Gold,37.90,60 g, None, Meny
+Sukkerroser Rosa,53.80,708 g, None, Meny
+Syltesukker,49.90,1000 g, None, Meny
+Fiken,114.00,1 stk, None, Meny
+Surdeig,55.30,150 g, None, Meny
+Agave Sirup,88.00,250 g, None, Meny
+Toffeekjeks,21.40,1 stk, None, Meny
+Hvetemel,64.50,1000 g, None, Meny
+Marsipan Gulrøtter,49.90,265 g, None, Meny
+Cookies,44.90,280 g, None, Meny
+Double Coooky,49.30,300 g, None, Meny
+Fiberhusk Stor,179.00,300 g, None, Meny
+Sjokoladedekor,31.40,42 g, None, Meny
+Chocolate Fudge,58.70,400 g, None, Meny
+Almond Thins,39.60,125 g, None, Meny
+Digestive Kjeks,47.90,150 g, None, Meny
+Hvetekim,12.60,250 g, None, Meny
+Mandler Kvernede,42.30,250 g, None, Meny
+Rismel Fullkorn,42.60,350 g, None, Meny
+Demarara Rørsukker,55.10,500 g, None, Meny
+Hvetemel,57.30,1000 g, None, Meny
+Cookieglede,44.90,156 g, None, Meny
+Havrekli,56.20,950 g, None, Meny
+Yoghurtmandel,34.90,80 g, None, Meny
+Cheese Cracker,68.50,100 g, None, Meny
+Tapasmandler,31.90,90 g, None, Meny
+Baking Soda,38.20,227 g, None, Meny
+Vaffelkjeks,62.50,150 g, None, Meny
+Rugkjeks,37.50,290 g, None, Meny
+Gelehjerter,23.80,100 g, None, Meny
+Karamelmandler,57.90,120 g, None, Meny
+Moomin Biscuit,29.90,175 g, None, Meny
+Glukose,36.30,140 g, None, Meny
+Kruskakli Hvete,18.10,400 g, None, Meny
+Focaccia Mix,43.10,1 stk, None, Meny
+Speltflak,56.70,600 g, None, Meny
+Strøssel,58.70,78 g, None, Meny
+Rosiner,49.50,500 g, None, Meny
+Farin Ekstra Fin,46.30,1000 g, None, Meny
+Strøssel Blandet,37.50,120 g, None, Meny
+Havre Digestive,57.90,150 g, None, Meny
+Gelatinpulver,17.90,25 g, None, Meny
+Pizzagjær,53.90,100 g, None, Meny
+Sjokoladekakemiks,86.00,1 stk, None, Meny
+Café Bakeriet,59.90,200 g, None, Meny
+Vaniljesukker Ekte,73.90,100 g, None, Meny
+Eggerstatning,58.60,200 g, None, Meny
+Sirup Lys,19.90,400 g, None, Meny
+Maltesers Cookies,35.60,110 g, None, Meny
+Rosiner Minis,28.90,125 g, None, Meny
+Sirup Gold,117.00,450 g, None, Meny
+Cake Mix,61.90,1 stk, None, Meny
+Safari Kjeks,37.90,175 g, None, Meny
+Hvetemel,78.00,1000 g, None, Meny
+Bakesjokolade,36.10,100 g, None, Meny
+Jam Fruktpektin,30.70,70 g, None, Meny
+Sukrin Naturlig,89.00,500 g, None, Meny
+Sukkerbiter,29.80,500 g, None, Meny
+Tunnbrødchips,72.50,2030 g, None, Meny
+Iskjeks,35.50,125 g, None, Meny
+Pizzagjær,31.90,1 stk, None, Meny
+Byggmel Siktet,24.50,1000 g, None, Meny
+Tunnbrødchips,67.40,170 g, None, Meny
+Rug Sammalt Fin,21.90,1000 g, None, Meny
+Bokhvetemel,42.60,350 g, None, Meny
+Cocktailbær,51.00,130 g, None, Meny
+Brødmix,49.70,500 g, None, Meny
+Hirseflak,38.30,250 g, None, Meny
+Mandler,55.90,120 g, None, Meny
+Iskjeks,42.40,115 g, None, Meny
+Speltmel Sammalt,55.30,1000 g, None, Meny
+Kokesjokolade Lys,23.90,100 g, None, Meny
+Gelétopper,42.30,1 stk, None, Meny
+Muffins Mix,57.60,1 stk, None, Meny
+Bakesjokolade,33.60,100 g, None, Meny
+Sjokoladeglasur,47.90,340 g, None, Meny
+Rugflak,38.90,600 g, None, Meny
+Egg-Erstatning,79.00,250 g, None, Meny
+Natreen Flytende,59.80,125 ml, None, Meny
+Dryss På,24.90,90 g, None, Meny
+Muffins Mix,51.80,1 stk, None, Meny
+Sjokolade Mørk,123.00,250 g, None, Meny
+Melkesjokolade,123.00,250 g, None, Meny
+Perlesukker,26.30,500 g, None, Meny
+Moomin Biscuit,36.90,175 g, None, Meny
+Rosiner,32.50,250 g, None, Meny
+Pizzamel Tipo 00,38.30,1000 g, None, Meny
+Marengstopper,44.90,100 g, None, Meny
+Rosiner,37.50,252 g, None, Meny
+Speltmel Siktet,59.00,1000 g, None, Meny
+Dumle Cookies,54.50,140 g, None, Meny
+Café Bakeriet,59.50,225 g, None, Meny
+Romkrem,36.60,500 ml, None, Meny
+Hello Panda Kjeks,49.90,58 g, None, Meny
+Kjeks m/Sjokolade,63.90,150 g, None, Meny
+Kjeks m/Sitron,63.90,150 g, None, Meny
+Cookies Choc Chip,36.90,1 stk, None, Meny
+Ballerina Kjeks,38.90,205 g, None, Meny
+Tom&Jerry Kjeks,38.50,175 g, None, Meny
+Pannekaker Mix,37.70,1 stk, None, Meny
+Coco Loco,51.90,180 g, None, Meny
+Unicorn Sugar Face,46.90,68 g, None, Meny
+Crunchy Bites,41.50,125 g, None, Meny
+Tarteletter,48.90,125 g, None, Meny
+Hvetemel Siktet,29.90,1000 g, None, Meny
+Piruett Kjeks,39.40,110 g, None, Meny
+Franske Vafler,28.80,160 g, None, Meny
+Maismel,33.50,350 g, None, Meny
+Solsikkebrød,36.30,1 stk, None, Meny
+Speltmel Sammalt,54.90,1000 g, None, Meny
+Rugmel Siktet,23.40,1000 g, None, Meny
+Sukrin Gold,98.00,500 g, None, Meny
+Fiberbrødmix,63.90,1 stk, None, Meny
+Brødmix,70.40,1000 g, None, Meny
+Farin Mørk Brun,33.40,500 g, None, Meny
+Melblanding Lys,47.30,375 g, None, Meny
+Speltmel Grovmalt,56.40,1000 g, None, Meny
+Sukker,44.40,1000 g, None, Meny
+Marengsbunn,89.00,180 g, None, Meny
+Sukkerbiter,23.90,500 g, None, Meny
+Havrekjeks,26.80,150 g, None, Meny
+Emmer Sammalt,49.10,1000 g, None, Meny
+Aprikoser,50.10,150 g, None, Meny
+Havrekjeks,26.80,150 g, None, Meny
+Safari Kjeks,23.50,205 g, None, Meny
+Bokstavkjeks,44.90,175 g, None, Meny
+Vaniljekrem,38.90,500 ml, None, Meny
+Vafler Grove,46.10,330 g, None, Meny
+Kjeks Sesam&Valmue,36.00,90 g, None, Meny
+Pannekaker Grove,46.00,700 ml, None, Meny
+Kokossukker,56.20,300 g, None, Meny
+Kakekjeks Thins,33.80,100 g, None, Meny
+Strøbrød,42.60,200 g, None, Meny
+Sirup Mørk,19.90,500 g, None, Meny
+Sukker Finkornet,33.90,1000 g, None, Meny
+Havrescones,36.90,955 g, None, Meny
+Marengsbunner,81.00,329 g, None, Meny
+Grovbrød Mix,36.90,1 stk, None, Meny
+Gojibær Tørket,24.90,40 g, None, Meny
+Ananas Tørket,24.90,70 g, None, Meny
+Wafer Crackers,32.90,100 g, None, Meny
+Kokosflak,24.90,80 g, None, Meny
+Crepes,31.90,90 g, None, Meny
+Crepes,31.90,90 g, None, Meny
+Knekks Kjeks,43.90,190 g, None, Meny
+Nutella Biscuits,59.90,193 g, None, Meny
+Sirup Lys,19.90,500 g, None, Meny
+Knekks Kjeks,43.90,190 g, None, Meny
+Svarthavrebrød,41.50,1 stk, None, Meny
+Speltmel Sammalt,45.90,1000 g, None, Meny
+Surdeigsbrød,35.40,500 g, None, Meny
+Svedjerug Mel,41.80,1000 g, None, Meny
+Mango,53.80,110 g, None, Meny
+Melblanding Grov,52.80,415 g, None, Meny
+Biscotti,42.40,165 g, None, Meny
+Vanilla,63.90,230 ml, None, Meny
+Custard Cream Kjeks,55.40,125 g, None, Meny
+Boller,28.50,1 stk, None, Meny
+Sjokoladekjeks,55.20,125 g, None, Meny
+Marengsbunn,99.00,110 g, None, Meny
+Farin Lys Brun,29.90,500 g, None, Meny
+Rug Sammalt Grov,17.90,1000 g, None, Meny
+Speltmel Siktet,59.20,1000 g, None, Meny
+Tarteletter,42.90,135 g, None, Meny
+Mandler,54.40,150 g, None, Meny
+Knekks Kjeks,43.90,190 g, None, Meny
+Hvetemel Siktet,46.70,2000 g, None, Meny
+Hveteboller Mix,41.90,1 stk, None, Meny
+Natreen Pulver,45.90,70 g, None, Meny
+Melblanding Fin,51.50,700 g, None, Meny
+Hvetegrøpp,23.10,1000 g, None, Meny
+Hvetemel,24.10,1000 g, None, Meny
+Kjeks,56.90,120 g, None, Meny
+Kjeks,56.90,120 g, None, Meny
+Cookies Blåbær,48.00,150 g, None, Meny
+Madeleine,69.40,210 g, None, Meny
+Jyttemel Fibra,58.60,500 g, None, Meny
+Melblanding,61.00,500 g, None, Meny
+Knekks Kjeks,43.90,1 stk, None, Meny
+Fullkornshvetemel,44.90,2000 g, None, Meny
+Havremel,32.90,1000 g, None, Meny
+Jyttemel Teff,57.30,400 g, None, Meny
+Speltmel Siktet,94.00,2000 g, None, Meny
+Røros Vaffelrøre,94.00,1000 ml, None, Meny
+Grovbakst,16.70,1000 g, None, Meny
+Speltmel Sammalt,74.20,2000 g, None, Meny
+Sjokoladeglasur,32.00,1 stk, None, Meny
+Kjeks,25.90,500 g, None, Meny
+Kakebunn 3-Delt,29.90,360 g, None, Meny
+Hvetemel Siktet,115.20,1 stk, None, Meny
+Jam Frysepulver,30.40,45 g, None, Meny
+Rom Essens,35.90,61 ml, None, Meny
+Vaniljesukker,41.00,140 g, None, Meny
+Fiberbrød Mix,48.70,1 stk, None, Meny
+Barista Chocolate,75.40,250 ml, None, Meny
+Caramel Syrup,72.90,250 ml, None, Meny
+Icingfarge,75.00,111 g, None, Meny
+Barista Vanilla,71.50,250 ml, None, Meny
+Pofiber,55.00,125 g, None, Meny
+Maizenajevner Lys,38.90,250 g, None, Meny
+Sjokorosiner,52.90,200 g, None, Meny
+Rårørsukker,85.00,1000 g, None, Meny
+Hvetemel,55.90,1000 g, None, Meny
+Lønnesirup Mørk,103.00,236 ml, None, Meny
+Strøssel Butterfly,35.90,60 g, None, Meny
+Maizenajevner Brun,37.90,250 g, None, Meny
+Icingfarge,67.50,164 g, None, Meny
+Icingfarge,67.50,164 g, None, Meny
+Icingfarge,67.50,164 g, None, Meny
+Icingfarge,67.50,164 g, None, Meny
+Vaniljepasta,96.00,100 g, None, Meny
+Mjølmix Fin,52.10,900 g, None, Meny
+Kokosmel,89.00,400 g, None, Meny
+Safari Kjeks,33.90,150 g, None, Meny
+Marzipan,60.40,200 g, None, Meny
+Strøssel Sjokolade,62.30,120 g, None, Meny
+Konditorfarge,23.80,41 g, None, Meny
+Sesam Mel,54.70,250 g, None, Meny
+Emmermel Sammalt,64.70,1000 g, None, Meny
+Kjeks,66.40,120 g, None, Meny
+Sjokoloops,45.90,176 g, None, Meny
+Psyllium Kostfiber,99.00,200 g, None, Meny
+Quinoamel,53.50,350 g, None, Meny
+Eplekake Mix,48.30,1 stk, None, Meny
+Havremel Fullkorn,31.30,240 g, None, Meny
+Konditorfarge,21.60,49 g, None, Meny
+Dumle Wafer,39.90,175 g, None, Meny
+Gulrotkake Mix,47.90,1 stk, None, Meny
+Kornbrød,29.90,1 stk, None, Meny
+Rugmel Sammalt,36.90,1000 g, None, Meny
+Jyttemel Arv,62.90,500 g, None, Meny
+Kakemix Fin,41.90,370 g, None, Meny
+Marsipan,33.90,500 g, None, Meny
+Bakekakao,44.50,190 g, None, Meny
+Hirseflak,37.40,350 g, None, Meny
+Hvetemel Sammalt,23.20,1000 g, None, Meny
+Pastel Pearls,42.30,242 g, None, Meny
+Strøssel Mint Star,35.90,60 g, None, Meny
+Surdeig,13.40,30 g, None, Meny
+Strøssel,66.00,78 g, None, Meny
+Melmix m/Fiber,47.90,500 g, None, Meny
+Cookieglede,43.90,156 g, None, Meny
+Gourmet Cookies,22.00,1 stk, None, Meny
+Browniecookie,17.90,54 g, None, Meny
+Sitroncookie,17.90,54 g, None, Meny
+Melkesjok.Cookie,17.90,54 g, None, Meny
+Melk Kondensert,61.80,320 g, None, Meny
+Brødmiks glutenfri,58.80,1 stk, None, Meny
+Mini Sweeteners,52.90,56 g, None, Meny
+Crackers,59.90,100 g, None, Meny
+Havrefiber,69.90,300 g, None, Meny
+Dumle Cookie,58.90,350 g, None, Meny
+Bocaditos,33.90,80 g, None, Meny
+Hvetemel,69.90,1 stk, None, Meny
+Icingfarge,67.50,164 g, None, Meny
+Marsipan,79.90,400 g, None, Meny
+Sukrin Melis,83.00,400 g, None, Meny
+Kakaoroser,54.80,571 g, None, Meny
+Kransekakemasse,93.00,400 g, None, Meny
+Makronfyll,42.30,200 g, None, Meny
+Bakepulver,27.30,140 g, None, Meny
+Melk Kondensert,61.80,320 g, None, Meny
+Brødmiks glutenfri,58.80,1 stk, None, Meny
+Mini Sweeteners,52.90,56 g, None, Meny
+Crackers,59.90,100 g, None, Meny
+Havrefiber,69.90,300 g, None, Meny
+Dumle Cookie,58.90,350 g, None, Meny
+Sirup,39.30,454 g, None, Meny
+Barista Irish Cream,76.00,250 ml, None, Meny
+Mandler,116.00,None, None, Meny
+Sukkerfondant,48.00,250 g, None, Meny
+Sitron Essens,33.20,104 ml, None, Meny
+Triple Chocolate,69.90,150 g, None, Meny
+Strøssel Super,64.00,76 g, None, Meny
+Icingfarge,67.50,164 g, None, Meny
+Speltmel Sammalt,56.10,1000 g, None, Meny
+Kandissukker,33.50,500 g, None, Meny
+Orange Cakes,26.90,300 g, None, Meny
+Muscovadosukker,41.50,400 g, None, Meny
+Icingfarge,67.50,164 g, None, Meny
+Icingfarge,67.50,164 g, None, Meny
+Hvete Helkorn,25.80,1000 g, None, Meny
+Surdeigkjeks,41.90,100 g, None, Meny
+Speltmel Sammalt,54.40,1000 g, None, Meny
+Natreen Stevia,42.60,118 stk, None, Meny
+Melk Kondensert,71.90,397 g, None, Meny
+Lønnesirup Lys,94.00,236 ml, None, Meny
+Fikner,49.40,150 g, None, Meny
+Pizzamel glutenfri,53.20,500 g, None, Meny
+Bakemiks Grov,76.00,600 g, None, Meny
+Maismel,95.00,1000 g, None, Meny
+Melblanding Grov,59.90,700 g, None, Meny
+Hvetemel Sammalt,36.90,1000 g, None, Meny
+Tranebær,50.80,150 g, None, Meny
+Raspeballer,52.90,1000 g, None, Meny
+Svarthavremel,42.70,700 g, None, Meny
+Kikertemel,45.90,500 g, None, Meny
+Bakemiks Lys,72.70,600 g, None, Meny
+Sjokoringer,43.90,164 g, None, Meny
+Aprikoser Tørkede,23.90,200 g, None, Meny
+Speltkjeks Tynne,39.90,100 g, None, Meny
+Salinas Kjeks,46.50,200 g, None, Meny
+Bixit Original,11.00,300 g, None, Meny
+Kjeks til Ost,37.90,100 g, None, Meny
+Gjende Sjokolade,45.40,183 g, None, Meny
+Kaptein Kjeks,22.90,200 g, None, Meny

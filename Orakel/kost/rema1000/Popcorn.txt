@@ -1,0 +1,4 @@
+Popcorn Saltet,13.30,100
+Micropopcorn,16.90,220
+Micropopcorn med Smør,18.10,300
+Maiskorn Til Popcorn,19.90,400

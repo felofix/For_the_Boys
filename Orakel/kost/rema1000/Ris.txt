@@ -1,0 +1,9 @@
+Jasminris,36.90,2
+Basmatiris Løs,16.50,500
+Jasminris,26.40,1
+Fullkornsris,31.80,1
+Middagsris,35.80,1
+Basmatiris,45.20,1
+Middagsris Ståpose,33.40,2
+Basmatiris Villris,53.00,1
+Hurtigris Løsvekt,26.30,400

@@ -1,0 +1,12 @@
+Hvitløksbaguetter,16.90,350
+Minibaguetter Fine,40.30,1,2
+Prima Rundstykker,29.90,600
+Rundstykker Grove,17.10,300
+Baguetter Fine,12.00,300
+Ciabatta 4pk,16.80,250
+Rundstykker Fine,14.10,300
+Minibaguetter Grove,27.20,600
+Baguetter Grove,12.10,300
+Hvetebriks 8pk,34.30,560
+Møllehjul,20.10,220
+Ciabatta Grove,28.20,4

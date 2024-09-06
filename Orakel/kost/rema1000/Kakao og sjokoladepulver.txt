@@ -1,0 +1,2 @@
+Kakao,29.40,250
+Sjokoladepulver,34.60,800

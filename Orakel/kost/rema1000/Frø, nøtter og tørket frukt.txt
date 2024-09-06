@@ -1,0 +1,21 @@
+Valnøttkjerner,40.00,200
+Cashewnøtter,10.90,55
+Cashewnøtter,26.60,175
+Peanøtter,15.90,275
+Nøtte- & Fruktmix,30.40,600
+Rosiner,22.20,249
+Hasselnøttkjerner,38.00,250
+Svisker,27.90,227
+Pistasjnøtter,45.60,175
+Kokosmasse,21.00,250
+Chilinøtter,22.50,175
+Solsikkefrø,23.20,1
+Mandler,11.00,50
+Pekannøtter med Honning,35.30,100
+Nøtte- og Fruktmix,10.90,60
+Cashewnøtter med Salt & Pepper,31.20,150
+Turmix med Sjokolade,10.90,50
+Tørkede Erter Gule,11.40,500
+Krydret snackmix,26.20,180
+Premium nøtteblanding med havsalt,52.10,200
+Tørkede Erter Grønne,10.90,500

@@ -1,0 +1,406 @@
+#Navn #Pris #Mengde #Før #Butikk 
+Rømme 39%,39.90,250 g, None, Meny
+Cottage Cheese,36.90,280 g, None, Meny
+Røros Yoghurt,29.90,470 g, None, Meny
+Gårdsegg,33.50,366 g, None, Meny
+Egg Økologisk,43.00,375 g, None, Meny
+Smør,56.90,250 g, None, Meny
+Lettmelk 1,0%,22.40,1000 ml, None, Meny
+Frokostegg,31.50,816 g, None, Meny
+Helmelk,23.50,1000 ml, None, Meny
+Lettmelk 0,5%,20.40,1000 ml, None, Meny
+Lettmelk 0,5%,20.00,1000 ml, None, Meny
+Cottage Cheese,24.90,400 g, 31.50, Meny
+Meierismør,49.60,500 g, None, Meny
+Egg Frittgående,29.50,378 g, None, Meny
+Lettmelk 1%,22.00,1000 ml, None, Meny
+Helmelk,23.10,1000 ml, None, Meny
+Skummet Melk,19.90,1000 ml, None, Meny
+Lettmelk 0,5%,31.50,1750 ml, None, Meny
+Skummet Melk,20.30,1000 ml, None, Meny
+Lettmelk 0,5%,31.90,1750 ml, None, Meny
+Lettmelk 1,0%,35.20,1750 ml, None, Meny
+Kremfløte 37%,24.50,300 ml, None, Meny
+Matfløte 18%,23.50,300 ml, None, Meny
+Yoghurt Naturell,22.90,850 g, 25.90, Meny
+Kremfløte,23.50,300 ml, None, Meny
+Lettrømme 17%,20.30,300 g, None, Meny
+Lettrømme 17%,19.30,300 g, None, Meny
+Egg Frittgående,39.90,1062 g, None, Meny
+Yt Restitusjon,24.90,330 ml, None, Meny
+Skyr Mini,15.90,90 g, None, Meny
+Helmelk,15.90,500 ml, None, Meny
+Gårdsegg,38.90,450 g, None, Meny
+Lettrømme 17%,24.90,300 g, None, Meny
+Lettmelk 0,5%,31.30,1000 ml, None, Meny
+Lettmelk 1%,30.90,1000 ml, None, Meny
+Skyr Mini,15.90,90 g, None, Meny
+Yoghurt Vanilje,22.90,1000 g, 32.90, Meny
+Egg Frittgående,59.90,784 g, None, Meny
+Lettmelk 1%,34.50,1750 ml, None, Meny
+Vita Hjertego,34.20,370 g, None, Meny
+Yoghurt Mango,22.90,850 g, 34.90, Meny
+Skyr Mini,15.90,90 g, None, Meny
+Helmelk,39.50,1750 ml, None, Meny
+Skyr Mini,15.90,90 g, None, Meny
+Cottage Cheese,24.90,400 g, 34.90, Meny
+Seterrømme 35%,31.90,300 g, None, Meny
+Lettrømme 10%,20.90,300 g, None, Meny
+Kefir,29.90,1000 g, None, Meny
+Drømmelett 5%,18.50,300 g, None, Meny
+Lettmjølk 1,2%,22.40,1000 ml, None, Meny
+Biola Syrnet Melk,29.60,1000 g, None, Meny
+Biola Syrnet Melk,29.90,1000 g, None, Meny
+Meierismør,34.90,250 g, None, Meny
+Helmjølk,24.90,1000 ml, None, Meny
+Yoghurt Vanilje,22.90,850 g, 25.90, Meny
+Havredrikk,24.90,1000 ml, None, Meny
+Bremykt,52.50,500 g, None, Meny
+Creme Fraiche,25.50,300 g, None, Meny
+Skyr Drikke,46.90,1000 ml, None, Meny
+Bremykt,45.90,500 g, None, Meny
+Melange Margarin,29.90,500 g, None, Meny
+Kefir,31.90,1000 ml, None, Meny
+Kefir,31.90,1000 ml, None, Meny
+Egg Økologisk,23.50,380 g, None, Meny
+Skyr Aktiv,21.90,125 g, None, Meny
+Soyagurt,55.80,500 g, None, Meny
+Yt Proteinshake,24.90,220 ml, None, Meny
+Yt Proteinmelk,24.90,330 ml, None, Meny
+Skyr Aktiv,21.90,125 g, None, Meny
+Meierismør,3.80,1 stk, None, Meny
+Yt Proteinyoghurt,24.90,200 g, None, Meny
+Gryr Havredrikk,35.40,1000 ml, None, Meny
+Yt Proteinshake,19.90,220 ml, None, Meny
+Yt Proteinyoghurt,24.90,200 g, None, Meny
+Gryr Havredrikk,36.50,1000 ml, None, Meny
+Havregurt,41.90,400 g, None, Meny
+Yt Proteinmelk,46.90,1000 ml, None, Meny
+Yt Proteinmelk,39.90,1000 ml, None, Meny
+Imat Fraiche,35.90,200 ml, None, Meny
+Yt Proteinshake,24.90,220 ml, None, Meny
+Propud Milkshake,34.90,330 ml, None, Meny
+Propud Milkshake,34.90,330 ml, None, Meny
+Propud Milkshake,34.90,330 ml, None, Meny
+Propud Milkshake,34.90,330 ml, None, Meny
+Skyr,19.90,160 g, None, Meny
+Matlag Havrebasert,24.90,250 ml, None, Meny
+Lettmelk 0,5%,15.80,500 ml, None, Meny
+Havredrikk,39.50,1000 ml, None, Meny
+Nyt Yoghurt,16.90,122 g, None, Meny
+Havregurt,32.90,400 ml, None, Meny
+Nyt Yoghurt,16.90,119 g, None, Meny
+Frokostyoghurt,15.90,125 g, None, Meny
+Yt Restitusjon,24.90,330 ml, None, Meny
+Din Skyr,21.90,160 g, None, Meny
+Frokostyoghurt,15.90,125 g, None, Meny
+Yt Protein Yoghurt,29.90,430 g, None, Meny
+Skyr,19.90,160 g, None, Meny
+Sjokomelk,12.50,250 ml, None, Meny
+Biola Syrnet Melk,41.90,1000 g, None, Meny
+Nyt Yoghurt,16.90,120 g, None, Meny
+Meierismør,41.90,250 g, None, Meny
+Creme Fraiche,31.90,300 g, None, Meny
+Havredrikk,31.90,1000 ml, None, Meny
+Skyr Luftig,18.90,130 g, None, Meny
+Creme Fraiche,41.30,300 g, None, Meny
+Skyr Salt Karamell,18.90,160 g, None, Meny
+Frokostyoghurt,15.90,125 g, None, Meny
+Smøremyk,56.90,400 g, None, Meny
+Brelett,28.60,250 g, None, Meny
+Sjokolademelk,36.90,1000 ml, None, Meny
+Eggehvite,47.80,500 ml, None, Meny
+Junior Yoghurt Jordbær,12.90,90 g, None, Meny
+Yoghurt Vanilje,29.90,500 g, None, Meny
+Hvitløkssmør,23.40,65 g, None, Meny
+Rømmedipp 10%,29.90,300 g, None, Meny
+Danonino Yoghurt,11.50,70 g, None, Meny
+Kesam Mager,33.90,300 g, None, Meny
+Kryddersmør,23.40,65 g, None, Meny
+Biola Syrnet Melk,41.90,1000 g, None, Meny
+Propud Milkshake,29.90,330 ml, None, Meny
+Milkshake,18.90,220 ml, None, Meny
+Soyagurt,41.30,500 g, None, Meny
+Cottage Cheese,44.90,400 g, None, Meny
+Litago Sjokomelk,20.90,500 ml, None, Meny
+Litago Melk,21.90,500 ml, None, Meny
+Urtesmør,21.90,65 g, None, Meny
+Gourmet Butter,49.90,250 g, None, Meny
+Litago Melk,19.90,500 ml, None, Meny
+Yoghurt Naturell,25.90,500 g, None, Meny
+Cocio Delight,16.90,250 ml, None, Meny
+Egg Frittgående,56.90,720 g, None, Meny
+Egg Økologisk,77.70,756 g, None, Meny
+Soft Flora Spesial,54.90,380 g, None, Meny
+Vita Hjertego,45.90,370 g, None, Meny
+Soft Flora,41.90,400 g, None, Meny
+Egg Frittgående,76.00,1500 g, None, Meny
+Yokos Naturell,48.80,350 g, None, Meny
+Helmelk,36.90,1000 ml, None, Meny
+Mylk Havre&Mandel,45.00,1000 ml, None, Meny
+Egg Økologisk,39.00,380 g, None, Meny
+Skyr,18.90,160 g, None, Meny
+Soyadrikk Vanilje,47.90,1000 ml, None, Meny
+Yoghurt Nyt,32.90,500 g, None, Meny
+Smør Laktosefritt,42.50,250 g, None, Meny
+Yokos Vanilje,32.70,137 g, None, Meny
+Skyr,39.90,450 g, None, Meny
+Smør 1% Havsalt,48.90,200 g, None, Meny
+Soyadrikk,38.30,1000 ml, None, Meny
+Yoghurt Gresk,32.90,158 g, None, Meny
+Skyr,39.90,450 g, None, Meny
+Gårdsegg,33.50,366 g, None, Meny
+Go Morgen Yoghurt,34.90,730 g, None, Meny
+Litago Melk,34.50,1000 ml, None, Meny
+Yt Protein Yoghurt,29.90,430 g, None, Meny
+Yoghurt Gresk,27.30,165 g, None, Meny
+Junior Yoghurt,12.90,90 g, None, Meny
+Biola Syrnet Melk,41.90,1000 g, None, Meny
+Skyr,44.90,500 g, None, Meny
+Gryr til Matlaging,27.90,300 ml, None, Meny
+Kaffefløte 10%,26.60,300 ml, None, Meny
+Egg Frittgående,31.90,387 g, None, Meny
+Activia Yoghurt,34.90,500 g, None, Meny
+Yoghurt Gresk,34.90,350 g, None, Meny
+Go Morgen Yoghurt,34.90,730 g, None, Meny
+Kesam,29.90,300 g, None, Meny
+Bremykt,39.90,250 g, None, Meny
+Smørelett,21.40,400 g, None, Meny
+Mandeldrikk,43.70,1000 ml, None, Meny
+Yoghurt Skogsbær,24.90,500 g, None, Meny
+Yoghurt Kirsebær,26.90,500 g, None, Meny
+Nyt Yoghurt,27.90,500 g, None, Meny
+Egg Økologisk,69.50,630 g, None, Meny
+Egg Økologisk,62.90,690 g, None, Meny
+Yoghurt Laktosefri,28.50,500 g, None, Meny
+Yoghurt Melon,26.90,600 g, None, Meny
+Vita Hjertego,65.30,250 g, None, Meny
+Activia Yoghurt,37.90,500 g, None, Meny
+Cocio Classic,17.90,200 ml, None, Meny
+Sjokolademelk,22.90,500 ml, None, Meny
+Litago Melk,21.90,500 ml, None, Meny
+Lettmelk 1,2%,32.50,1000 ml, None, Meny
+Yoplait Double,29.90,500 g, None, Meny
+Yoplait Double,29.90,500 g, None, Meny
+Yoghurt Gresk,35.90,350 g, None, Meny
+Yoplait Double,29.90,500 g, None, Meny
+Frokostyoghurt,36.90,800 g, None, Meny
+Yoghurt Fersken,22.90,500 g, None, Meny
+Yoghurt Jordbær,26.90,600 g, None, Meny
+Egg Økologisk,43.00,375 g, None, Meny
+Yoghurt Gresk Duo,28.90,165 g, None, Meny
+Kviteseidsmør,79.90,450 g, None, Meny
+Egg Økologisk,46.60,378 g, None, Meny
+Yoghurt Naturell,22.90,1000 g, 29.90, Meny
+Kremtopp 33%,49.90,250 ml, None, Meny
+Yoghurt Gresk,28.90,160 g, None, Meny
+Havredrikk,29.90,1000 ml, None, Meny
+Yoghurt Jordbær,22.90,850 g, 34.90, Meny
+Risdrikk Original,38.20,1000 ml, None, Meny
+Egg Frittgående,49.90,756 g, None, Meny
+Smør,56.90,250 g, None, Meny
+Planti,23.90,200 g, None, Meny
+Egg Økologisk,61.90,540 g, None, Meny
+Egg,29.90,378 g, None, Meny
+Smør Setertype,41.70,250 g, None, Meny
+Activia Yoghurt,34.90,500 g, None, Meny
+Sjokomelk,29.90,1000 ml, None, Meny
+Vita Hjertego,63.50,540 g, None, Meny
+Frokostyoghurt,31.90,800 g, None, Meny
+Yoplait Double,33.90,500 g, None, Meny
+Matfløte 18%,29.30,300 ml, None, Meny
+Biola Syrnet Melk,42.90,1000 g, None, Meny
+Danonino Drikke,38.50,400 g, None, Meny
+Yoghurt Gresk,34.90,350 g, None, Meny
+Yoghurt Grekisk,69.90,1000 g, None, Meny
+Skyr Luftig,18.90,130 g, None, Meny
+Skyr Mini,15.90,90 g, None, Meny
+Smøremyk,39.40,600 g, None, Meny
+Skyr Luftig,18.90,130 g, None, Meny
+Yoghurt Gresk Type,46.50,850 g, None, Meny
+Cocio Classic,23.50,400 ml, None, Meny
+Yoghurt,37.30,800 g, None, Meny
+Yoghurt Gresk Duo,28.90,160 g, None, Meny
+Junior Yoghurt,42.90,1000 g, None, Meny
+Smør Usaltet,36.90,250 g, None, Meny
+Soft Flora,37.90,540 g, None, Meny
+Brelett,39.90,540 g, None, Meny
+Skummet Kulturmelk,25.50,1000 g, None, Meny
+Danonino Yoghurt,9.90,70 g, None, Meny
+Yoplait Double 0%,33.90,500 g, None, Meny
+Yoghurt Skogsbær,25.50,600 g, None, Meny
+Soft Flora,43.90,500 g, None, Meny
+Melange Flytende,39.90,500 ml, None, Meny
+Tinemelk Sjokolade,29.90,1000 ml, None, Meny
+Syrna Mjølk Blå,34.90,996 g, None, Meny
+Skyr,17.90,160 g, None, Meny
+Krem Topping,39.90,250 ml, None, Meny
+Go Morgen Yoghurt,14.90,190 g, None, Meny
+Kesam Mager,21.90,300 g, None, Meny
+Kesam,27.90,300 g, None, Meny
+Danonino Yoghurt,25.90,300 g, None, Meny
+Frokostyoghurt,36.90,800 g, None, Meny
+Melk m/Vanilje,28.90,1000 ml, None, Meny
+Sjokolademelk,29.90,1000 ml, None, Meny
+Go Morgen Yoghurt,16.90,190 g, None, Meny
+Soft Flora,44.90,540 g, None, Meny
+Matfløte Lett 10%,22.90,300 ml, None, Meny
+Sjokolademelk,29.90,1000 ml, None, Meny
+Kesam Mager,34.90,420 g, None, Meny
+Gryr Smøreblid,34.90,250 g, None, Meny
+Røros Yoghurt,29.90,470 g, None, Meny
+Creme Fraiche,26.90,250 ml, None, Meny
+Soyadrikk Usøtet,29.30,1000 ml, None, Meny
+Rømme 39%,39.90,250 g, None, Meny
+Litago Melk,17.90,500 ml, None, Meny
+Biola Syrnet Melk,19.90,300 g, None, Meny
+Kokosdrikk,49.50,1000 ml, None, Meny
+Lettrømme 17%,25.90,300 g, None, Meny
+Biola Syrnet Melk,20.90,300 g, None, Meny
+Skyr,17.90,160 g, None, Meny
+Melange Flytende,38.90,500 ml, None, Meny
+Skyr,44.90,500 g, None, Meny
+Yoghurt Vanilje,25.50,600 g, None, Meny
+Kremfløte 37%,27.50,300 ml, None, Meny
+Cottage Cheese,36.90,280 g, None, Meny
+Drikkeyoghurt,34.90,400 g, None, Meny
+Go Morgen Yoghurt,13.90,190 g, None, Meny
+Yoghurt Sviske,23.50,600 g, None, Meny
+Røros Yoghurt,29.90,470 g, None, Meny
+Yoghurt Sesong,41.90,1200 g, None, Meny
+Skyr,17.90,160 g, None, Meny
+Lettrømme 10%,19.90,254 g, None, Meny
+Mandeldrikk,34.70,1000 ml, None, Meny
+Coconut Drikk,42.50,1000 ml, None, Meny
+Havredrikk,24.90,1000 ml, None, Meny
+Røros Yoghurt,29.90,470 g, None, Meny
+Bremykt,39.90,390 g, None, Meny
+Soyadrikk,28.50,1000 ml, None, Meny
+Melange Margarin,69.90,1000 g, None, Meny
+Margarin Flytende,25.90,500 ml, None, Meny
+Sjokolademelk,20.90,500 ml, None, Meny
+Fløte,29.90,300 ml, None, Meny
+Gårdsmjølk 1,5%,27.90,1000 ml, None, Meny
+Margarin Flytende,39.90,500 ml, None, Meny
+Lettmjølk 0,7%,21.60,1000 ml, None, Meny
+Skyr Drikke,46.90,1000 ml, None, Meny
+Skummet Mjølk,22.90,1000 ml, None, Meny
+Yoghurt Gresk,64.50,750 g, None, Meny
+Kremfløte 37%,44.90,750 ml, None, Meny
+Biola Syrnet Melk,30.90,1000 g, None, Meny
+Creme Fraiche,24.50,300 g, None, Meny
+Gårdsegg M/L,37.90,780 g, None, Meny
+Go Morgen Yoghurt,15.40,190 g, None, Meny
+Margarin Flytende,35.90,500 ml, None, Meny
+Kulturmelk,21.90,1000 g, None, Meny
+Yoghurt Nyt,22.90,500 g, None, Meny
+Q Mix Yoghurt,17.50,135 g, None, Meny
+Biola Syrnet Melk,26.90,1000 g, None, Meny
+Yoplait Safari,38.90,1000 g, None, Meny
+Creme Fraiche,23.90,300 g, None, Meny
+Frokostyoghurt,30.90,800 g, None, Meny
+Q Mix Yoghurt,14.90,135 g, None, Meny
+Q Mix Yoghurt,16.80,135 g, None, Meny
+Go Morgen Yoghurt,10.40,190 g, None, Meny
+Go Morgen Yoghurt,10.40,190 g, None, Meny
+Go Morgen Yoghurt,10.40,190 g, None, Meny
+Go Morgen Yoghurt,12.90,125 g, None, Meny
+Sjokomelk,29.90,1000 ml, None, Meny
+Go Morgen Yoghurt,10.40,190 g, None, Meny
+Go'Morgen Yoghurt,12.90,125 g, None, Meny
+Yoplait Double,33.90,500 g, None, Meny
+Go'Morgen Yoghurt,11.90,125 g, None, Meny
+Kesam,22.90,300 g, None, Meny
+Matlag Soyabasert,35.90,250 ml, None, Meny
+Havredrikk,15.90,250 ml, None, Meny
+Matlag Soyabasert,39.70,250 ml, None, Meny
+Rømmekolle,21.90,175 g, None, Meny
+Imat Visp,32.90,250 ml, None, Meny
+Soyagurt Go On,26.30,150 g, None, Meny
+Proteinpudding,26.90,200 g, None, Meny
+Plantemargarin,49.90,400 g, None, Meny
+Soyagurt Go On,26.30,150 g, None, Meny
+Soyagurt,41.90,400 g, None, Meny
+Soyagurt Go On,24.80,150 g, None, Meny
+Yoghurt Gresk,28.30,150 g, None, Meny
+Havredrikk,14.90,250 ml, None, Meny
+Havregurt,32.90,400 ml, None, Meny
+Havredrikk,28.50,500 ml, None, Meny
+Oatsn Yoghurt,34.90,200 g, None, Meny
+Havredrikk,40.60,1000 ml, None, Meny
+Soyadrikk,17.30,250 ml, None, Meny
+Soyadrikk,43.30,1000 ml, None, Meny
+Kaffedrikk,28.20,235 ml, None, Meny
+Mylk Barista,44.60,1000 ml, None, Meny
+Topping,43.60,200 ml, None, Meny
+Proteindrikk,23.90,250 g, None, Meny
+Mylk Havre,44.20,1000 ml, None, Meny
+Yokos Mango,62.40,350 g, None, Meny
+Risdrikk,43.40,1000 ml, None, Meny
+Oatsn Yoghurt,34.90,200 g, None, Meny
+Melange Margarin,46.30,500 g, None, Meny
+Kaffedrikk,28.70,235 ml, None, Meny
+Kokosgurt,49.90,350 g, None, Meny
+Yoghurt Gresk,47.90,350 g, None, Meny
+Mandeldrikk,42.80,1000 ml, None, Meny
+Soyagurt,32.90,500 g, None, Meny
+Formfett,49.90,175 ml, None, Meny
+Biffsmør Pepper,21.90,65 g, None, Meny
+Geitmelk,16.50,300 ml, None, Meny
+Yokos Vanile,54.00,350 g, None, Meny
+Milkshake,17.90,220 ml, None, Meny
+Kokosdrikk,32.00,1000 ml, None, Meny
+Andeegg,59.90,540 g, None, Meny
+Plantgurt,46.90,750 g, None, Meny
+Helmelk,39.50,1000 ml, None, Meny
+Lettmjølk Fersk,35.90,1000 ml, None, Meny
+Yoghurt Gresk,29.90,375 g, None, Meny
+Soyagurt,37.90,400 g, None, Meny
+Topping Hvit,42.90,250 ml, None, Meny
+Yoghurt,47.70,225 g, None, Meny
+Kryddersmør,39.90,100 g, None, Meny
+Sjokolademelk,36.90,1000 ml, None, Meny
+Delfia Kokosfett,44.60,250 g, None, Meny
+Smør Setertype,77.90,500 g, None, Meny
+Egg Frie Høner,61.90,774 g, None, Meny
+Plantgurt,46.90,750 g, None, Meny
+Kryddersmør,38.90,100 g, None, Meny
+Vaktelegg,80.00,160 g, None, Meny
+Yoghurt Bringebær,46.90,225 g, None, Meny
+Skjørost,29.90,160 g, None, Meny
+Skyr Mini,64.90,540 ml, None, Meny
+Yoghurt Naturell,107.00,2060 g, None, Meny
+Tjukkmjølk,41.90,1022 g, None, Meny
+Røros Yoghurt,29.90,470 g, None, Meny
+Havre Barista,37.10,1000 ml, None, Meny
+Tyttebærrømme,59.90,175 g, None, Meny
+Tjukkmjølk 1,5%,39.90,1034 g, None, Meny
+Olivero,42.70,400 g, None, Meny
+Havredrikk,33.30,1000 ml, None, Meny
+Bordmargarin,16.90,400 g, None, Meny
+Stekemargarin,20.90,500 g, None, Meny
+Soyadrikk Naturell,46.20,1000 ml, None, Meny
+Mandel Barista,49.90,1000 ml, None, Meny
+Plantgurt,49.90,750 g, None, Meny
+Bakemjølk,24.90,1000 ml, None, Meny
+Fløte Kokestabil,91.00,1000 ml, None, Meny
+Egg Frittgående,29.30,392 g, None, Meny
+Truffle Butter,89.00,477 g, None, Meny
+Havredrikk,33.30,1000 ml, None, Meny
+Yoghurt Bjørnebær,46.90,225 g, None, Meny
+Nyr Ferskost,49.90,225 g, None, Meny
+Gårdsegg Flytende,47.20,500 g, None, Meny
+Rugdrikk Nordisk,44.90,1000 ml, None, Meny
+Mylk Havre,47.60,1000 ml, None, Meny
+Flott Matfett,79.90,500 g, None, Meny
+Soyagurt,44.70,500 g, None, Meny
+Yoghurt Tyrkisk,41.90,500 g, None, Meny
+Yoghurt Gresk,29.90,158 g, None, Meny
+Gårdsegg L,52.90,680 g, None, Meny
+Yoghurt Tyrkisk,75.60,1000 g, None, Meny
+Yoghurt Vanilje,22.90,500 g, None, Meny
+Røros Yoghurt,29.90,470 g, None, Meny
+Go Morgen Yoghurt,15.90,190 g, None, Meny
+Risdrikk,41.70,1000 ml, None, Meny
+Yoghurt Grekisk,41.90,500 g, None, Meny
+Frokostyoghurt,36.90,800 g, None, Meny

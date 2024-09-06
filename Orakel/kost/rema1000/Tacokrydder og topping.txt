@@ -1,0 +1,7 @@
+GUACAMOLE MILD,30.20,150
+Jalapeños,9.60,120
+Taco Spice Mix Mild,2.00,40
+Kryddermiks Kylling,5.10,30
+Jalapeños Rød i Skiver,18.50,220
+Taco Spice Mix,8.70,40
+Kryddermiks Kjøtt,5.10,30

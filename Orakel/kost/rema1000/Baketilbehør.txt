@@ -1,0 +1,6 @@
+Kokesjokolade Mørk,9.90,100
+Kokosmasse,19.90,250
+Kokesjokolade Lys,9.90,100
+Marsipan,29.90,500
+Cocktailbær,39.90,230
+Muffinsformer med Stickers,20.70,20

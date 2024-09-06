@@ -1,0 +1,94 @@
+#Navn #Pris #Mengde #Før #Butikk 
+Andebryst,149.70,300 g, None, Meny
+Kyllingfilet,70.90,180 g, None, Meny
+Kyllingbryst,87.00,240 g, None, Meny
+Kylling hel,214.20,1800 g, None, Meny
+Kylling Overlår,104.00,600 g, None, Meny
+Kylling 1/1,95.00,1 stk, None, Meny
+Kylling 1/2,47.50,1 stk, None, Meny
+Kyllingfilet,114.00,650 g, None, Meny
+Kyllingklubbe,17.10,100 g, None, Meny
+Kyllingfilet,94.00,425 g, None, Meny
+Kyllingfilet,92.00,400 g, None, Meny
+Kylling Overlår,104.00,600 g, None, Meny
+Kylling 1/2,47.50,1 stk, None, Meny
+Kyllingfilet,66.50,200 g, None, Meny
+Kyllinglår,58.50,280 g, None, Meny
+Kyllingfilet,69.30,200 g, None, Meny
+Kyllingfilet Stekt,65.70,200 g, None, Meny
+Kylling Lårfilet,59.90,200 g, None, Meny
+Kyllingvinger,67.90,500 g, None, Meny
+Kylling Lårfilet,129.00,600 g, None, Meny
+Kylling,95.00,1 stk, None, Meny
+Kyllinglår,159.00,1120 g, None, Meny
+Kyllingfilet Stekt,57.90,200 g, None, Meny
+Kyllingstrimler,29.33,100 g, 41.90, Meny
+Høne hel,74.50,850 g, None, Meny
+Kyllingfilet,51.90,210 g, None, Meny
+Andebryst,149.70,300 g, None, Meny
+Kyllingbryst,220.00,500 g, None, Meny
+Kyllinglår,78.00,400 g, None, Meny
+Kyllingklubber,69.90,1200 g, None, Meny
+Kyllinglår,66.40,400 g, None, Meny
+Kylling Lårfilet,44.90,240 g, None, Meny
+Kylling hel,143.55,1650 g, None, Meny
+Kyllingfilet,139.00,600 g, None, Meny
+Kyllingbryst,152.55,450 g, None, Meny
+Kyllingfilet,56.90,200 g, None, Meny
+Kyllinglår,90.00,850 g, None, Meny
+Andelår,55.50,250 g, None, Meny
+Kyllingvinger,79.90,1200 g, None, Meny
+Kyllingbryst,87.00,240 g, None, Meny
+Kylling hel,214.20,1800 g, None, Meny
+Kyllingfilet,199.00,1400 g, None, Meny
+Kalkunbryst,316.80,1600 g, None, Meny
+Kyllinglever,61.90,500 g, None, Meny
+Pulled Chicken,99.00,400 g, None, Meny
+Kylling Lårfilet,56.90,200 g, None, Meny
+Andeconfit,175.00,500 g, None, Meny
+Gullhøne Stor,182.25,2700 g, None, Meny
+Kyllingburger,80.00,300 g, None, Meny
+Kylling hel Rå,411.40,2200 g, None, Meny
+Kyllingbryst,99.00,180 g, None, Meny
+Andeklubber,32.20,400 g, None, Meny
+Kylling Middag,95.00,350 g, None, Meny
+Kyllingvinger,72.00,450 g, None, Meny
+Kyllingvinger,83.25,450 g, None, Meny
+Kyllinglever,67.05,450 g, None, Meny
+Andefett,53.80,240 g, None, Meny
+Andelever,59.85,450 g, None, Meny
+And Lår,56.10,300 g, None, Meny
+Kyllingfilet,70.90,180 g, None, Meny
+Kalkunfilet,238.00,750 g, None, Meny
+Kyllingconfit,99.00,500 g, None, Meny
+Kyllinglever,65.70,450 g, None, Meny
+Kyllinglår,52.90,270 g, None, Meny
+Kylling hel,345.40,2200 g, None, Meny
+Kylling Lårfilet,64.50,300 g, None, Meny
+And Bryst,140.70,300 g, None, Meny
+Andevinger,30.76,400 g, None, Meny
+Kyllingklubber,83.25,450 g, None, Meny
+Kyllingbryst,73.90,240 g, None, Meny
+Kyllingklubber,72.45,450 g, None, Meny
+Kylling Middag,99.90,350 g, None, Meny
+Kalkun Lårsteik,84.00,500 g, None, Meny
+Kylling,139.00,2000 g, None, Meny
+Gås hel,940.00,5000 g, None, Meny
+Kyllingskrog,46.00,1000 g, None, Meny
+Andefett,55.90,180 g, None, Meny
+And hel,459.00,3000 g, None, Meny
+Snack King,60.00,285 g, None, Meny
+Rypebryst,420.00,500 g, None, Meny
+Kylling Salatkjøtt,107.00,350 g, None, Meny
+Kylling Vingeklubb,57.50,500 g, None, Meny
+Kyllingfilet,279.00,2000 g, None, Meny
+Kylling Overlår,97.00,600 g, None, Meny
+Kylling Lårfilet,61.60,180 g, None, Meny
+Kylling Lårklubber,102.00,600 g, None, Meny
+Kylling Lårfilet,109.00,500 g, None, Meny
+Kylling Lårfilet,53.90,300 g, None, Meny
+And,409.00,2500 g, None, Meny
+Kyllingfilet,195.00,950 g, None, Meny
+Rype,199.00,1 stk, None, Meny
+And hel,450.00,2500 g, None, Meny
+Kyllingfilet,218.00,1000 g, None, Meny

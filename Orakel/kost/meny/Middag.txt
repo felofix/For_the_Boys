@@ -1,0 +1,950 @@
+#Navn #Pris #Mengde #Før #Butikk 
+Pulled Pork,229.00,1 stk, None, Meny
+Sopp Pasta,229.00,1 stk, None, Meny
+Fløtepoteter,546.00,3000 g, None, Meny
+Karbonader Brimis,59.90,490 g, 105.00, Meny
+Brokkolisalat,179.00,1 stk, None, Meny
+Biffgryte,59.90,450 g, 95.00, Meny
+Lasagne Vår Egen,447.00,3000 g, 597.00, Meny
+Laks & Pasta,39.90,350 g, 59.90, Meny
+Fiskeboller,49.90,500 g, 69.90, Meny
+Betasuppe Brimis,39.90,350 g, 53.40, Meny
+Tortelloni,37.90,250 g, None, Meny
+Pasta,39.90,350 g, 51.50, Meny
+Koljekaker,15.00,95 g, None, Meny
+Fiskekaker,15.00,95 g, None, Meny
+Fiskesuppe,79.90,1 stk, None, Meny
+Kapteinens Fylte,49.90,250 g, None, Meny
+Fiskegrateng,68.40,540 g, None, Meny
+Peppes Pizza,46.13,545 g, 65.90, Meny
+Tomatsuppe,22.50,1 stk, None, Meny
+Fish&Crisp,75.90,480 g, None, Meny
+Tortilla,11.90,320 g, None, Meny
+Fiskegrateng,25.50,390 g, None, Meny
+Kjøttkaker,41.90,605 g, 45.70, Meny
+Kylling Mango Bowl,59.90,350 g, None, Meny
+Fajita Spice Mix,25.30,28 g, None, Meny
+Pasta Linguine,29.90,500 g, None, Meny
+Wholewheat Noodles,35.90,200 g, None, Meny
+Glassnudler,37.90,100 g, None, Meny
+Tortillas Whole Wheat,46.40,326 g, None, Meny
+Gresk Salat,169.00,1 stk, None, Meny
+Skogsoppsuppe,39.90,1 stk, None, Meny
+Taco Sauce Mild,29.90,230 g, None, Meny
+Løkringer,34.90,300 g, None, Meny
+Doritos Nacho,52.90,170 g, None, Meny
+Penne Rigate,43.10,500 g, None, Meny
+Ertesuppe Svensk,39.90,1 stk, None, Meny
+Pasta Arrabiata,203.00,1 stk, None, Meny
+Noodle Bowl,19.90,1 stk, None, Meny
+Ramen Noodles,35.90,200 g, None, Meny
+Ostepai,69.90,220 g, None, Meny
+Blomkål&Broccoli,39.90,1 stk, None, Meny
+Skogsoppsuppe,15.50,1 stk, None, Meny
+Suppe Szechuan,14.90,1 stk, None, Meny
+Crispy Chicken,29.80,50 g, None, Meny
+Bali Nudelsuppe,15.50,1 stk, None, Meny
+Pytt i Panne,585.00,3000 g, None, Meny
+Noodle Bowl,18.90,1 stk, None, Meny
+Brokkolisalat,179.00,1 stk, None, Meny
+Mac' N Cheese,189.00,1 stk, None, Meny
+Kyllinggryte,119.00,400 g, None, Meny
+Tagliatelle,37.40,250 g, None, Meny
+Mango Papaya Salsa,33.90,230 g, None, Meny
+Potetstappe,44.90,450 g, None, Meny
+Fiskegrateng,84.00,380 g, None, Meny
+Lasagneplater,29.90,500 g, None, Meny
+Laks Teriyaki,104.00,450 g, None, Meny
+Lasagne Gul,46.90,500 g, None, Meny
+Salsa Chunky,28.90,230 g, None, Meny
+Tortelloni,39.90,250 g, None, Meny
+Egg Noodles,25.90,200 g, None, Meny
+Tom Kha Gai Suppe,14.70,1 stk, None, Meny
+Criss Cross Fries,56.70,450 g, None, Meny
+Farfalle Tricolore,29.80,500 g, None, Meny
+Pannekaker,49.10,600 g, None, Meny
+Pannekaker,44.20,480 g, None, Meny
+Kyllinggryte,118.00,430 g, None, Meny
+Sardiner i Tomat,27.90,106 g, None, Meny
+Pommes Express,26.90,450 g, None, Meny
+Tortilla Chips,44.90,185 g, None, Meny
+Risgrøt,57.80,385 g, None, Meny
+Tortilla Chips,39.90,185 g, None, Meny
+Kapteinens Fylte,71.30,224 g, None, Meny
+Tortilla Chips,27.90,185 g, None, Meny
+Lobnobs,24.60,110 g, None, Meny
+Snack Pot Pasta,28.70,60 g, None, Meny
+Thai Chicken,69.90,500 g, None, Meny
+Potetmos,268.00,2000 g, None, Meny
+Omelett,209.00,1 stk, None, Meny
+Snack Pot Potato,28.70,51 g, None, Meny
+Tortelloni,35.00,250 g, None, Meny
+Hamburgere m/Brød,136.00,430 g, None, Meny
+Nacho Chips,25.90,185 g, None, Meny
+Surimi Crabsticks,36.30,120 g, None, Meny
+Chippy Chips,44.90,450 g, None, Meny
+Kjøttsuppe,42.90,1200 ml, None, Meny
+Fiskeburger,59.90,480 g, None, Meny
+Pasta Linguine,39.90,500 g, None, Meny
+Sushi Ris,52.70,500 g, None, Meny
+Risgrøt,38.80,470 g, None, Meny
+Biffsnadder,109.00,490 g, None, Meny
+Spinatsuppe,30.90,1000 ml, None, Meny
+Veggie Balls,56.20,300 g, None, Meny
+Pasta Gigli,34.90,500 g, None, Meny
+Pasta Casarecce,39.90,500 g, None, Meny
+Poteter Fløtegrat.,49.90,750 g, None, Meny
+Tagliatelle,25.90,250 g, None, Meny
+Fløtepudding Pølse,34.90,400 g, None, Meny
+Kjøttsuppe,39.90,350 g, 57.60, Meny
+Bacalaogryte,167.00,900 g, None, Meny
+Funkygine Pizza,62.90,370 g, None, Meny
+Proburger,63.30,250 g, None, Meny
+Piccolissima Pizza,63.90,216 g, None, Meny
+Tortilla,25.30,245 g, None, Meny
+Bacalao Ekte,143.00,1000 g, None, Meny
+Pasta Lumaconi,39.90,500 g, None, Meny
+Ristorante Pizza,64.90,1 stk, None, Meny
+Pasta Tubetti,39.90,500 g, None, Meny
+Potetbåter m/Skall,32.90,600 g, None, Meny
+Risgrøt,39.90,400 g, None, Meny
+Hot Pizza,109.00,665 g, None, Meny
+Shape Me! Minced,46.90,300 g, None, Meny
+Tortelloni,39.90,250 g, None, Meny
+Fiskesuppe,39.90,350 g, 53.90, Meny
+Casa Di Mama Pizza,74.60,410 g, None, Meny
+Ertesuppe,12.50,1 stk, None, Meny
+Røstipoteter,64.50,600 g, None, Meny
+Burrito,56.90,1 stk, None, Meny
+Svinesteaklets,58.90,300 g, None, Meny
+Quinoa,45.90,400 g, None, Meny
+Tomatsuppe,12.50,1 stk, None, Meny
+Burgers,38.90,240 g, None, Meny
+Kyllinggryte,45.50,1 stk, None, Meny
+Farfalle,31.90,500 g, None, Meny
+Spaghetti,94.00,400 g, None, Meny
+Pasta Fusilloni,38.50,500 g, None, Meny
+Pasta Conchiglie,39.90,500 g, None, Meny
+Tortilla Mix,44.50,185 g, None, Meny
+Pappardelle,55.10,500 g, None, Meny
+Peppes Pizza,46.83,335 g, 66.90, Meny
+Proteinpannekake,39.40,240 g, None, Meny
+Tortillas Xl,34.00,370 g, None, Meny
+Ristorante Pizza,63.90,1 stk, None, Meny
+Peppes Crunchy,55.93,460 g, 79.90, Meny
+Ristorante Pizza,63.90,1 stk, None, Meny
+Surimi Chunky,26.90,110 g, None, Meny
+Ristorante Pizza,64.90,350 g, None, Meny
+Thai Torsk,59.90,500 g, 99.00, Meny
+Pasta Fusilli,23.50,500 g, None, Meny
+Tomatsuppe,69.90,530 g, None, Meny
+Torsk Fylt,84.00,400 g, None, Meny
+Filetbiter,63.50,320 g, None, Meny
+Pølsegrateng,39.90,350 g, 59.90, Meny
+Kyllingspyd,29.90,1 stk, None, Meny
+Fusilli,31.40,500 g, None, Meny
+Chicken Chili Bowl,47.90,1 stk, None, Meny
+Fiskegrateng,77.50,530 g, None, Meny
+Nacho Chips,54.90,475 g, None, Meny
+Biff Stroganoff,478.00,2000 g, None, Meny
+Aspargessuppe,28.70,1 stk, None, Meny
+Torsk Sprøbakt,69.90,320 g, None, Meny
+Fløtepudding Rund,39.90,400 g, None, Meny
+Tortillas Large,41.60,192 g, None, Meny
+Gulrotsuppe,69.90,530 g, None, Meny
+Spice Mix Fajita,11.50,30 g, None, Meny
+Pasta Carbonara,64.90,600 g, None, Meny
+Tortilla Original,58.90,742 g, None, Meny
+Ristorante Pizza,61.90,320 g, None, Meny
+Ramensuppe,79.90,500 ml, None, Meny
+Tagliatelle,22.90,250 g, None, Meny
+Biff Stroganoff,88.00,460 g, None, Meny
+Crispy Duck Kit,219.00,1 stk, None, Meny
+Linguine Al Bronzo,27.90,400 g, None, Meny
+Grandiosa Pizza,83.00,455 g, None, Meny
+Pasta m/Tomatsaus,49.90,470 g, 69.90, Meny
+Fiskepudding,29.50,400 g, None, Meny
+Fiskekaker Hjerte,79.90,960 g, None, Meny
+Kyllingsuppe,11.90,1 stk, None, Meny
+Gyoza m/Reker,58.70,200 g, None, Meny
+Pasta,39.90,350 g, 59.90, Meny
+Havregrøt,24.90,370 g, None, Meny
+Fiskesuppe,29.00,1 stk, None, Meny
+Gnocchi,63.20,500 g, None, Meny
+Biff Stroganoff,71.90,480 g, None, Meny
+Taco Sauce Hot,20.90,230 g, None, Meny
+Lapskaus Lys,73.90,450 g, None, Meny
+Fish & Crisp,55.90,240 g, None, Meny
+Pai,47.50,220 g, None, Meny
+Taco Tubs Mini,34.30,86 g, None, Meny
+Kebabrull,53.90,1 stk, None, Meny
+Fiskeburger,75.30,360 g, None, Meny
+Småpoteter,44.90,350 g, None, Meny
+Wonton m/Reker Asc,62.90,185 g, None, Meny
+Risotto,56.90,250 g, None, Meny
+Peppes Pizza,41.93,325 g, 59.90, Meny
+Chili Con Carne,45.50,1 stk, None, Meny
+Elgkarbonader,75.90,470 g, None, Meny
+Fiskeboller,34.90,500 g, None, Meny
+Grønnsakssuppe,27.90,47 g, None, Meny
+Fusillon Al Bronzo,37.90,400 g, None, Meny
+Kyllingspyd,29.90,1 stk, None, Meny
+Fiskeburger,54.90,400 g, None, Meny
+Ristorante Pizza,59.90,1 stk, None, Meny
+Fiskefileter,60.90,380 g, None, Meny
+Salt Kjøtt Brimis,49.90,460 g, 74.50, Meny
+Fish&Crisp Nuggets,46.50,1 stk, None, Meny
+Peppes Crunchy,50.33,475 g, 71.90, Meny
+Fiskepudding,59.90,800 g, None, Meny
+Taco Salsa Medium,21.90,226 g, None, Meny
+Pasta Bolognese,26.90,1 stk, None, Meny
+Gyoza m/Kylling,54.90,200 g, None, Meny
+Oksekjøtt i Saus,115.00,580 g, None, Meny
+Risgrøt,29.90,460 g, None, Meny
+Kebabrull,53.90,1 stk, None, Meny
+Gyoza,53.30,200 g, None, Meny
+Potetmos,16.50,100 g, None, Meny
+Nudler,29.50,275 g, None, Meny
+Fisk Ovnsbakt,65.90,380 g, None, Meny
+Grandiosa Pizza,87.00,465 g, None, Meny
+Medisterkaker,79.90,540 g, None, Meny
+Pai,49.90,210 g, None, Meny
+Grandiosa Pizza,43.90,340 g, None, Meny
+Wienertoast,39.70,180 g, None, Meny
+Spaghetti Fullkorn,22.90,500 g, None, Meny
+Makaroni Fullkorn,24.90,500 g, 29.50, Meny
+Pizzabaguette,22.40,250 g, None, Meny
+Tortilla Original,29.50,371 g, None, Meny
+Spaghetti,22.90,250 g, None, Meny
+Ristorante Pizza,58.90,375 g, None, Meny
+Pai,42.90,220 g, None, Meny
+Guacamole,36.90,150 g, None, Meny
+Tunfisk Thai Chili,17.90,65 g, None, Meny
+Rice Noodles,27.90,180 g, None, Meny
+Wrap Taco Biff,77.60,265 g, None, Meny
+Indisk Tandoori,63.90,1 stk, None, Meny
+Spaghetti,46.90,500 g, None, Meny
+Peppes Pizza,57.40,525 g, 82.00, Meny
+Peppes Snackpizza,20.93,140 g, 29.90, Meny
+Potetstappe,38.90,600 g, None, Meny
+Pommes Frites,23.90,600 g, None, Meny
+Pannekaker,27.90,405 g, None, Meny
+Kjøttkaker Liten,68.60,355 g, None, Meny
+Indisk Tikka,78.90,500 g, None, Meny
+Poteter Kokte,25.90,375 g, None, Meny
+Reker i Majones,279.00,1 stk, None, Meny
+Nudler i Kopp,25.90,1 stk, None, Meny
+Fiskekaker,99.90,500 g, None, Meny
+Fiskekaker,110.00,600 g, None, Meny
+Grandiosa Pizza,76.90,505 g, None, Meny
+Middagskaker,59.90,565 g, 77.90, Meny
+Peppes Snackpizza,20.23,140 g, 28.90, Meny
+Mozzarella Sticks,42.50,250 g, None, Meny
+Big One Pizza,73.90,590 g, None, Meny
+Grandiosa Pizza,49.90,575 g, None, Meny
+Ristorante Pizza,57.90,1 stk, None, Meny
+Tortilla Chips,31.90,185 g, None, Meny
+Gnocchi,52.90,500 g, None, Meny
+Matpakkekaker,26.40,100 g, None, Meny
+Tortilla Original,23.50,320 g, None, Meny
+Fiskekaker,89.00,450 g, None, Meny
+Pizzabaguette,22.90,250 g, None, Meny
+Kylling Tikka,81.00,480 g, None, Meny
+Lasagne,65.70,300 g, None, Meny
+Peppes Snackpizza,18.83,140 g, 26.90, Meny
+Jasminris,43.90,500 g, None, Meny
+Basmatiris,78.00,2000 g, None, Meny
+Vilti,55.50,500 g, None, Meny
+Fullkornris,39.20,1000 g, None, Meny
+Fried Rice,28.90,400 g, None, Meny
+Spagetti Fullkorn,19.90,450 g, 24.50, Meny
+Torsk Fylt,73.90,400 g, None, Meny
+Rømmegrøt,33.90,350 g, None, Meny
+Lasagne,39.30,400 g, None, Meny
+Viltgryte,82.90,400 g, None, Meny
+Spekeskinkeflak,24.43,150 g, 34.90, Meny
+Ravioli,67.20,250 g, None, Meny
+Grandiosa Pizza,71.50,520 g, None, Meny
+Tortillas 100%Mais,38.50,208 g, None, Meny
+Tortila Hot Cheese,39.90,150 g, None, Meny
+Opphøgde Potteter,42.90,450 g, None, Meny
+Vegetarlasagne,59.90,450 g, None, Meny
+Guacamole Hot,36.90,150 g, None, Meny
+Tortilla Chips,29.50,185 g, None, Meny
+A La Kjøttdeig,45.90,300 g, None, Meny
+Sweet & Sour,76.90,460 g, None, Meny
+Tunfisk Olivenolje,26.90,60 g, None, Meny
+Kyllingsuppe,75.90,500 g, None, Meny
+Fiskeburger,54.90,400 g, None, Meny
+Tomatsuppe,29.90,1000 ml, None, Meny
+Potetmos,13.60,90 g, None, Meny
+Spaghettini,18.90,450 g, 22.90, Meny
+Kjøttboller,89.00,566 g, None, Meny
+Svinestek,113.00,580 g, None, Meny
+Spaghetti,31.50,400 g, None, Meny
+Grandiosa Pizza,69.90,480 g, None, Meny
+Tradizionale Pizza,65.90,1 stk, None, Meny
+Pytt i Panne,55.50,540 g, None, Meny
+Chili Cheese Nuggets,39.90,250 g, None, Meny
+Fiskewok,249.00,1 stk, None, Meny
+Tortillas Medium,25.50,326 g, None, Meny
+Butter Chicken,229.00,1 stk, None, Meny
+Pommes Strips,21.90,600 g, None, Meny
+Blomkål&Brokkoli,10.40,1 stk, None, Meny
+Pommes Noisettes,53.50,600 g, None, Meny
+Tunfisk i Vann,21.90,150 g, None, Meny
+Tomatsuppe,10.40,1 stk, None, Meny
+Pasta Penne,21.30,500 g, None, Meny
+Kylling Nuggets,69.90,290 g, None, Meny
+Vegetarburger,63.30,226 g, None, Meny
+Peppes Pizza,71.40,600 g, 102.00, Meny
+Carbonara,51.30,350 g, None, Meny
+Angussnadder,249.00,1 stk, None, Meny
+Rustica Pizza,93.00,565 g, None, Meny
+Opphøgde Potteter,39.50,1 stk, None, Meny
+Casa Di Mama Pizza,61.90,405 g, None, Meny
+Fullkornris,44.90,500 g, None, Meny
+Orientalsk Gryte,38.90,1 stk, None, Meny
+Ristorante Pizza,67.90,315 g, None, Meny
+Blomkålsuppe,27.20,1 stk, None, Meny
+Pasta Fusilli,21.90,500 g, None, Meny
+Fusilli,34.50,400 g, None, Meny
+Potetmos,18.90,150 g, None, Meny
+Tortillas Whole Wheat,32.40,350 g, None, Meny
+Macaroni & Cheese,29.80,1 stk, None, Meny
+Mac'n Cheese m/Ost,54.90,1 stk, None, Meny
+Fiskepinner,57.90,360 g, None, Meny
+Fiskesuppe,58.50,500 g, None, Meny
+Kapt Fylt Torsk,65.50,250 g, None, Meny
+Fullkornsnudler,16.50,250 g, None, Meny
+Rustica Pizza,81.00,555 g, None, Meny
+Potetmos,14.50,90 g, None, Meny
+Selskapspudding,67.00,450 g, None, Meny
+Komler/Raspeballer,97.00,570 g, None, Meny
+Byggrynsgrøt,31.90,370 g, None, Meny
+Risgrøt,49.90,970 g, None, Meny
+Grandiosa Pizza,71.50,450 g, None, Meny
+Taco Shells,28.50,156 g, None, Meny
+Tortillachips,35.50,185 g, None, Meny
+Pannekaker,45.90,810 g, None, Meny
+Tunfisk i Olje,14.90,120 g, None, Meny
+Pasta Bolognese,79.90,435 g, None, Meny
+Billy Pan Pizza,25.90,170 g, None, Meny
+Japansk Torikatsu,229.00,1 stk, None, Meny
+Ostepanetter,89.00,480 g, None, Meny
+Maistortilla,25.50,490 g, None, Meny
+Saccottini,51.90,250 g, None, Meny
+Kylling Nuggets,89.00,500 g, None, Meny
+Mangosalsa,44.90,240 g, None, Meny
+Spaghetti,13.90,500 g, 18.80, Meny
+Fiskepinner,75.90,750 g, None, Meny
+Tagliatelle,31.90,500 g, None, Meny
+Inderøysodd,186.00,2000 g, None, Meny
+Thai Kyllingsuppe,69.90,1 stk, None, Meny
+Taco Spice Mix,21.90,75 g, None, Meny
+Masalamagic,39.90,350 g, 54.90, Meny
+Lapskaus Lys,99.00,1000 g, None, Meny
+Taco Spice Mix,7.50,25 g, None, Meny
+Tortillas Large,29.90,350 g, None, Meny
+Big One Pizza,69.90,570 g, None, Meny
+Taco Sauce Medium,16.90,230 g, None, Meny
+Tortillas Medium,43.90,216 g, None, Meny
+Nudler Kylling,10.40,85 g, None, Meny
+Biff Stroganoff,79.90,450 g, None, Meny
+Nudler Kjøtt,10.40,85 g, None, Meny
+Pizza La Mia,72.90,380 g, None, Meny
+Fiskeburger 86%,99.90,500 g, None, Meny
+Spaghetti,29.90,800 g, None, Meny
+Tunfisk i Olje,19.90,150 g, None, Meny
+Fried Noodles,33.50,400 g, None, Meny
+Tortillas Soft,30.90,193 g, None, Meny
+Lapskaus Brun,62.90,800 g, None, Meny
+Langkornetris,59.50,1000 g, None, Meny
+Picnic,52.50,325 g, None, Meny
+Masalamagic Korma,49.90,390 g, 74.30, Meny
+Taco Sauce Hot,19.90,230 g, None, Meny
+Spaghetti,31.90,1000 g, None, Meny
+Pytt i Panne,21.90,500 g, None, Meny
+Pommes Frites,36.90,1200 g, None, Meny
+Tomatsuppe,28.50,1 stk, None, Meny
+Lasagne m/Parmesan,69.90,360 g, None, Meny
+Salma Burger,79.90,220 g, None, Meny
+Grandiosa Pizza,132.00,1000 g, None, Meny
+Taco Sauce Mild,19.90,230 g, None, Meny
+Vårrull m/Kylling,36.90,400 g, None, Meny
+Minipannekaker,36.40,200 g, None, Meny
+Tagliatelle,43.90,500 g, None, Meny
+Nudler i Kopp,20.90,1 stk, None, Meny
+Penne Fullkorn,24.90,525 g, 28.80, Meny
+Ertesuppe Gul,25.50,1000 ml, None, Meny
+Fusilli Fullkorn,23.90,500 g, 28.90, Meny
+Billys Pan Pizza,19.90,170 g, None, Meny
+Nudler i Kopp,20.90,1 stk, None, Meny
+Fløtepotet,39.90,500 g, None, Meny
+Tortillachips Salt,22.40,300 g, None, Meny
+Rustica Pizza,87.00,565 g, None, Meny
+Pommes Family,63.40,1800 g, None, Meny
+Tomatsuppe,59.90,1 stk, None, Meny
+Grandiosa Pizza,58.40,575 g, None, Meny
+Seibiff m/Løk,89.00,530 g, None, Meny
+Søtpotet Opphøgde,36.50,450 g, None, Meny
+Fransk Kjøttgryte,79.90,455 g, None, Meny
+Ristorante Pizza,46.90,355 g, None, Meny
+Nachips,27.90,185 g, None, Meny
+Fiskeburger 86%,108.00,500 g, None, Meny
+Torsk i Saus,84.00,550 g, None, Meny
+Grønnsakslasagne,69.90,410 g, None, Meny
+Potetmos,25.00,300 g, None, Meny
+Fiskekaker,47.90,500 g, None, Meny
+Crabsticks,15.90,250 g, None, Meny
+Poteter Ovnsbakte,30.00,300 g, None, Meny
+Spaghetti,53.50,850 g, None, Meny
+Fløtepotet Hvitløk,79.90,1200 g, None, Meny
+Taco Tubs,20.90,145 g, None, Meny
+Jasminris,38.90,2000 g, None, Meny
+Nudler,22.40,425 g, None, Meny
+Nudler Kyllingsmak,22.40,425 g, None, Meny
+Fiskepinner,46.90,450 g, None, Meny
+Lasagne Ovnsrett,39.90,1 stk, None, Meny
+Opphøgde Potteter,47.90,800 g, None, Meny
+Tortelloni,67.20,250 g, None, Meny
+Makaroni Snarkokt,22.90,650 g, 26.90, Meny
+Sticky Chicken,79.90,400 g, None, Meny
+Pizza Pepperoni,27.90,390 g, None, Meny
+Sellerirotpure,35.00,250 g, None, Meny
+Fiskepudding Pølse,27.90,650 g, None, Meny
+Salma Burger,79.90,220 g, None, Meny
+Kokt Ris,30.00,300 g, None, Meny
+Torskefilet,89.90,300 g, None, Meny
+Tunfisk i Vann Msc,13.90,120 g, None, Meny
+Lasagne,52.90,1 stk, None, Meny
+Tomatsuppe,18.30,1 stk, None, Meny
+Italiensk Gryte,32.90,1 stk, None, Meny
+Lasagne,99.00,800 g, None, Meny
+Pasta Fusilli,19.90,1000 g, None, Meny
+Stroganoff Gryte,29.90,1 stk, None, Meny
+Fiskefileter,69.50,500 g, None, Meny
+Pizza Skinke & Ost,26.90,400 g, None, Meny
+Spaghetti,19.90,1000 g, None, Meny
+Opphøgde Potteter,29.70,475 g, None, Meny
+Tikka Masala Gryte,31.50,1 stk, None, Meny
+Macaroni,22.90,1000 g, None, Meny
+Nacho Chips,15.90,200 g, None, Meny
+Gorbys Pirog,19.10,140 g, None, Meny
+Taco Sauce Medium,14.80,230 g, None, Meny
+Betasuppe,29.90,1000 ml, None, Meny
+Taco Saus,8.90,230 g, None, Meny
+Fiskesuppe,20.90,1 stk, None, Meny
+Jasminris,59.90,3999 g, None, Meny
+Jeger Gryte,25.70,1 stk, None, Meny
+Meksikansk Gryte,24.00,1 stk, None, Meny
+Fiskekaker,23.90,700 g, None, Meny
+Amerikansk Gryte,24.90,1 stk, None, Meny
+Fiskegrateng,49.90,1000 g, None, Meny
+Jasminris,21.50,960 g, None, Meny
+Bali Kyllinggryte,22.00,1 stk, None, Meny
+Fiskepinner Msc,27.90,750 g, None, Meny
+Fiskeboller,26.20,550 g, None, Meny
+Taco Kryddermix,2.40,28 g, None, Meny
+Taco Spice Mix,8.50,84 g, None, Meny
+Taco Spice Mix,2.90,28 g, None, Meny
+Nøttestek,205.00,600 g, None, Meny
+Tortillas Corn,57.20,335 g, None, Meny
+Taco Spice Mix,24.00,28 g, None, Meny
+Guacamole Dip Mix,17.90,93 g, None, Meny
+Blodpølse,65.90,400 g, None, Meny
+Salsa Pineapple,45.20,230 g, None, Meny
+Taco Salsa Hot,34.50,226 g, None, Meny
+Tortilla Chips,76.00,475 g, None, Meny
+Torskelever,39.90,121 g, None, Meny
+Suppe Gulrot,17.20,1 stk, None, Meny
+Tom Kha Soup,22.90,30 g, None, Meny
+Gratinerte Poteter,59.50,1 stk, None, Meny
+Salsa Chunky,35.30,230 g, None, Meny
+Pasta Arrabiata,203.00,1 stk, None, Meny
+Jasmine Ris,136.00,2000 g, None, Meny
+Tortilla Corn/Weat,37.20,200 g, None, Meny
+Couscous,57.90,500 g, None, Meny
+Sardiner m/Chili,35.30,124 g, None, Meny
+Quinoa 2pk Mini,47.90,170 g, None, Meny
+Tortilla Chips,76.00,475 g, None, Meny
+Quinoa Hvit,77.00,350 g, None, Meny
+Noodles Satay,74.90,330 g, None, Meny
+Risnudler,62.90,250 g, None, Meny
+Bulgur Fullkorn,46.90,350 g, None, Meny
+Lapskaus Lys,338.00,2000 g, None, Meny
+Kylling Tandoori,85.00,450 g, None, Meny
+Fiskegrateng,129.00,900 g, None, Meny
+Tortilla Chips,55.90,150 g, None, Meny
+Hummersuppe,67.70,350 g, None, Meny
+Tunfisk i Olje,39.90,120 g, None, Meny
+Guacamole Salsa,59.90,320 g, None, Meny
+Tagliatelle m/Egg,62.90,250 g, None, Meny
+Peking Duck,36.90,140 g, None, Meny
+Sweet & Sour Gryte,60.60,1 stk, None, Meny
+Lasagneplater,49.40,250 g, None, Meny
+Pasta Girandole,42.90,500 g, None, Meny
+Tomatsuppe,48.50,400 g, None, Meny
+Minestrone Soup,67.60,570 ml, None, Meny
+Blinis Coctail,167.00,705 g, None, Meny
+Goreng Nudler,49.50,200 g, None, Meny
+Løksuppe,54.00,400 g, None, Meny
+Sardiner,38.50,106 g, None, Meny
+Basmati Ris,47.30,500 g, None, Meny
+Fiskegrateng,105.00,420 g, None, Meny
+Meksikansk Gryte,46.50,1 stk, None, Meny
+Tortilla Bowls,55.60,150 g, None, Meny
+Maggi Juicychicken,14.90,28 g, None, Meny
+Tunfisk,36.90,120 g, None, Meny
+Biff Chop Suey,69.90,440 g, None, Meny
+Fajita Magic,98.00,142 g, None, Meny
+Chicken Tikka,45.90,1 stk, None, Meny
+Pastasalat,55.60,250 g, None, Meny
+Vårrull,30.70,1 stk, None, Meny
+Risottoris,29.80,500 g, None, Meny
+Wrap High Protein,64.90,168 g, None, Meny
+Fiskepinner,54.60,300 g, None, Meny
+Szechuan Kinesisk,79.90,1 stk, None, Meny
+Enchilada Kit,61.90,1 stk, None, Meny
+Bali Kyllinggryte,42.90,1 stk, None, Meny
+Penne Pasta,47.90,500 g, None, Meny
+Fiskekaker,89.00,1 stk, None, Meny
+Sushiris,76.90,500 g, None, Meny
+Mini Røsti,63.90,500 g, None, Meny
+Pasta Di Parma,48.90,1 stk, None, Meny
+Nuggets Crunchy,56.90,300 g, None, Meny
+Fiskepudding,70.50,450 g, None, Meny
+Tikka Masala Kit,80.00,1 stk, None, Meny
+Naturli' Pizza,53.90,350 g, None, Meny
+Torskerogn,47.90,200 g, None, Meny
+Bavette,26.90,500 g, None, Meny
+Spaghetti,49.60,500 g, None, Meny
+Pasta Sedani,54.50,300 g, None, Meny
+Tortilla Chips,54.00,475 g, None, Meny
+Funkygine Pizza,64.90,395 g, None, Meny
+Tunfisk i Gele,24.40,150 g, None, Meny
+Mandelpotetstappe,46.50,500 g, None, Meny
+Leverpostei,41.90,132 g, None, Meny
+Vegetar Fileter,59.90,312 g, None, Meny
+Gazpacho Suppe,103.00,1000 ml, None, Meny
+Burgere Vegan,53.90,300 g, None, Meny
+Snack Pot Pasta,28.70,63 g, None, Meny
+Tomatsuppe,80.00,570 ml, None, Meny
+Taco Sauce X Hot,25.10,230 g, None, Meny
+Kjøttkaker,89.00,560 g, None, Meny
+Tortilla Chips,33.50,185 g, None, Meny
+Vegetardeig Farse,59.10,300 g, None, Meny
+Vegetar Biter,59.10,300 g, None, Meny
+Boller Vegan,59.10,300 g, None, Meny
+Spice Mix,11.90,20 g, None, Meny
+Incredible Burger,59.90,226 g, None, Meny
+Snurring,69.90,500 g, None, Meny
+Spinatpinner,38.70,284 g, None, Meny
+Minivårruller,69.90,480 g, None, Meny
+Risottoris Arborio,59.90,500 g, None, Meny
+Jædersylte,25.90,100 g, None, Meny
+Meksikansk Gryte,96.00,400 g, None, Meny
+Lasagne,43.90,262 g, None, Meny
+Tortellini,49.90,250 g, None, Meny
+Funkygine Pizza,66.90,390 g, None, Meny
+Seitan Special,43.00,180 g, None, Meny
+Potetball/Komle,82.90,500 g, None, Meny
+Tortilla m/Rødbet,34.90,240 g, None, Meny
+Sardiner Brisling,21.40,105 g, None, Meny
+Kjøttkaker,89.00,1 stk, None, Meny
+Skinke&Ost Pizza,135.00,420 g, None, Meny
+Wrap Kylling,77.60,230 g, None, Meny
+Bulgur,38.90,450 g, None, Meny
+Nuggets,53.10,300 g, None, Meny
+Falafel Fersk,47.30,200 g, None, Meny
+Salsa Mild,41.60,240 g, None, Meny
+Dip Tex Mex Style,42.90,250 g, None, Meny
+Sveler,44.90,300 g, None, Meny
+Tortilla Carrot,35.10,240 g, None, Meny
+Boller,57.80,200 g, None, Meny
+Wrap Falafel Vegansk,77.60,260 g, None, Meny
+Potetmos,19.50,94 g, None, Meny
+Fusilli med Havre,39.90,300 g, None, Meny
+Pasta Bolognese,66.50,600 g, None, Meny
+Basmatiris,56.90,1000 g, None, Meny
+Bacalao m/Oliven,106.00,450 g, None, Meny
+Spaghetti Fullkorn,49.90,1000 g, None, Meny
+Vafler Grove,28.10,170 g, None, Meny
+Tagliatelle,51.90,250 g, None, Meny
+Tikka Masala Kit,95.00,1 stk, None, Meny
+Vegetargrill Røkt,58.90,330 g, None, Meny
+Big One Pizza,95.00,530 g, None, Meny
+Chili Con Carne,63.30,390 g, None, Meny
+Potetmos m/Kjøtt,27.90,1 stk, None, Meny
+Toast 3oster,38.90,322 g, None, Meny
+La Mia Margherita,91.00,360 g, None, Meny
+Sausages,51.90,300 g, None, Meny
+Pizza Mexican,82.00,560 g, None, Meny
+Wrap,51.90,1 stk, None, Meny
+Grønnsaks Nuggets,59.90,310 g, None, Meny
+Butter Chicken,89.00,1 stk, None, Meny
+Basmatiris,55.90,1000 g, None, Meny
+Tunfisk Olivenolje,22.50,63 g, None, Meny
+Vegetardeig,71.30,300 g, None, Meny
+Fiskegrateng,69.90,500 g, None, Meny
+Curry Asian Style,74.90,375 g, None, Meny
+Laks Sprøbakt,78.30,320 g, None, Meny
+Salsa Hell No,53.50,280 g, None, Meny
+Kyllingspyd,29.90,1 stk, None, Meny
+Tortillas,28.50,220 g, None, Meny
+Taco Sauce Hell No,55.60,150 g, None, Meny
+Taco Spice Mix,16.10,25 g, None, Meny
+Snackpizza,41.90,100 g, None, Meny
+Lasagne,149.00,1 stk, 199.00, Meny
+Indisk Gryte,51.90,350 g, None, Meny
+Wienertoast,45.80,180 g, None, Meny
+Pai,131.00,650 g, None, Meny
+Laksefilet,81.00,400 g, None, Meny
+Vegansk Burger,49.90,226 g, None, Meny
+Fiskeburger,65.90,480 g, None, Meny
+Jasmine Ris,78.00,500 g, None, Meny
+Springrolls,94.00,600 g, None, Meny
+Speltspagetti,47.90,500 g, None, Meny
+Thaiinspirert,51.90,350 g, None, Meny
+Fiskegrateng,79.90,400 g, None, Meny
+Antipasti,152.00,220 g, None, Meny
+Fløtepoteter,46.90,400 g, None, Meny
+Spagetti Linguine,49.50,300 g, None, Meny
+Kylling&Pasta,68.90,600 g, None, Meny
+Veggie Bacon,31.50,80 g, None, Meny
+Vegetarboller,71.90,200 g, None, Meny
+Villrismiks,64.90,1000 g, None, Meny
+Nudler i Kopp,30.70,1 stk, None, Meny
+Pasta Carbonara,58.40,1 stk, None, Meny
+Taco Tuesday Spice,17.90,25 g, None, Meny
+Sissy Salsa,55.90,260 g, None, Meny
+Lapskaus Brun,48.90,500 g, None, Meny
+Thaigryte,76.90,460 g, None, Meny
+Lasagne Plater,60.40,250 g, None, Meny
+Tomatsuppe,32.90,570 ml, None, Meny
+Taco Sauce Hot,54.20,150 g, None, Meny
+Tortelloni,67.20,250 g, None, Meny
+Rømmegrøt,66.90,800 g, None, Meny
+Nudler,99.00,525 g, None, Meny
+Grillpølser,69.90,200 g, None, Meny
+Cannelloni,69.90,300 g, None, Meny
+Hold-It Ost&Skinke,83.00,440 g, None, Meny
+Grandiosa Pizza,86.00,455 g, None, Meny
+Viltgryte,165.00,900 g, None, Meny
+Lasagne,63.10,300 g, None, Meny
+Bacalao,95.00,1 stk, None, Meny
+Grandiosa Pizza,63.50,315 g, None, Meny
+Lunsj Vegansk,95.00,340 g, None, Meny
+Tomat Soltørket,49.70,53 g, None, Meny
+Salsa Verde,52.90,270 g, None, Meny
+Lungemos,48.90,400 g, None, Meny
+Salsa Illegal,54.90,260 g, None, Meny
+Ristorante Pizza,57.90,340 g, None, Meny
+Planteprotein,53.90,200 g, None, Meny
+Vegetarpølse,71.30,200 g, None, Meny
+Culinaria Pizza,69.90,355 g, None, Meny
+Bacalao Ekte,69.70,500 g, None, Meny
+Maissalsa,63.90,1 stk, None, Meny
+Salsa Tropical,52.90,260 g, None, Meny
+Lasagne Italiensk,77.00,1 stk, None, Meny
+Rømmegrøt,28.90,1 stk, None, Meny
+Paprika Ostefylt,72.80,100 g, None, Meny
+Eggnudler,34.60,300 g, None, Meny
+Banana Peppers,49.90,114 g, None, Meny
+Butter Chicken Kit,95.00,1 stk, None, Meny
+Pasta M Kylling/,79.90,350 g, None, Meny
+Linsesuppe,69.90,500 g, None, Meny
+Risotto,59.40,250 g, None, Meny
+Tomato Salsa,53.90,250 g, None, Meny
+Tortelloni m/Cott.,90.00,250 g, None, Meny
+Tortelli m/Skinke,90.00,250 g, None, Meny
+Blomkålsuppe,34.60,1 stk, None, Meny
+Falafel,49.90,300 g, None, Meny
+Tomatsuppe,33.40,570 ml, None, Meny
+La Mia Pizza,84.00,400 g, None, Meny
+Taco Supreme Sauce,53.90,237 ml, None, Meny
+Nudler i Kopp,26.70,1 stk, None, Meny
+Pineapple Glaze,58.90,237 ml, None, Meny
+Mild Banana,44.80,114 g, None, Meny
+Falafel Fersk,52.40,200 g, None, Meny
+Middag & Villris,79.90,960 g, None, Meny
+Ristorante Pizza,58.90,360 g, None, Meny
+Big One Pizza,105.00,560 g, None, Meny
+Ravioli,79.60,250 g, None, Meny
+Basmatiris,56.30,500 g, None, Meny
+Hvetetortilla,62.00,300 g, None, Meny
+Tikka Masala,59.50,500 g, None, Meny
+Risotto,57.90,250 g, None, Meny
+Grandiosa Pizza,32.90,165 g, None, Meny
+Havreris,46.90,500 g, None, Meny
+Bucatini Piccoli,46.90,500 g, None, Meny
+Fiskeboller,64.90,500 g, None, Meny
+Risotto,57.40,250 g, None, Meny
+Brokkolisuppe,69.90,530 g, None, Meny
+Big One Pizza,102.00,555 g, None, Meny
+Pasta Di Parma,25.90,1 stk, None, Meny
+Crispy Mini Filet,59.90,285 g, None, Meny
+Butter Chicken,87.00,460 g, None, Meny
+Pastasalat,64.90,1 stk, None, Meny
+Empanada,149.00,550 g, None, Meny
+Ventricina,32.83,50 g, 46.90, Meny
+Urtepoteter,39.90,1 stk, None, Meny
+Asian Pork Belly,109.00,500 g, None, Meny
+Erter,Kjøtt&Flesk,83.00,800 g, None, Meny
+Vårruller,64.90,600 g, None, Meny
+Kylling,61.90,390 g, None, Meny
+Tortilla Chips,54.10,150 g, None, Meny
+Pizza Margherita,65.90,300 g, None, Meny
+Grandiosa Pizza,95.00,590 g, None, Meny
+Pizza Pepperoni,52.50,460 g, None, Meny
+Pizza Meat Feast,54.90,500 g, None, Meny
+Mandelpoteter,49.90,1000 g, None, Meny
+Elgkarbonade,89.00,500 g, None, Meny
+Tikka Masala,69.90,420 g, None, Meny
+Cannelloni,49.90,250 g, None, Meny
+Bolognese Gryte,57.90,1 stk, None, Meny
+Tomatsuppe,22.60,1000 ml, None, Meny
+Soppsuppe,33.50,570 ml, None, Meny
+Havreris,24.40,500 g, None, Meny
+Kjøttsuppe,130.00,2000 g, None, Meny
+Ristorante Pizza,69.50,345 g, None, Meny
+Bio Tempeh,52.90,190 g, None, Meny
+Couscous,23.50,500 g, None, Meny
+Grønnsaksuppe,10.40,1 stk, None, Meny
+Pasta Di Parma,52.90,1 stk, None, Meny
+Grøtris Familie,44.90,800 g, None, Meny
+Ostepanetter,69.90,400 g, None, Meny
+Eggnudler,49.90,200 g, None, Meny
+Bog,57.30,390 g, None, Meny
+Søtpotetsuppe,32.90,570 ml, None, Meny
+Thaisuppe,32.90,570 ml, None, Meny
+Empanada,149.00,550 g, None, Meny
+Empanada,149.00,550 g, None, Meny
+Lasagne glutenfri,66.90,1 stk, None, Meny
+Blodklubb,77.00,500 g, None, Meny
+Lasagne Fullkorn,62.90,1 stk, None, Meny
+Hurtigris,35.50,400 g, None, Meny
+Leverpostei,16.90,100 g, None, Meny
+Couscous Fullkorn,25.40,400 g, None, Meny
+Gresk Moussaka,54.90,1 stk, None, Meny
+Byggris,33.90,300 g, None, Meny
+Tacoskjell,21.90,135 g, None, Meny
+Småmat,185.00,1064 g, None, Meny
+Makaroni,43.90,500 g, None, Meny
+Falafel Fersk,52.40,200 g, None, Meny
+Ristorante Pizza,62.90,370 g, None, Meny
+Pizzaboller,114.00,350 g, None, Meny
+Fullkornsnudler,26.90,300 g, None, Meny
+Pasta m/Chorizo,62.50,350 g, None, Meny
+Chili Con Carne,78.90,430 g, None, Meny
+Lunsjboks,95.00,325 g, None, Meny
+Basmatiris,59.10,700 g, None, Meny
+Tikka Masala,82.00,450 g, None, Meny
+Pizza,59.90,330 g, None, Meny
+Sardiner Classic,23.50,106 g, None, Meny
+Pizza Margherita,24.90,360 g, None, Meny
+Småmat,329.00,2045 g, None, Meny
+Pølsegryte,89.00,800 g, None, Meny
+Sopp Pasta,229.00,1 stk, None, Meny
+Lapskaus Lys,62.90,800 g, None, Meny
+Pizza,64.00,550 g, None, Meny
+Chana Masala,64.90,460 g, None, Meny
+Pizza,59.90,330 g, None, Meny
+Småpoteter,30.00,300 g, None, Meny
+Innherredsodd,149.00,1900 g, None, Meny
+Basmatiris,71.90,960 g, None, Meny
+Svinenakke,79.90,490 g, None, Meny
+Risengrøt,26.90,1 stk, None, Meny
+Grøtris,38.50,800 g, None, Meny
+Kyllingspyd Gyros,29.90,1 stk, None, Meny
+Pulled Pork,229.00,1 stk, None, Meny
+Fløtepoteter,69.90,800 g, None, Meny
+Middagsris,34.90,2000 g, None, Meny
+Lapskaus Brun,99.00,1000 g, None, Meny
+Tortelloni,67.20,250 g, None, Meny
+Potetmos,30.00,300 g, None, Meny
+Torsk Panert,119.00,550 g, None, Meny
+Risgrøt,31.90,900 g, None, Meny
+Jasminris,26.50,1000 g, None, Meny
+Maistortilla,53.90,200 g, None, Meny
+Stroganoff Base,40.00,400 g, None, Meny
+Fløtepoteter,30.00,300 g, None, Meny
+Fiskegrateng,21.90,450 g, None, Meny
+Thaisuppe,69.90,1000 ml, None, Meny
+Pizza,41.93,330 g, 59.90, Meny
+Thai Red Curry,69.90,415 g, None, Meny
+Chili Con Carne,99.00,1000 g, None, Meny
+Tomatsuppe,19.90,2199 ml, None, Meny
+Nuggets,75.20,300 g, None, Meny
+Fløtepoteter,30.00,300 g, None, Meny
+Vårrull Kylling,45.00,220 g, None, Meny
+Kyll. Green Curry,79.90,1 stk, None, Meny
+Pastasalat,64.90,1 stk, None, Meny
+Sodd,46.90,800 g, None, Meny
+Rømmegrøt,49.90,400 g, None, Meny
+Pasta Formaggio,14.90,148 g, None, Meny
+Omelett,50.00,330 g, None, Meny
+Vårrull Biff,45.00,220 g, None, Meny
+Krabbesuppe,79.90,1 stk, None, Meny
+Gulrotpuré,25.00,250 g, None, Meny
+Potetmos,25.00,300 g, None, Meny
+Lapskaus Brun,24.90,500 g, None, Meny
+Fiskeboller,21.90,550 g, None, Meny
+Waldorfsalat,340.00,1 stk, None, Meny
+Taco Spice Mix,30.60,330 g, None, Meny
+Taco Spice Mix,18.70,28 g, None, Meny
+Grøtris 5min,39.90,1 stk, None, Meny
+Taco Sauce,39.90,230 g, None, Meny
+Taco Vegetarian,29.90,65 g, None, Meny
+Cup Soup Tomat,26.50,1 stk, None, Meny
+Kippers,37.90,106 g, None, Meny
+Snack Pot Pasta,35.50,62 g, None, Meny
+Veganpølse,67.90,300 g, None, Meny
+Cup Soup,24.90,1 stk, None, Meny
+Sushi Kit,159.00,1 stk, None, Meny
+Minestronesuppe,55.50,400 g, None, Meny
+Nacho Spice Mix,12.90,30 g, None, Meny
+Kyllingspyd,14.00,1 stk, None, Meny
+Vårrull,30.60,1 stk, None, Meny
+Thai Red Curry Kit,79.00,1 stk, None, Meny
+Naan Brød,58.90,240 g, None, Meny
+Wraps Fullkorn,59.90,252 g, None, Meny
+Grandiosa,29.90,165 g, None, Meny
+Spaghetti Spelt,49.90,1 stk, None, Meny
+Falafel Lebanese,37.90,150 g, None, Meny
+Schnitzel,47.50,270 g, None, Meny
+Søtpotetwrap,68.90,252 g, None, Meny
+Gazpacho Andaluz,73.00,750 ml, None, Meny
+Spaghetti,34.90,1 stk, None, Meny
+Tortilla,62.40,224 g, None, Meny
+Marrupe Tapas,136.00,1020 g, None, Meny
+Taco Kit,58.80,1 stk, None, Meny
+Salsa Sterk,41.80,240 g, None, Meny
+Salsa Frisk,42.00,240 g, None, Meny
+Ris Svart,99.00,500 g, None, Meny
+Kylling & Pasta,92.00,385 g, None, Meny
+Sardiner Brisling,21.40,105 g, None, Meny
+Pasta Penne,36.90,500 g, None, Meny
+Gratinerte Poteter,35.50,113 g, None, Meny
+Kyllingspyd,29.90,1 stk, None, Meny
+Kebab Porsjon,124.00,520 g, None, Meny
+Risengrøt,28.90,1 stk, None, Meny
+Risotto,61.90,250 g, None, Meny
+Couscous,49.90,400 g, None, Meny
+Tortellini,82.00,300 g, None, Meny
+Vegandeig,82.00,280 g, None, Meny
+Kyllingspyd,29.90,1 stk, None, Meny
+Kylling Tikka,66.20,450 g, None, Meny
+Veggisrull,53.90,1 stk, None, Meny
+Ramensuppe,79.90,500 ml, None, Meny
+Salsa Mango,54.90,260 g, None, Meny
+Girasoli m/,58.10,250 g, None, Meny
+Empanada,149.00,550 g, None, Meny
+Pytt-I-Panne,51.90,470 g, None, Meny
+Kylling Sesam Bowl,59.50,350 g, None, Meny
+Tortilla Chips,54.50,150 g, None, Meny
+Angussnadder,249.00,1 stk, None, Meny
+Rustica Pizza,93.00,545 g, None, Meny
+Speltperler,25.30,250 g, None, Meny
+Snitzel,92.00,480 g, None, Meny
+Fiskekaker,92.00,800 g, None, Meny
+Fiskepudding,46.10,400 g, None, Meny
+Byggotto,55.90,250 g, None, Meny
+Paella,59.90,300 g, None, Meny
+Bacalao,173.00,1000 g, None, Meny
+Maxboller,71.90,425 g, None, Meny
+Eggnudler,68.70,1000 g, None, Meny
+Gulrotsuppe,32.90,570 ml, None, Meny
+Kyllingspyd,29.90,1 stk, None, Meny
+Pannekakerøre,94.00,1000 ml, None, Meny
+Fiskegrateng,99.00,800 g, None, Meny
+Pasta Bolognese,99.00,1000 g, None, Meny
+Potetmos,30.00,300 g, None, Meny
+Butter Chicken,79.90,435 g, None, Meny
+Meksikansk Gryte,33.90,1 stk, None, Meny
+Buffalowings,62.40,1 stk, None, Meny
+Slottspoteter,128.00,1 stk, None, Meny
+Risgrøt,59.90,900 g, None, Meny
+Vårruller,117.00,1000 g, None, Meny
+La Mia Pizza,81.00,410 g, None, Meny
+Pickled Onions,57.90,114 g, None, Meny
+Yin&Yang Grillspyd,10.00,1 stk, None, Meny
+Turmat,114.00,500 g, None, Meny
+Turmat,105.00,500 g, None, Meny
+Risotto Pronto,83.00,175 g, None, Meny
+Tunfisk Olivenolje,79.90,112 g, None, Meny
+Gazpacho Suppe,130.00,500 ml, None, Meny
+Blåskjell i Vann,25.90,200 g, None, Meny
+Tunfisk Hvit,99.00,478 g, None, Meny
+Lapskaus Brun,338.00,2000 g, None, Meny
+Mincemeat,145.00,411 g, None, Meny
+Tortilla Chips,53.90,150 g, None, Meny
+Carnitas,93.00,300 g, None, Meny
+Snack Pot Pasta,38.90,57 g, None, Meny
+Kyllingspyd,29.90,1 stk, None, Meny
+Mac' N Cheese,189.00,1 stk, None, Meny
+Turmat,118.00,500 g, None, Meny
+Speltperler,25.30,250 g, None, Meny
+Red Onions,61.10,114 g, None, Meny
+Stir It Up,71.90,530 g, None, Meny
+Stir It Up Svin,71.90,480 g, None, Meny
+Stir It Up,71.90,480 g, None, Meny
+Brun Lapskaus,169.00,1 stk, None, Meny
+Fløtepoteter Kald,182.00,1 stk, None, Meny
+Lys Lapskaus,169.00,1 stk, None, Meny
+Potetmos,134.00,1 stk, None, Meny
+Lungemos,40.90,400 g, None, Meny
+Ratatouille,24.90,390 g, None, Meny
+Risottoris,61.40,175 g, None, Meny
+Ravioli,75.80,250 g, None, Meny
+Fullkornsris Kort,47.40,500 g, None, Meny
+Rømmegraut,191.00,1000 ml, None, Meny
+Raspeballer,40.90,490 g, None, Meny
+Torskelever,39.60,120 g, None, Meny
+Fullkornsris,57.90,700 g, None, Meny
+Fiskewok,249.00,1 stk, None, Meny
+Ris Carnaroli,69.70,1000 g, None, Meny
+Byggotto,58.30,250 g, None, Meny
+Andeconfit,532.00,992 g, None, Meny
+Tortelloni,39.90,250 g, None, Meny
+Nudler,59.50,325 g, None, Meny
+Opphøgde Potteter,41.90,400 g, None, Meny
+Red Curry,99.00,480 g, None, Meny
+Baligryte m/Ris,69.50,480 g, None, Meny
+Nudler i Kopp,26.60,1 stk, None, Meny
+Eggnudler,15.90,250 g, None, Meny
+Grønnsaker,40.00,300 g, None, Meny
+Sardiner,34.20,124 g, None, Meny
+Paella Ris,76.00,500 g, None, Meny
+Snack Pot Pasta,38.90,60 g, None, Meny
+Crispy Snitzel,64.50,200 g, None, Meny
+Kyllingpinner,140.00,590 g, None, Meny
+Fusilli Spelt,52.90,1 stk, None, Meny
+Grønnsaksburger,61.90,500 g, None, Meny
+Tagliatelle,40.90,250 g, None, Meny
+Meksikansk Carnita,109.00,450 g, None, Meny
+Bacalao Ekte,129.00,1000 g, None, Meny
+Grillpølser,48.90,240 g, None, Meny
+Stekt Ris,62.70,330 g, None, Meny
+Phad Thai Kit,78.00,1 stk, None, Meny
+Grønnsakslasagne,67.10,350 g, None, Meny
+Klippfiskboller,76.20,200 g, None, Meny
+Barbacoa,98.00,300 g, None, Meny
+Lakseburger,72.40,260 g, None, Meny
+Calzone,50.00,240 g, None, Meny
+Nuggets,89.00,900 g, None, Meny
+Sei Panert,69.90,345 g, None, Meny
+Sardiner Naturell,37.50,125 g, None, Meny
+Ratatouille,35.00,300 g, None, Meny
+Tortelloni,69.70,250 g, None, Meny
+Sellerirot&Blomkål,33.40,570 ml, None, Meny
+Risottoris,89.00,1000 g, None, Meny
+Chicken Panang,44.90,350 g, None, Meny
+Pasta Bolognese,69.90,470 g, None, Meny
+Butterpanir,83.00,450 g, None, Meny
+Løk Mykstekt,21.50,200 g, None, Meny
+Bacalao,192.00,1000 g, None, Meny
+Risotto Pronto,70.60,175 g, None, Meny
+Jasmin Ris,119.00,2000 g, None, Meny
+Akkarringer,70.90,400 g, None, Meny
+Kyllingnuggets,117.00,600 g, None, Meny

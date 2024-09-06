@@ -1,0 +1,4 @@
+Tunfisk i Vann,12.10,170
+Tunfisk i Vann,13.20,185
+Tunfisk i Solsikkeolje,20.60,185
+Tunfisk i Gele,20.00,185

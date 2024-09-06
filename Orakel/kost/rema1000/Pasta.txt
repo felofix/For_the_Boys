@@ -1,0 +1,7 @@
+Fusilli,20.10,500
+Fullkorn Spaghetti,18.10,500
+Penne,22.10,500
+Fullkorn Fusilli,18.60,500
+Tagliatelle,25.20,500
+Lasagneplater,27.00,500
+Penne Fullkorn,24.40,500

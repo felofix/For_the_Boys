@@ -1,0 +1,5 @@
+Husholdningssaft,21.90,1,5
+Appelsinsaft,21.30,1,5
+Sitronjuice,20.10,200
+Appelsin & Jordbær,23.40,0,75
+Appelsin,22.10,0,75

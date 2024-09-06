@@ -1,0 +1,4 @@
+Taco Spice Mix Mild,2.00,40
+Kryddermiks Kylling,5.10,30
+Taco Spice Mix,8.70,40
+Kryddermiks Kjøtt,5.10,30

@@ -1,0 +1,6 @@
+Makrell I Tomat,18.90,220
+Sardiner I Olje,16.40,105
+Rømmesild,25.20,250
+Tomatsild,25.20,250
+Sardiner I Tomatsaus,16.40,105
+Sursild,25.20,250

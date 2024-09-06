@@ -1,0 +1,4 @@
+Pastasaus,12.10,500
+Grønn Pesto,19.10,190
+Rød Pesto,18.90,190
+Bearnaise,16.90,180

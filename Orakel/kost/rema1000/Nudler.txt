@@ -1,0 +1,5 @@
+Eggnudler,12.90,250
+Nudler med Kyllingsmak,20.10,425
+Nudler med Biffsmak,22.40,425
+Fullkornsnudler,12.40,250
+Ferske Nudler,19.00,300

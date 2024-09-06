@@ -1,0 +1,18 @@
+Erter,9.90,350
+Brokkolitopper,12.90,450
+Brokkoliblanding,18.60,500
+Hakket Spinat,10.90,450
+Klassisk Wokblanding,21.90,500
+Brokkoli & Blomkål Blanding,33.40,500
+Lapskausblanding,20.20,800
+Aspargesbønner,14.90,300
+Amerikansk Blanding,20.20,800
+Avokadoterninger,24.90,300
+Rotgrønnsaker Grovkuttet,26.80,750
+Lapskausblanding Grov,25.40,750
+Fullkornsris & Grønnsaker,28.60,500
+Rosenkål,24.90,600
+Soppblanding,36.50,250
+Thai-inspirert Wok,36.50,500
+Løkringer,38.40,300
+Jalapeño Poppers,45.90,250

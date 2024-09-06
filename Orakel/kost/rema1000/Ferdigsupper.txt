@@ -1,0 +1,7 @@
+Fiskesuppe,49.00,1
+Thaisuppe,49.00,1
+Grønnsaksuppe,39.00,1
+Gulrotsuppe,29.30,350
+Thaisuppe,29.80,350
+Kikertsuppe,29.30,350
+Tomatsuppe,29.30,350

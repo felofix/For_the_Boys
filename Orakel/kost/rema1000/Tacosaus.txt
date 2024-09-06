@@ -1,0 +1,6 @@
+Tacosaus Medium,9.90,290
+Tacosauce Hot,17.40,290
+Salsasaus Chunky,15.10,315
+Salsa Chipotle,20.10,185
+Salsa Clasica,20.10,180
+Salsa Verde,20.10,175

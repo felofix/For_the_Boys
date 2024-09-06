@@ -1,0 +1,343 @@
+#Navn #Pris #Mengde #Før #Butikk 
+Vaniljeis,71.00,700 ml, None, Meny
+Sjokoladefondant,57.90,180 g, None, Meny
+Creme Brulee,59.90,110 g, None, Meny
+Karamellpudding,59.90,340 g, None, Meny
+Panna Cotta,43.60,100 g, None, Meny
+Rislunsj,13.90,150 g, None, Meny
+Krone-Is,28.90,125 ml, None, Meny
+Krone-Is,28.90,125 ml, None, Meny
+Friskis,21.90,90 ml, None, Meny
+Creme Fløteis,38.30,110 ml, None, Meny
+Freia Sjokoladeis,34.60,90 ml, None, Meny
+Krone-Is,32.90,125 ml, None, Meny
+Sommer Is,28.90,90 ml, None, Meny
+Sandwich,25.90,110 ml, None, Meny
+Creme Premium,39.40,100 ml, None, Meny
+Idyll Is,34.90,100 ml, None, Meny
+Freia Smil,32.90,90 ml, None, Meny
+Nude Strawberry,30.90,80 ml, None, Meny
+Snackis,39.40,150 ml, None, Meny
+Friskis Fersken,25.90,69 ml, None, Meny
+Creme Hvit,34.90,110 ml, None, Meny
+Creme Fløteis,32.90,110 ml, None, Meny
+Creme Fløteis,39.40,110 ml, None, Meny
+Crème Fløteis,34.90,97 ml, None, Meny
+Nude Exotic Fruits,31.90,80 ml, None, Meny
+Big Deal,39.90,200 ml, None, Meny
+Solo Fruktis,28.90,110 ml, None, Meny
+Soft Shake,38.80,210 ml, None, Meny
+Crème Fløteis,39.40,93 ml, None, Meny
+Daim Balltop,39.90,180 ml, None, Meny
+Dyreparken,24.90,60 ml, None, Meny
+Soft Shake,34.90,210 ml, None, Meny
+Nude Strawberry,89.00,500 ml, None, Meny
+Nude Mango,89.00,500 ml, None, Meny
+Isbiter,23.70,1000 g, None, Meny
+Isbiter,34.90,2000 g, None, Meny
+Inspira Iskrem,108.00,900 ml, None, Meny
+Sørlandsis,75.90,1400 ml, None, Meny
+Inspira Iskrem,109.00,900 ml, None, Meny
+Inspira Iskrem,110.00,900 ml, None, Meny
+Sørlandsis,75.90,1400 ml, None, Meny
+Creme Brulee,39.90,1 stk, None, Meny
+Fersken,23.80,240 g, None, Meny
+Yt Proteinpudding,22.90,190 g, None, Meny
+Båtis,74.90,700 ml, None, Meny
+Krone-Is Mini,67.90,336 ml, None, Meny
+Ben&Jerry's,99.00,465 ml, None, Meny
+Inspira Iskrem,110.00,900 ml, None, Meny
+Royal Is,87.00,900 ml, None, Meny
+88 Vanilje/Sjoko,76.90,570 ml, None, Meny
+Ben&Jerry's,99.00,465 ml, None, Meny
+Sandwich,68.70,690 ml, None, Meny
+Haagen Dazs,84.90,460 ml, None, Meny
+Zeroh! Ice Pop,69.90,600 ml, None, Meny
+Sjokokirsj,71.50,540 ml, None, Meny
+Mochi Is,95.00,198 ml, None, Meny
+Friskis,54.90,600 ml, None, Meny
+Daim Iskake,86.00,900 ml, None, Meny
+Freia Sjokoladeis,79.90,540 ml, None, Meny
+Krone-Is Sjokolade,54.90,750 ml, None, Meny
+Isabella Vanilje,58.50,600 ml, None, Meny
+Nude Mango,73.50,480 ml, None, Meny
+Ice Balls,70.40,1040 g, None, Meny
+Krone-Is Krokan,67.50,750 ml, None, Meny
+Ananasringer,39.90,420 g, None, Meny
+After Eight Mousse,31.90,228 g, None, Meny
+Sjokoladepudding,12.50,115 g, None, Meny
+Ananas i Biter,47.80,411 g, None, Meny
+Freia Firkløver Is,79.90,558 ml, None, Meny
+Krone-Is Jordbær,54.90,750 ml, None, Meny
+Propud,26.90,200 g, None, Meny
+Creme Mini,69.90,420 ml, None, Meny
+Krone-Is Nonstop,76.90,750 ml, None, Meny
+Havrelunsj,18.80,150 g, None, Meny
+Sjokoladepudding,16.70,190 g, None, Meny
+Royal Is,99.00,900 ml, None, Meny
+Karamellpudding,25.90,1 stk, None, Meny
+Mandariner,11.50,175 g, None, Meny
+Rislunsj,13.90,150 g, None, Meny
+14 Havregrøt,22.90,170 g, None, Meny
+Sjokoladepudding,25.90,1 stk, None, Meny
+Karamellpudding,59.90,340 g, None, Meny
+Vaniljesaus,29.80,500 ml, None, Meny
+Sørlandsis,89.00,1250 ml, None, Meny
+Bygglunsj,18.50,150 g, None, Meny
+Split Vaniljeis,41.80,720 ml, None, Meny
+Bringebærgele,10.80,500 ml, None, Meny
+Vaniljesaus,29.50,500 ml, None, Meny
+Familiemix,129.00,1125 ml, None, Meny
+Gele Sitron,15.40,500 ml, None, Meny
+Nutty Mousse,27.00,140 g, None, Meny
+Ananas Biter,9.40,140 g, None, Meny
+Sandwich,56.90,660 ml, None, Meny
+Bygglunsj,18.50,150 g, None, Meny
+Rislunsj,13.90,150 g, None, Meny
+Ananas i Biter,29.80,420 g, None, Meny
+Sørlandsis,59.90,2000 ml, None, Meny
+Bygglunsj,18.50,150 g, None, Meny
+Rislunsj,13.90,150 g, None, Meny
+Sjoko Vaniljeis,37.90,800 ml, None, Meny
+Krone-Is Sjokolade,29.90,750 ml, None, Meny
+Krone-Is Jordbær,29.90,750 ml, None, Meny
+Saftis,28.90,700 ml, None, Meny
+Pannacotta,38.90,1 stk, None, Meny
+Bygglunsj,18.50,150 g, None, Meny
+Gele Bringebær,12.90,500 ml, None, Meny
+Bygglunsj,18.50,150 g, None, Meny
+Sjokoladepudding,35.50,1000 ml, None, Meny
+Vaniljesaus,36.70,1000 ml, None, Meny
+Sørlandsis,43.50,2000 ml, None, Meny
+Sørlandsis,37.90,2000 ml, None, Meny
+Havrelunsj,31.90,350 g, None, Meny
+Sørlandsis,33.90,2000 ml, None, Meny
+Choice Soyais,33.50,55 ml, None, Meny
+Ananas Finskåret,21.30,137 g, None, Meny
+Oatly Iskrem,77.90,500 ml, None, Meny
+Ice Crushed,49.90,2000 g, None, Meny
+Fruktcocktail,39.40,235 g, None, Meny
+Marshmallow Fluff,79.00,213 g, None, Meny
+Ben&Jerry's,42.50,100 ml, None, Meny
+Idyll Is Karamell,76.90,500 ml, None, Meny
+Jordbær&Rabarbra,48.90,455 g, None, Meny
+Vaniljesaus,16.90,1 stk, None, Meny
+Svalbar,32.90,67 ml, None, Meny
+Gele Appelsin,23.90,500 ml, None, Meny
+Soyadessert,42.70,500 g, None, Meny
+Karamellpudding,69.90,1 stk, None, Meny
+Mandelkjerne,24.50,1 stk, None, Meny
+Oatly Iskrem,94.00,500 ml, None, Meny
+Idyll Sjokoladeis,71.90,500 ml, None, Meny
+Choice Soyais,89.00,750 ml, None, Meny
+Gelato Soya-Is,98.00,320 g, None, Meny
+Tiramisu,199.00,500 g, None, Meny
+Soyadessert,41.30,500 g, None, Meny
+Oreo Fløteis,89.00,450 ml, None, Meny
+Nyt Iskrem,74.90,500 ml, None, Meny
+Lollipop Is,78.00,1200 ml, None, Meny
+Vaniljesaus,18.90,1 stk, None, Meny
+Magnum Is,97.00,350 ml, None, Meny
+Oatly Iskrem,79.90,500 ml, None, Meny
+Snickers Is,107.00,302 ml, None, Meny
+Ananas Hakket,56.90,435 g, None, Meny
+Nick's Iskrem,89.00,473 ml, None, Meny
+Sjokoladesaus,38.50,360 g, None, Meny
+Sitronfromasj,19.90,1 stk, None, Meny
+Gele Blåbær,19.90,500 ml, None, Meny
+Fløteis,89.00,450 ml, None, Meny
+Sjokoladepudding,21.40,1 stk, None, Meny
+Lett Vaniljeis,89.00,1200 ml, None, Meny
+Ben&Jerry's,109.00,465 ml, None, Meny
+Fløteis,89.00,450 ml, None, Meny
+Fløteis,89.00,450 ml, None, Meny
+Dyreparken,79.90,600 ml, None, Meny
+Moreller,99.00,350 g, None, Meny
+Nick's Iskrem,84.00,473 ml, None, Meny
+Wafer Rolls,36.90,115 g, None, Meny
+Karamellpudding,31.10,230 g, None, Meny
+Tiramisu,41.90,85 g, None, Meny
+Crushed Ice,31.90,1000 g, None, Meny
+Nick's Vegan Is,89.00,473 ml, None, Meny
+Sørlandsis,89.00,1250 ml, None, Meny
+Inspira Iskrem,99.00,900 ml, None, Meny
+Ben&Jerry's,109.00,465 ml, None, Meny
+Inspira Iskrem,109.00,900 ml, None, Meny
+Creme Mini,79.90,360 ml, None, Meny
+Bringebærsaus,29.90,500 ml, None, Meny
+Haagen Dazs,84.90,460 ml, None, Meny
+Haagen Dazs,84.90,460 ml, None, Meny
+Panna Cotta,43.60,100 g, None, Meny
+Haagen Dazs,84.90,460 ml, None, Meny
+Fersken i Juice,27.70,230 g, None, Meny
+Vaniljeis,71.00,700 ml, None, Meny
+Karamellpudding,19.50,1 stk, None, Meny
+Sjokolademousse,29.90,1 stk, None, Meny
+Ben&Jerry's,99.00,427 ml, None, Meny
+Ben&Jerry's,99.00,427 ml, None, Meny
+Sørlandsis,82.90,1400 ml, None, Meny
+Drumstick,59.90,176 g, None, Meny
+Ben&Jerry's,99.00,465 ml, None, Meny
+Mövenpick,145.00,900 ml, None, Meny
+Sjokoladesaus,47.80,310 g, None, Meny
+Inspira Iskrem,110.00,900 ml, None, Meny
+Royal Trippel Magi,89.00,465 ml, None, Meny
+Kirsebærsaus,61.50,500 g, None, Meny
+Nugattisaus,41.20,300 g, None, Meny
+Haagen Dazs,84.90,460 ml, None, Meny
+Sjokolademousse,29.90,1 stk, None, Meny
+Mövenpick,145.00,900 ml, None, Meny
+Dream Yoghurtis,89.00,800 ml, None, Meny
+Strøssel Krokan,44.90,100 g, None, Meny
+Sjokolademousse,42.90,1 stk, None, Meny
+Mr.Freeze,62.50,900 ml, None, Meny
+Bringebærgele Rosa,24.50,500 ml, None, Meny
+Dream Delight,84.00,500 ml, None, Meny
+Vaniljeis,71.00,700 ml, None, Meny
+Sjokoladetrekk,41.20,300 g, None, Meny
+Anita Iskake,99.00,1200 ml, None, Meny
+Mixed Fruit,58.50,420 g, None, Meny
+Karamellsaus,29.80,360 g, None, Meny
+Ben&Jerry's,109.00,465 ml, None, Meny
+Strøssel Daim,26.90,100 g, None, Meny
+Love Hearts,69.90,300 ml, None, Meny
+Riskrem,59.90,675 g, None, Meny
+Royal Is,88.00,900 ml, None, Meny
+Strøssel,38.80,100 g, None, Meny
+Wafer Rolls,41.50,115 g, None, Meny
+Dream Yoghurtis,84.00,800 ml, None, Meny
+Mövenpick,145.00,900 ml, None, Meny
+Kulinaris Iskrem,99.00,500 ml, None, Meny
+Tyrkisk Pepper Is,99.00,480 ml, None, Meny
+Dream Yoghurtis,84.00,800 ml, None, Meny
+Vaniljesaus,34.90,500 ml, None, Meny
+Fruktcocktail,36.90,490 g, None, Meny
+Propud,26.90,200 g, None, Meny
+Dream Delight,79.00,500 ml, None, Meny
+Salt Karamellsaus,51.90,310 g, None, Meny
+Kulinaris Iskrem,93.00,500 ml, None, Meny
+Propud,26.90,200 g, None, Meny
+Royal Is,99.00,900 ml, None, Meny
+Kaffeis,147.00,500 ml, None, Meny
+Royal Is,99.00,900 ml, None, Meny
+Royal Is,99.00,900 ml, None, Meny
+Sjokoladepudding,31.70,500 ml, None, Meny
+Kræsj Pink Is,77.90,360 ml, None, Meny
+Royal Is,99.00,900 ml, None, Meny
+Aprikoser,19.50,240 g, None, Meny
+Sitronmousse,42.90,1 stk, None, Meny
+Creme Brulee,59.90,110 g, None, Meny
+Gårdsis Krokan,74.50,500 ml, None, Meny
+Kulinaris Iskrem,93.00,500 ml, None, Meny
+Gårdsis Kaffe,74.50,500 ml, None, Meny
+Kulinaris Sorbet,79.90,500 ml, None, Meny
+Kulinaris Iskrem,93.00,500 ml, None, Meny
+Mövenpick,145.00,810 ml, None, Meny
+Bringebærgele,40.70,1000 ml, None, Meny
+Kulinaris Iskrem,82.90,500 ml, None, Meny
+Gelato Soya-Is,63.50,250 g, None, Meny
+Krone-Is Sjokolade,89.00,1250 ml, None, Meny
+Royal Trippel,99.00,450 ml, None, Meny
+Krone-Is Jordbær,89.00,1250 ml, None, Meny
+Sørlandsis,89.00,1250 ml, None, Meny
+Karamellpudding,49.90,1000 ml, None, Meny
+Vaniljeis,137.00,500 ml, None, Meny
+Brunost Iskrem,77.80,500 ml, None, Meny
+Jordbærgele,10.80,500 ml, None, Meny
+Ananas i skiver,51.90,420 g, None, Meny
+Sørlandsis,89.00,1250 ml, None, Meny
+Gelato Ris-Is,84.00,1000 ml, None, Meny
+Sjokoladepudding,28.60,500 ml, None, Meny
+Pistasjis,156.00,500 ml, None, Meny
+Mangosorbet,126.00,500 ml, None, Meny
+Sørlandsis,89.00,1250 ml, None, Meny
+Jordbærgele,35.50,1000 ml, None, Meny
+Kirsebærkompott,29.90,455 g, None, Meny
+Sjokoladepudding,49.90,340 g, None, Meny
+Jordbærsaus,27.90,250 g, None, Meny
+Sviskekompott,29.80,455 g, None, Meny
+Ananas i Biter,18.90,565 g, None, Meny
+Pannacotta,38.90,1 stk, None, Meny
+Vaniljesaus,38.50,750 ml, None, Meny
+Gele Jordbær,12.90,500 ml, None, Meny
+Creme Catalane,38.90,1 stk, None, Meny
+Karamellpudding,38.90,1 stk, None, Meny
+Aprikoskompott,23.80,455 g, None, Meny
+Vaniljesaus,38.90,1000 ml, None, Meny
+Magnum Double Gold,94.00,440 ml, None, Meny
+Eple&Kanel Kompott,51.90,455 g, None, Meny
+Ben&Jerry's,39.90,80 ml, None, Meny
+Strøssel,38.80,100 g, None, Meny
+Nyt Iskrem,74.90,500 ml, None, Meny
+Fruktcocktail,31.50,231 g, None, Meny
+Gele Kiwi,19.90,500 ml, None, Meny
+Strøssel,38.80,100 g, None, Meny
+Strøssel,51.90,100 g, None, Meny
+Nick's Iskrem,84.00,473 ml, None, Meny
+Sorbetto,79.90,500 ml, None, Meny
+Haagen Dazs,84.90,500 ml, None, Meny
+Häagen Dazs,84.90,420 ml, None, Meny
+Mandelpudding,29.30,500 ml, None, Meny
+Iskrem,71.00,700 ml, None, Meny
+Iskrem Vanilje,78.40,1000 ml, None, Meny
+Bubblegumsaus,47.50,300 g, None, Meny
+Sjokolademousse,34.90,85 g, None, Meny
+Sun Lolly,38.20,480 ml, None, Meny
+Kulinaris Iskrem,93.00,500 ml, None, Meny
+Jordbærsaus,47.80,310 g, None, Meny
+Kulinaris Iskrem,82.90,500 ml, None, Meny
+Kulinaris Sorbet,93.00,500 ml, None, Meny
+Gårdsis Vanilje,74.50,500 ml, None, Meny
+Gelato Ris-Is,89.00,1000 ml, None, Meny
+Panna Cotta,46.90,110 g, None, Meny
+Sorbetto,67.90,500 ml, None, Meny
+Moccapudding,59.90,340 g, None, Meny
+Kokossorbet,126.00,500 ml, None, Meny
+Sjokoladeis,130.00,500 ml, None, Meny
+Solbærsorbet,38.90,500 ml, None, Meny
+Kulinaris Iskrem,82.90,500 ml, None, Meny
+Kirsebær,99.00,360 g, None, Meny
+Strøssel,38.80,132 g, None, Meny
+Big Balls,76.90,516 g, None, Meny
+Sundae Sirup,109.00,425 g, None, Meny
+Kirsebærsaus,54.50,250 ml, None, Meny
+Jordbærsaus,54.50,250 ml, None, Meny
+Bringebærsaus,54.50,250 ml, None, Meny
+Solero,94.90,900 ml, None, Meny
+Häagen Dazs,84.90,420 ml, None, Meny
+Ben&Jerry's,109.00,465 ml, None, Meny
+Fløteis,89.00,450 ml, None, Meny
+Sun Lolly,38.20,480 ml, None, Meny
+Hockeypulver,63.90,150 g, None, Meny
+Strøssel,38.80,100 g, None, Meny
+Strøssel,51.90,100 g, None, Meny
+Sorbetto,77.50,500 ml, None, Meny
+Pærer,38.80,460 g, None, Meny
+Dessertsaus,54.90,250 ml, None, Meny
+Dessertsaus,54.90,250 ml, None, Meny
+Dessertsaus,54.90,250 ml, None, Meny
+Fruktsuppe,34.50,1000 ml, None, Meny
+Kulinaris Sorbet,82.90,400 g, None, Meny
+Iskrem Gul Vanilje,78.40,1000 ml, None, Meny
+Kulinaris Sorbet,93.00,500 ml, None, Meny
+Kulinaris Sorbet,93.00,500 ml, None, Meny
+Pærer Halve,29.70,230 g, None, Meny
+Fersken Halve,39.10,235 g, None, Meny
+Creme Brulee,53.90,1 stk, None, Meny
+Kulinaris Iskrem,89.90,500 ml, None, Meny
+Ben&Jerry's,109.00,465 ml, None, Meny
+Isbiter,145.00,9001 g, None, Meny
+Sjokolademousse,25.90,1 stk, None, Meny
+Sjokolade Sirup,115.00,680 g, None, Meny
+Ice Blocks,34.50,296 g, None, Meny
+Jubelpakke Iskrem,69.90,954 ml, None, Meny
+Idyll Jordbær,84.90,750 ml, None, Meny
+Sandwich,99.00,1320 ml, None, Meny
+Vaniljeis,29.90,2999 ml, None, Meny
+Choice Soyais,81.90,750 ml, None, Meny
+Vaniljesaus,21.50,250 ml, None, Meny
+Sun Lolly,38.20,480 ml, None, Meny
+Dessertplommer,169.00,750 g, None, Meny
+Fersken,39.40,460 g, None, Meny
+Pærer,19.50,230 g, None, Meny
+Sundae Sirup,99.00,425 g, None, Meny

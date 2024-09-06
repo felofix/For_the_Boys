@@ -1,0 +1,70 @@
+#Navn #Pris #Mengde #Før #Butikk 
+Norvegia 26%,49.90,300 g, None, Meny
+Jarlsberg 27%,29.90,120 g, None, Meny
+Norvegia 26%,32.90,150 g, None, Meny
+Jarlsberg 27%,51.90,250 g, None, Meny
+Dansk Greddost,29.90,125 g, None, Meny
+Norvegia Lett 16%,26.90,150 g, None, Meny
+Alpeost,225.00,1 stk, None, Meny
+Nidelven Blå,572.00,1 stk, None, Meny
+Rød Ku,544.00,1 stk, None, Meny
+Kvitlin,307.00,1 stk, None, Meny
+Selbu Blå,309.00,1 stk, None, Meny
+Kraftkar,692.00,1 stk, None, Meny
+Mozzarella,20.90,125 g, None, Meny
+Mozzarella,39.90,125 g, None, Meny
+Mozzarella Kuler,54.90,150 g, None, Meny
+Mozzarella,42.90,125 g, None, Meny
+Mozzarella,57.80,125 g, None, Meny
+Mozzarella,49.90,250 g, None, Meny
+Gulost&Cheddar,32.90,170 g, None, Meny
+Mozzarella,34.90,170 g, None, Meny
+Ekte Revet Ost,43.90,300 g, None, Meny
+Synnøve,34.90,400 g, None, Meny
+Norvegia Revet,69.90,450 g, None, Meny
+Ekte Revet Ost,51.90,250 g, None, Meny
+Baconost,33.90,175 g, None, Meny
+Skinkeost,30.90,175 g, None, Meny
+Baconost,39.90,200 g, None, Meny
+Philadelphia,31.90,200 g, None, Meny
+Kremgo,20.90,125 g, None, Meny
+Rondele Hvitløk,48.90,125 g, None, Meny
+Gudbrandsdalsost,23.90,130 g, None, Meny
+Fløtemysost,22.50,130 g, None, Meny
+Fløtemysost,65.90,500 g, None, Meny
+Geitost Ekte,89.00,500 g, None, Meny
+Fløtemysost,49.90,480 g, None, Meny
+Fløtemysost,65.90,500 g, None, Meny
+Parmigiano,86.00,150 g, None, Meny
+Grana Padano,26.90,50 g, None, Meny
+Parmesan Revet,40.90,60 g, None, Meny
+Parmesan Reggiano,661.00,1 stk, None, Meny
+Parmigiano,39.90,80 g, None, Meny
+Parmesan Trekant,99.00,200 g, None, Meny
+Apetina Classic,33.90,200 g, None, Meny
+Apetina Classic,36.90,150 g, None, Meny
+Fetaost Gresk,63.90,200 g, None, Meny
+Apetina Snack,24.90,100 g, None, Meny
+Fetaost Gresk,45.90,150 g, None, Meny
+Apetina Snack,22.90,100 g, None, Meny
+Castello Blå,22.50,150 g, None, Meny
+Gorgonzola,470.00,1 stk, None, Meny
+Gorgonzola,439.00,1 stk, None, Meny
+Roquefort,539.00,1 stk, None, Meny
+Danablu,42.90,125 g, None, Meny
+Selbu Blå,309.00,1 stk, None, Meny
+Chevre,499.00,1 stk, None, Meny
+Chevre Ost,67.90,190 g, None, Meny
+Chevre Maure,69.50,200 g, None, Meny
+Queso De Cabra,539.00,1 stk, None, Meny
+Tilsiter Holtseer,336.00,1 stk, None, Meny
+Saint Albray,585.00,1 stk, None, Meny
+Port Salut,31.90,100 g, None, Meny
+Ridderost,45.90,170 g, None, Meny
+Solglad Ost,119.00,240 g, None, Meny
+Ridderost,59.90,285 g, None, Meny
+Gryr,52.90,200 g, None, Meny
+Go'Vegan Original,39.90,200 g, None, Meny
+Påmackan,39.50,150 g, None, Meny
+Go'Vegan Revet,39.90,200 g, None, Meny
+Go'Vegan Original,71.90,400 g, None, Meny

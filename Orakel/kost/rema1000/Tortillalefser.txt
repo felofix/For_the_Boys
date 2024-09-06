@@ -1,0 +1,4 @@
+Tortilla Hvete Large,14.20,370
+Tortilla Fullkorn Large,17.50,370
+Tortilla Mais,14.50,320
+Tortilla Hvete Mini,13.30,240

@@ -1,0 +1,867 @@
+#Navn #Pris #Mengde #Før #Butikk 
+Makrell i Tomat,14.90,110 g, None, Meny
+Bringebærsyltetøy,59.90,225 g, None, Meny
+Granola Eple&Bær,49.10,375 g, None, Meny
+Bacon Tørrsaltet,59.90,100 g, None, Meny
+Trøffelsalami,52.20,80 g, None, Meny
+Kokt Skinke Ekte,25.90,110 g, 31.50, Meny
+Stjernebacon,29.20,140 g, None, Meny
+Skinke,34.90,110 g, 44.90, Meny
+Majones Ekte,35.90,160 g, None, Meny
+Roastbiff,495.00,1 stk, None, Meny
+Kokt Skinke Ekte,42.90,150 g, None, Meny
+Krydderskinke,32.90,110 g, 41.50, Meny
+Hamburgerrygg,28.90,110 g, 36.50, Meny
+Kyllingfilet,31.90,110 g, None, Meny
+Serrano Skinke,29.90,80 g, None, Meny
+Kyllingfilet,31.40,110 g, None, Meny
+Kalkunfilet,34.90,110 g, None, Meny
+Kaviar,27.40,185 g, None, Meny
+Servelat,13.40,110 g, None, Meny
+Skinke Kokt,29.90,250 g, None, Meny
+Havregryn,19.90,1100 g, None, Meny
+Byggryn Hele,21.50,550 g, None, Meny
+Appelsinmarmelade,38.50,400 g, None, Meny
+Syltetøy til Ost,32.90,110 g, None, Meny
+Leverpostei,49.90,175 g, None, Meny
+Syltetøy til Ost,32.90,110 g, None, Meny
+Mortadella,57.90,70 g, None, Meny
+Tyttebærsyltetøy,54.90,330 g, None, Meny
+Granola Nøtter,54.70,375 g, None, Meny
+Tyttebærsyltetøy,57.00,400 g, None, Meny
+Leverpostei,21.90,185 g, None, Meny
+Fikensyltetøy,38.90,110 g, None, Meny
+Eplemos m/Biter,46.50,535 g, None, Meny
+Culatta,120.00,168 g, None, Meny
+Jordbærsyltetøy,47.90,280 g, None, Meny
+Remulade,54.90,330 g, None, Meny
+Salami M Fennikel,69.90,80 g, None, Meny
+Tyttebærsyltetøy,48.90,600 g, None, Meny
+Lodderogn Sort,45.90,100 g, None, Meny
+Poppa Muslibar,11.50,25 g, None, Meny
+Honning No.1,79.90,350 g, None, Meny
+Blomsterhonning,79.90,350 g, None, Meny
+Salami Napoli,69.90,80 g, None, Meny
+Gold Musli,78.00,725 g, None, Meny
+Stabbur-Makrell,28.50,110 g, None, Meny
+Leverpostei Dansk,35.40,190 g, None, Meny
+Remulade Ekte,37.90,160 g, None, Meny
+Leverpostei,34.90,150 g, None, Meny
+Salami Piccante,67.90,80 g, None, Meny
+Rødvinspølse,85.90,275 g, None, Meny
+Stabbur-Makrell,49.90,160 g, None, Meny
+Granola Eple&Bær,49.10,375 g, None, Meny
+Parmaskinke,91.90,294 g, None, Meny
+Bacon Ferdigstekt,40.00,50 g, None, Meny
+Chilimajones,26.90,150 g, None, Meny
+Sursild,64.50,282 g, None, Meny
+Havregrøt,7.90,1 stk, 12.90, Meny
+Ansjosfilet,31.50,55 g, None, Meny
+Appelsinmarmelade,43.30,430 g, None, Meny
+Big 100 Bar,38.90,100 g, None, Meny
+Remulade,29.90,165 g, None, Meny
+Stabbur-Makrell,23.90,110 g, None, Meny
+Pepperpate,37.90,180 g, None, Meny
+Banana Dream,39.90,55 g, None, Meny
+Salami Milano,71.90,80 g, None, Meny
+Bacon,49.90,100 g, None, Meny
+Caviar,44.00,75 g, None, Meny
+Crabstick Salat,26.90,180 g, None, Meny
+Pastrami,62.00,100 g, None, Meny
+Mortadella,64.90,80 g, None, Meny
+Big 100 Bar,37.90,100 g, None, Meny
+Ølpølse Hot Amigo,35.80,50 g, None, Meny
+Be-Kind Nøttebar,16.90,40 g, 23.90, Meny
+Fleskepølse,41.80,150 g, None, Meny
+Grønnsakspostei,35.90,175 g, None, Meny
+Hvitløkspate,35.80,180 g, None, Meny
+Majones Lett,33.90,170 g, None, Meny
+Leverpostei,36.90,160 g, None, Meny
+Frokostsalat,38.90,185 g, None, Meny
+Be-Kind Bar,16.90,40 g, 23.90, Meny
+Eplemos Usøtet,29.90,360 g, None, Meny
+Reker i Majones,51.90,180 g, None, Meny
+Salami Peperoni,45.43,160 g, 64.90, Meny
+Skinkestek,44.50,100 g, None, Meny
+Peanøttsmør,41.80,340 g, None, Meny
+Big 100 Bar,42.50,100 g, None, Meny
+Hamburgerrygg,45.10,100 g, None, Meny
+Helgeroa Salami,61.90,140 g, None, Meny
+Salami Dansk,37.90,200 g, None, Meny
+Salami,76.50,80 g, None, Meny
+Prager Skinke,59.90,100 g, None, Meny
+Be-Kind Bar,16.90,40 g, 23.40, Meny
+Havrebar,12.50,35 g, None, Meny
+Kyllingsalat Curry,45.70,200 g, None, Meny
+Grillet Svinekam,25.90,80 g, None, Meny
+Proteinbar,34.90,55 g, None, Meny
+Kaviar 60%,32.50,190 g, None, Meny
+Nakkebacon,41.90,100 g, None, Meny
+Kokt Skinke,53.10,100 g, None, Meny
+Kokt Skinke,22.90,80 g, None, Meny
+Proteinbar,37.10,55 g, None, Meny
+Tomatsild,43.00,365 g, None, Meny
+Jordbær Moste,46.90,530 g, None, Meny
+Kalkunbacon,42.90,140 g, None, Meny
+Proteinbar,34.90,55 g, None, Meny
+Coppaskinke,41.93,80 g, 59.90, Meny
+Sjokonøtt,39.90,350 g, 49.90, Meny
+Müsli Hasselnøtt,34.90,600 g, None, Meny
+Svolværpostei,25.90,100 g, None, Meny
+Kirsebær,41.50,390 g, None, Meny
+Skinke Salvie,52.30,100 g, None, Meny
+Aprikos&Fersken,38.90,335 g, None, Meny
+Lakserogn Naturell,82.00,128 g, None, Meny
+Pålegg Vegansk,35.50,100 g, None, Meny
+Salami Fersk,29.90,80 g, None, Meny
+Bacon Røkt,42.90,125 g, None, Meny
+Skagensalat,31.90,180 g, None, Meny
+Mestersalami,36.50,120 g, None, Meny
+Peanøttsmør,68.30,350 g, None, Meny
+Strandaskinke,89.00,120 g, None, Meny
+Bringebærsyltetøy,49.90,275 g, None, Meny
+Kalkunkorv,28.90,110 g, None, Meny
+Parmaskinke,34.90,40 g, None, Meny
+Mellombar,24.90,138 g, None, Meny
+Jordbær Mosa,36.90,380 g, None, Meny
+Pepperskinke,54.70,100 g, None, Meny
+Biscoff Spread,55.90,400 g, None, Meny
+Parmaskinke,64.70,70 g, None, Meny
+Rekesalat Russisk,45.70,200 g, None, Meny
+Majones Lett,42.50,330 g, None, Meny
+Proteinbar,35.10,55 g, None, Meny
+Pepperoni,35.91,130 g, 51.30, Meny
+Mellombar,24.90,138 g, None, Meny
+Hummer/Rekesalat,47.20,180 g, None, Meny
+Nduja,26.53,100 g, 37.90, Meny
+Leverpostei Ovnsb,29.90,185 g, None, Meny
+Jordbærsyltetøy,52.90,800 g, None, Meny
+Kaviarmix,31.90,175 g, None, Meny
+Biffsalami,36.90,70 g, None, Meny
+Chorizo,79.90,220 g, None, Meny
+Rødbetsalat,21.20,180 g, None, Meny
+Musli Blåbær,49.90,630 g, None, Meny
+Granola Sjokolade,42.30,375 g, None, Meny
+Jordbærsyltetøy,44.90,535 g, None, Meny
+Sursild,37.70,208 g, None, Meny
+Provence Skinke,58.90,100 g, None, Meny
+Kokt Skinke,47.80,100 g, None, Meny
+Rødvinsalami,54.50,100 g, None, Meny
+Mellombar,24.90,130 g, None, Meny
+Pepperbaconpostei,37.40,185 g, None, Meny
+Be-Kind Nøttebar,16.90,40 g, 21.90, Meny
+Granola,46.10,450 g, None, Meny
+Salami Spesial,51.40,130 g, None, Meny
+Havregranola,34.90,400 g, 46.90, Meny
+Skinke Kokt,45.40,150 g, None, Meny
+Krabbesalat,34.90,180 g, None, Meny
+Leverpostei Grov,23.50,200 g, None, Meny
+Kyllingservelat,23.90,110 g, None, Meny
+Granola,47.30,430 g, None, Meny
+Musli,49.70,400 g, None, Meny
+Karrisild,38.90,335 g, None, Meny
+Skinke Bøkerøkt,48.90,120 g, None, Meny
+All-Bran Regular,37.70,375 g, None, Meny
+Mellombar Jordbær,24.90,138 g, None, Meny
+Leverpostei,46.90,220 g, None, Meny
+Tunfisksalat,44.90,200 g, None, Meny
+Musli,48.90,400 g, None, Meny
+Stabbur-Makrell,36.90,185 g, None, Meny
+Haugpølse,49.90,150 g, None, Meny
+Havregrøt,34.00,525 g, None, Meny
+Urkraft Havregrøt,7.90,65 g, 11.00, Meny
+Jordbærsyltetøy,37.90,425 g, None, Meny
+Havregryn,51.80,1000 g, None, Meny
+Polarkaviar,27.90,180 g, None, Meny
+Gaffelbit,33.80,120 g, None, Meny
+Kalverullade,31.90,110 g, None, Meny
+Kyllingpostei,30.90,180 g, None, Meny
+Skagenrøre,49.90,180 g, None, Meny
+Eple&Pæresyltetøy,35.50,320 g, None, Meny
+Havregryn,34.90,1000 g, 35.90, Meny
+Mellombar,24.90,138 g, None, Meny
+Italiensk Salat,39.90,320 g, None, Meny
+Akasiehonning,78.90,350 g, None, Meny
+Leverpostei,47.90,160 g, None, Meny
+Bringebærsyltetøy,51.90,330 g, None, Meny
+Skogsbacon,39.90,140 g, None, Meny
+Skinkestek,33.90,90 g, None, Meny
+Favorittsalami,49.90,150 g, None, Meny
+Cruesli 4 Nuts,53.30,450 g, None, Meny
+Slegge Salami,41.93,100 g, 59.90, Meny
+Lammerull,47.90,100 g, None, Meny
+Strandamør,42.40,120 g, None, Meny
+Nutella,46.90,350 g, None, Meny
+Strandaskinke,55.00,70 g, None, Meny
+Gullsalami,37.90,80 g, None, Meny
+Chorizo,39.90,100 g, None, Meny
+Majones Lett,36.70,225 g, None, Meny
+Baconpostei,31.50,185 g, None, Meny
+Pepperoni,20.93,70 g, 29.90, Meny
+Kyllingbacon,36.90,140 g, None, Meny
+Italiensk Salat,21.90,400 g, None, Meny
+Havregranola,34.90,400 g, 46.90, Meny
+Musli Energi,43.90,675 g, None, Meny
+Musli m/Mango,47.60,400 g, None, Meny
+Servelat,13.80,80 g, None, Meny
+Havregryn,38.00,1000 g, None, Meny
+Fitness Frokost,39.90,375 g, None, Meny
+Hamburgerrygg,51.90,150 g, None, Meny
+Trønderfår,74.70,170 g, None, Meny
+Havre Steel Cut,48.90,500 g, None, Meny
+Kaviar,18.90,185 g, None, Meny
+4-Korn,23.30,675 g, None, Meny
+Fårepølse,64.90,140 g, None, Meny
+Fårepølse,42.90,91 g, None, Meny
+Sjokao,34.90,165 g, None, Meny
+Skinke Kokt,51.90,100 g, None, Meny
+Skinke Grilla,36.90,100 g, None, Meny
+Stabbur-Makrell,32.50,132 g, None, Meny
+Fårepølse,51.30,150 g, None, Meny
+Jåla Trøffelsalami,45.43,80 g, 64.90, Meny
+Havregryn,24.90,1200 g, 35.90, Meny
+Sylte,33.90,100 g, None, Meny
+Strandaskinke,84.00,135 g, None, Meny
+Granola Naturell,31.50,475 g, None, Meny
+Havrefras,49.70,375 g, None, Meny
+Majones Lett,28.50,175 g, None, Meny
+Kyllingsalat,39.50,200 g, None, Meny
+Peanøttsmør,61.40,340 g, None, Meny
+Kyllingsalat,29.90,180 g, None, Meny
+Cheerios Havre,47.30,375 g, None, Meny
+Salami,39.70,200 g, None, Meny
+Hawaiifilet,43.00,100 g, None, Meny
+Fruktsalat,42.90,200 g, None, Meny
+Servelat,25.90,150 g, None, Meny
+Egg&Reker,44.90,200 g, None, Meny
+Mellombar,24.90,138 g, None, Meny
+Italiensk Salat,29.90,180 g, None, Meny
+Okserull,39.90,100 g, None, Meny
+Chorizo,31.36,130 g, 44.80, Meny
+Stjernebacon,46.90,105 g, None, Meny
+Nesquik,37.70,375 g, None, Meny
+Postei Ovnsbakt,29.90,185 g, None, Meny
+Coco Pops,44.90,375 g, None, Meny
+Cruesli Solfrokost,42.50,450 g, None, Meny
+Jubelsalami,89.00,250 g, None, Meny
+Familieskinke,31.30,150 g, None, Meny
+Villmarksbacon,39.90,120 g, None, Meny
+Eggesalat,43.70,200 g, None, Meny
+Jubelsalami,42.30,100 g, None, Meny
+Porchetta,48.90,100 g, None, Meny
+Pepperoni,37.90,100 g, None, Meny
+Tresor Choco Nut,48.10,410 g, None, Meny
+Urkorn Granola,46.80,350 g, None, Meny
+Jordbærsyltetøy,27.20,410 g, None, Meny
+Majones Ekte,38.70,330 g, None, Meny
+Chilikreps Salat,39.50,180 g, None, Meny
+Majones Ekte,12.00,170 g, None, Meny
+Skinkestek,43.90,100 g, None, Meny
+Grønnsakspålegg,40.30,165 g, None, Meny
+Hamburgerrygg,44.90,110 g, None, Meny
+Havregryn,38.50,500 g, None, Meny
+Rekesalat,54.90,320 g, None, Meny
+Kyllingfilet,36.80,110 g, None, Meny
+Reker i Majones,49.90,200 g, None, Meny
+Hvalersalat,39.90,200 g, None, Meny
+Nistesalami,79.90,250 g, None, Meny
+Salami Familiens,23.50,80 g, None, Meny
+Frokostskinke,16.50,80 g, None, Meny
+Spekeskinke,39.90,80 g, None, Meny
+Spekeskinke,49.90,100 g, None, Meny
+Leverpostei,27.90,132 g, None, Meny
+Kalkunskiver,26.20,110 g, None, Meny
+Serrano Skinke,55.40,80 g, None, Meny
+Kokt Skinke,44.90,250 g, None, Meny
+Italiensk Salat,25.90,200 g, None, Meny
+Jordbærsyltetøy,32.50,330 g, None, Meny
+Italiensk Salat,49.80,320 g, None, Meny
+Honning Ekte,79.90,350 g, None, Meny
+Rekesalat,26.90,400 g, None, Meny
+Tunge Kokt,37.90,100 g, None, Meny
+Majones Real,49.90,400 g, None, Meny
+Gullsalami,53.90,150 g, None, Meny
+Cheerios Multi,41.90,375 g, None, Meny
+Fenalår,62.90,100 g, None, Meny
+Salami Siliana,34.90,130 g, None, Meny
+Leverpostei Grov,16.80,100 g, None, Meny
+Leverpostei,25.70,185 g, None, Meny
+Havregryn,29.00,1100 g, None, Meny
+Postei,16.50,150 g, None, Meny
+Kyllingfilet,43.50,100 g, None, Meny
+Majones Ekte,38.90,215 g, None, Meny
+Skinke Kokt,37.00,100 g, None, Meny
+Leverpostei,31.90,180 g, None, Meny
+Leverpostei,23.80,180 g, None, Meny
+Skinkebiff,48.90,100 g, None, Meny
+Smacks Honni Korn,38.30,375 g, None, Meny
+Musli Frukt,28.30,700 g, None, Meny
+Spekeskinke,34.90,80 g, None, Meny
+Reker i Majones,60.50,180 g, None, Meny
+Rekesalat,35.30,200 g, None, Meny
+Ribberull,33.90,100 g, None, Meny
+Kyllingfilet,43.50,100 g, None, Meny
+Majones Ekte,18.90,500 g, None, Meny
+Jordbærsyltetøy,29.90,960 g, None, Meny
+Servelat,23.40,250 g, None, Meny
+Pepperskinke,39.80,100 g, None, Meny
+Skagensalat,49.70,180 g, None, Meny
+Krepsehaler,49.90,200 g, None, Meny
+Ribberull,40.30,100 g, None, Meny
+Bacon u/Svor,99.00,400 g, None, Meny
+Kalkunfilet,32.90,110 g, None, Meny
+Corn Flakes,35.90,500 g, None, Meny
+Salami,47.90,250 g, None, Meny
+Kaviar,35.90,245 g, None, Meny
+Roastbiff,47.90,100 g, None, Meny
+Stabbur-Makrell,15.90,110 g, None, Meny
+Rødbetsalat,28.30,200 g, None, Meny
+Frukt Müsli,32.90,1000 g, None, Meny
+Tyttebærsyltetøy,31.90,960 g, None, Meny
+Leverpostei,11.50,100 g, None, Meny
+Jubelsalami,49.20,170 g, None, Meny
+Roastbiff,32.90,90 g, None, Meny
+Stabbur-Makrell,14.30,110 g, None, Meny
+Bringebærsyltetøy,37.90,400 g, None, Meny
+Leverpostei,20.20,200 g, None, Meny
+Fenalår Tørket,94.90,100 g, None, Meny
+Jordbærsyltetøy,16.90,400 g, None, Meny
+Kokt Skinke,34.40,100 g, None, Meny
+Leverpostei,25.60,190 g, None, Meny
+Nugatti Original,34.90,500 g, None, Meny
+Granola,35.90,380 g, None, Meny
+Makrell Grovrevet,11.50,100 g, None, Meny
+Makrellfilet,19.90,220 g, None, Meny
+Salami Dansk Type,26.90,250 g, None, Meny
+Salami,35.20,130 g, None, Meny
+Bringebærsyltetøy,27.20,410 g, None, Meny
+Weetabix Original,36.20,430 g, None, Meny
+Appelsinmarmelade,19.90,960 g, None, Meny
+Bacon m/Svor,57.90,400 g, None, Meny
+Crunchy Musli,27.90,750 g, None, Meny
+Havregryn,17.90,1200 g, 21.90, Meny
+Stabbur-Makrell,19.90,170 g, None, Meny
+Krepsesalat Chili,51.30,180 g, None, Meny
+Servelat,18.30,100 g, None, Meny
+Peanutbutter,31.50,350 g, None, Meny
+Leverpostei,11.90,150 g, None, Meny
+Kaviar,10.10,190 g, None, Meny
+Powerking,27.40,40 g, None, Meny
+Poppa Muslibar,12.90,25 g, None, Meny
+Majones Chilli,87.90,253 g, None, Meny
+Majones Light,89.90,400 g, None, Meny
+Ripsgele,90.00,400 g, None, Meny
+Sunda Pålegg,32.90,280 g, None, Meny
+Stabbur-Makrell,8.50,22 g, None, Meny
+Sjokolade Treat,24.90,189 g, None, Meny
+Ferskensyltetøy,44.90,110 g, None, Meny
+Ølpølse,34.90,50 g, None, Meny
+Tyttebærsyltetøy,54.90,280 g, None, Meny
+Alpen Bar,12.20,29 g, None, Meny
+Appelsinmarmelade,47.30,550 g, None, Meny
+Polentagryn,47.80,500 g, None, Meny
+Urkorn Granola,79.90,350 g, None, Meny
+Sjokoladepålegg,59.90,200 g, None, Meny
+Honning No.4,89.00,350 g, None, Meny
+Powerking,20.20,40 g, None, Meny
+Tyttebær,46.00,390 g, None, Meny
+Special K,59.90,300 g, None, Meny
+Cocktailbit Dill,28.90,55 g, None, Meny
+Ansjosfilet,62.60,148 g, None, Meny
+Kaviar,36.90,60 g, None, Meny
+Special K,55.80,375 g, None, Meny
+Chorizo,165.00,225 g, None, Meny
+Havregrøt,65.40,1 stk, None, Meny
+Honning Ekte,72.50,400 g, None, Meny
+Corn Flakes,56.50,250 g, None, Meny
+Syltetøy til Ost,27.20,110 g, None, Meny
+Marmelade Citrus,62.80,340 g, None, Meny
+Moltesyltetøy,89.00,480 g, None, Meny
+Stabbur,49.90,130 g, None, Meny
+Coppaskinke,91.90,618 g, None, Meny
+Fjellhonning,93.00,350 g, None, Meny
+Crystal Marmelade,65.80,340 g, None, Meny
+Aprikos&Fersken,48.50,380 g, None, Meny
+Molte,83.00,380 g, None, Meny
+Chorizo,155.00,225 g, None, Meny
+Vegetarpostei,39.70,200 g, None, Meny
+Powerking,19.00,40 g, None, Meny
+Muslimiks m/Bær,68.40,425 g, None, Meny
+Chiligele,71.80,110 g, None, Meny
+Nugatti,59.90,325 g, None, Meny
+Landpate,94.90,150 g, None, Meny
+Fulfil Proteinbar,32.20,55 g, None, Meny
+Småsulten Bar,21.40,40 g, None, Meny
+Ansjosfilet,50.90,100 g, None, Meny
+Majones Ekte,34.90,165 g, None, Meny
+Supergranola,84.00,350 g, None, Meny
+Granola,92.00,400 g, None, Meny
+Mintgele,49.20,210 g, None, Meny
+Proteinbar,30.80,60 g, None, Meny
+Gullpostei,33.40,180 g, None, Meny
+Havreputer,70.50,300 g, None, Meny
+Kryddersildfilet,75.10,350 g, None, Meny
+Remulade,42.70,300 ml, None, Meny
+Pålegg Vegansk,37.90,100 g, None, Meny
+Granola Mandler,45.50,475 g, None, Meny
+Frokostkuler,61.90,250 g, None, Meny
+Bringebær/Rips,69.70,320 g, None, Meny
+Appetittsild,49.90,170 g, None, Meny
+Havregrøt,10.50,1 stk, None, Meny
+Mandelsmør Lyst,179.00,250 g, None, Meny
+Speka Pølse,69.90,80 g, None, Meny
+Fikensyltetøy,58.00,225 g, None, Meny
+Fulfil Proteinbar,30.70,55 g, None, Meny
+Spekesnacks Kompis,35.90,55 g, None, Meny
+Silderogn Sort,47.00,50 g, None, Meny
+Stabbur-Laks,72.20,160 g, None, Meny
+Corn Flakes,51.50,375 g, None, Meny
+Sandwich Majones,19.90,100 ml, None, Meny
+Spekesildfilet,69.50,250 g, None, Meny
+Henriksenpølse,45.40,100 g, None, Meny
+Grønnsakspostei,36.50,150 g, None, Meny
+Ølpølse,36.80,50 g, None, Meny
+Ølpølse Caramba,34.90,50 g, None, Meny
+Gjestgiversild,61.90,282 g, None, Meny
+Hamburgerrygg,27.40,80 g, None, Meny
+Majones Original,93.00,160 g, None, Meny
+Salami Snack,98.90,120 g, None, Meny
+Twin Bar,38.90,65 g, None, Meny
+Urkorn Granola,89.00,350 g, None, Meny
+Kryddersildfilet,69.50,250 g, None, Meny
+Sjokoringer,39.50,375 g, None, Meny
+Solbær,51.90,380 g, None, Meny
+Silderogn Rød,46.00,50 g, None, Meny
+Parmaskinke,124.00,517 g, None, Meny
+Blåbærsyltetøy,47.40,480 g, None, Meny
+Havregryn Små,34.90,1 stk, None, Meny
+Spekesnacks Kompis,34.50,55 g, None, Meny
+Honning m/Valnøtt,99.00,120 g, None, Meny
+Ha-På,36.90,310 g, None, Meny
+Jordbærsyltetøy,67.90,420 g, None, Meny
+Solbærsyltetøy,39.90,400 g, None, Meny
+Antipasti,153.00,556 g, None, Meny
+Aprikossyltetøy,45.40,400 g, None, Meny
+Tasty Snack,26.90,40 g, None, Meny
+Peanøttsmør,39.90,340 g, None, Meny
+Sommerhonning,59.90,360 g, None, Meny
+Gourmetsild,57.90,186 g, None, Meny
+Spekeskinke,75.30,995 g, None, Meny
+Musli,47.90,400 g, None, Meny
+Ripsgele,49.90,330 g, None, Meny
+Ølpølse Red Devil,34.90,50 g, None, Meny
+Spekepølse hel,89.00,220 g, None, Meny
+Fikenmarmelade,49.00,260 g, None, Meny
+Plommesyltetøy,56.20,320 g, None, Meny
+Sursild Mors,65.00,620 g, None, Meny
+Majones Vegan,74.90,268 g, None, Meny
+Stabbur-Laks,38.90,90 g, None, Meny
+Kyllingsalat,54.90,1 stk, None, Meny
+Granola,51.70,400 g, None, Meny
+Plommesyltetøy,63.80,284 g, None, Meny
+Trøffelsalami,38.99,50 g, 55.70, Meny
+Utsirasild,59.90,282 g, None, Meny
+Hjortepølse,79.90,255 g, None, Meny
+Hvitløkspølse,79.90,275 g, None, Meny
+Reinsdyrpølse,79.90,255 g, None, Meny
+Salami Milano,82.00,125 g, None, Meny
+Spekesnacks Kompis,26.90,40 g, None, Meny
+Remulade,25.50,150 g, None, Meny
+Proteinbar,42.70,55 g, None, Meny
+Mixed Garden,55.90,100 g, None, Meny
+Majones Real,43.90,200 g, None, Meny
+Cereal Flakes,62.10,300 g, None, Meny
+Nøttesmør,67.30,180 g, None, Meny
+Svartpølse,48.90,100 g, None, Meny
+Spekesnacks Kompis,28.50,40 g, None, Meny
+Peanøttsmør Grovt,54.90,250 g, None, Meny
+Nugatti Air,47.90,340 g, None, Meny
+Proteinella,45.90,200 g, None, Meny
+Baconpølse,79.90,275 g, None, Meny
+Marmelade,66.40,120 g, None, Meny
+Markjordbær,82.00,400 g, None, Meny
+Hjortepølse,139.00,250 g, None, Meny
+Spekesnacks Kompis,32.50,55 g, None, Meny
+Musli m/Bokhvete,58.50,300 g, None, Meny
+Blåbærsyltetøy,62.50,284 g, None, Meny
+Blåbærsyltetøy,42.90,275 g, None, Meny
+Sagogryn,35.90,250 g, None, Meny
+Spekesnacks Kompis,26.90,40 g, None, Meny
+Pancetta Cubetti,86.80,160 g, 124.00, Meny
+Jordbærsyltetøy,31.30,275 g, None, Meny
+Kjøleskapsgrøt,51.40,1 stk, None, Meny
+Nugatti,8.60,23 g, None, Meny
+Proteinbar,34.90,55 g, None, Meny
+Fenalår,69.90,80 g, None, Meny
+Mortadella,102.00,120 g, None, Meny
+Sursild,75.00,360 g, None, Meny
+Mango&Pasjonsfrukt,61.80,284 g, None, Meny
+Appelsinmarmelade,41.30,435 g, None, Meny
+Blåbærsyltetøy,49.90,435 g, None, Meny
+Totenpølse,43.90,100 g, None, Meny
+Eplemos m/Mango,29.10,360 g, None, Meny
+Eldhusfår,44.00,90 g, None, Meny
+Bringebærsyltetøy,75.90,280 g, None, Meny
+Akasiehonning,65.90,300 g, None, Meny
+Sognemorr,43.90,130 g, None, Meny
+Salami m/Parmesan,55.50,100 g, None, Meny
+Filetbacon,39.90,110 g, None, Meny
+'nduja,69.90,180 g, None, Meny
+Granola,101.00,340 g, None, Meny
+Corn Flakes,47.10,375 g, None, Meny
+Ansjosfilet,68.00,125 g, None, Meny
+Aprikosmarmelade,46.30,250 g, None, Meny
+Parmaskinke,187.00,200 g, None, Meny
+Salami,84.90,125 g, None, Meny
+Granola glutenfri,79.90,350 g, None, Meny
+Speka Pølse,61.90,80 g, None, Meny
+Havrebar,12.90,35 g, None, Meny
+Parmaskinke,159.00,489 g, None, Meny
+Aprikos&Fersken,56.90,820 g, None, Meny
+Pepperonipølse,75.90,275 g, None, Meny
+Flapjack,19.60,80 g, None, Meny
+Spekepølse hel,107.00,220 g, None, Meny
+Majones m/Wasabi,93.00,160 g, None, Meny
+Nugatti Tube,39.90,250 g, None, Meny
+Skutesild,54.90,282 g, None, Meny
+Pastasalat,69.10,215 g, None, Meny
+Tyttebærsyltetøy,45.70,430 g, None, Meny
+Lynghonning,132.00,250 g, None, Meny
+Nugatti,54.90,325 g, None, Meny
+Skinkebiff,48.90,100 g, None, Meny
+Fersken Syltetøy,59.80,284 g, None, Meny
+Sursild,59.90,536 g, None, Meny
+Nidaros Salami,53.10,80 g, None, Meny
+Granola,51.90,430 g, None, Meny
+Syltetøy til Ost,83.00,330 g, None, Meny
+Appelsinmarmelade,40.90,840 g, None, Meny
+Sommerhonning,99.00,750 g, None, Meny
+Bringebærhonning,97.00,350 g, None, Meny
+Rømmesild,44.40,335 g, None, Meny
+Appelsinmarmelade,59.70,420 g, None, Meny
+Salat Crabstick,26.90,180 g, None, Meny
+Leverpostei,5.40,22 g, None, Meny
+Leverpostei,16.90,100 g, None, Meny
+Appelsinmarmelade,51.90,400 g, None, Meny
+Familieskinke,40.30,150 g, None, Meny
+Appelsinmarmelade,38.10,265 g, None, Meny
+Banos Pålegg,27.90,240 g, None, Meny
+Lammelår Marinert,99.00,417 g, None, Meny
+Majo,36.70,330 g, None, Meny
+Elgpølse,129.00,250 g, None, Meny
+Nugatti Max,57.90,450 g, None, Meny
+Serranoskinke,79.90,80 g, None, Meny
+Supergrøt,17.90,1 stk, None, Meny
+Aurdalstabbur,54.90,100 g, None, Meny
+Fikensyltetøy,55.70,250 g, None, Meny
+Krydderskinke,53.70,100 g, None, Meny
+Peanøttsmør,69.90,462 g, None, Meny
+Pålegg Salamismak,47.90,100 g, None, Meny
+Müsli,52.70,350 g, None, Meny
+Lynghonning,99.00,350 g, None, Meny
+Tørrsaltet Bacon,85.00,250 g, None, Meny
+Vulkan Chorizo,99.00,220 g, None, Meny
+Bjørnebærsyltetøy,74.90,370 g, None, Meny
+Honning Norsk,69.90,240 g, None, Meny
+Picante,42.40,100 g, None, Meny
+Ripsgele,36.30,250 g, None, Meny
+Bringebærsyltetøy,72.70,420 g, None, Meny
+Eplemos,38.30,440 g, None, Meny
+Blåbærsyltetøy,45.90,330 g, None, Meny
+Tyttebær Rørte,66.90,360 g, None, Meny
+Sangnæspølsa,66.90,150 g, None, Meny
+Kaviar Klassisk,29.90,185 g, None, Meny
+Granola Pekan,51.50,350 g, None, Meny
+Fiberhavregryn,22.60,600 g, None, Meny
+Bacon Tørrsaltet,67.90,120 g, None, Meny
+Italiana,79.90,220 g, None, Meny
+Skinke Lettrøkt,47.90,100 g, None, Meny
+Multibar,42.60,129 g, None, Meny
+Cocoa Balls,53.60,250 g, None, Meny
+Speka Pølse,125.00,220 g, None, Meny
+Solbærsyltetøy,65.90,420 g, None, Meny
+Kryddersalami,48.90,90 g, None, Meny
+Lunsjboks,85.00,355 g, None, Meny
+Røros Majones,38.50,165 g, None, Meny
+Kyllingpostei,18.50,100 g, None, Meny
+Sangnæspølsa,159.00,420 g, None, Meny
+Makrell i Tomat,19.90,110 g, None, Meny
+Aurdalstabbur,115.00,250 g, None, Meny
+Tyttebærsyltetøy,51.60,330 g, None, Meny
+Jordbær Moste,34.90,390 g, None, Meny
+Fiocco&Salami,79.90,85 g, None, Meny
+Jordbærsyltetøy,45.90,370 g, None, Meny
+Passe Salami,59.90,100 g, None, Meny
+Majones Ekte,28.50,330 g, None, Meny
+Salami,51.30,150 g, None, Meny
+Solbærsyltetøy,46.60,320 g, None, Meny
+Italiana,51.80,130 g, None, Meny
+Leverpostei,33.90,132 g, None, Meny
+Prosciutto Crudo,79.90,85 g, None, Meny
+Norsk Honning,129.00,700 g, None, Meny
+Jubelsalami Pepper,46.60,100 g, None, Meny
+Blåbærsyltetøy,56.90,370 g, None, Meny
+Bacon Tørrsaltet,84.00,150 g, None, Meny
+Speka Pølse,79.90,100 g, None, Meny
+Salami Fennikel,31.29,50 g, 44.70, Meny
+Slegge Salami,141.00,255 g, None, Meny
+Strandaskinke,59.90,80 g, None, Meny
+Nugatti Porsjon,47.90,125 g, None, Meny
+Kirsebærsyltetøy,34.50,340 g, None, Meny
+Krydderskinke,53.20,100 g, None, Meny
+Cashewsmør,104.00,250 g, None, Meny
+Pablo Salami,143.00,255 g, None, Meny
+Tyttebær Nyrørte,58.50,365 g, None, Meny
+Kalkunbacon,37.90,120 g, None, Meny
+Trønderfår,46.00,100 g, None, Meny
+Melbu Kaviar,54.90,190 g, None, Meny
+Spekepølse hel,83.00,220 g, None, Meny
+Tromsørull Lam,59.90,100 g, None, Meny
+Boysenbærsyltetøy,78.00,420 g, None, Meny
+Aquavitgele,53.90,155 g, None, Meny
+Leverpostei Grov,45.40,400 g, None, Meny
+Tromsøsylte,55.90,100 g, None, Meny
+Gourmetskinke,48.60,100 g, None, Meny
+Makrell i Tomat,19.90,110 g, None, Meny
+Supergrøt,17.70,1 stk, None, Meny
+Multesyltetøy,143.00,420 g, None, Meny
+Fenalår,71.90,100 g, None, Meny
+Strandamør,84.90,250 g, None, Meny
+Leverpostei,49.90,160 g, None, Meny
+Eplegele,32.90,250 g, None, Meny
+Blåbærsyltetøy,74.90,160 g, None, Meny
+Grønnsakspålegg,35.90,165 g, None, Meny
+Proteinbar,30.80,60 g, None, Meny
+Virginia Filet,34.90,100 g, None, Meny
+Fenalår,247.00,300 g, None, Meny
+Ripsgele,39.90,70 g, None, Meny
+Røros Majones,39.70,165 g, None, Meny
+Ripsgele,67.60,125 g, None, Meny
+Spekeskinke Deli,79.90,80 g, None, Meny
+Lomo,89.90,90 g, None, Meny
+Spekeskinke,47.80,80 g, None, Meny
+Laksepålegg,39.80,165 g, None, Meny
+Coppaskinke,52.70,70 g, None, Meny
+Tromsøskinke,39.90,100 g, None, Meny
+Sjokade,36.90,450 g, None, Meny
+Bringebærsyltetøy,43.90,435 g, None, Meny
+Fuet Salami,73.90,100 g, None, Meny
+Bringebærsyltetøy,59.90,225 g, None, Meny
+Blåbærsyltetøy,39.40,960 g, None, Meny
+Chilimarmelade,68.80,110 g, None, Meny
+Bringebærsyltetøy,61.90,800 g, None, Meny
+Solbærgele,31.50,250 g, None, Meny
+Prosciutto Cotto,165.00,1650 g, None, Meny
+Skinke Bøkerøkt,192.00,1000 g, None, Meny
+Bacon Original,49.90,130 g, None, Meny
+Salami Finocchio,69.90,80 g, None, Meny
+Makrellfilet,16.90,110 g, None, Meny
+Bacon Bøkerøkt,62.90,250 g, None, Meny
+Skjåkgryn,18.90,1000 g, None, Meny
+Havregryn,29.90,1000 g, 35.90, Meny
+Granola,40.80,430 g, None, Meny
+Spekeskinke,67.90,150 g, None, Meny
+Sotahjørnet,95.00,220 g, None, Meny
+Bbq Filet Grilla,39.40,100 g, None, Meny
+Nugatti Zero,39.90,325 g, None, Meny
+Solbærsyltetøy,69.10,125 g, None, Meny
+Naturell Pålegg,47.90,100 g, None, Meny
+Kirsebærgele,29.40,250 g, None, Meny
+Okserull,47.90,100 g, None, Meny
+Stabbur-Makrell,11.70,90 g, None, Meny
+Sennepsmajones,44.90,240 g, None, Meny
+Makrell i Tomat,20.90,170 g, None, Meny
+Viltpate,92.90,250 g, None, Meny
+Bringebærsyltetøy,55.90,540 g, None, Meny
+Spekeskinke Røkt,370.80,1200 g, None, Meny
+Fenalår Av Lam,727.68,1920 g, None, Meny
+Bacon,34.90,140 g, None, Meny
+Salami Strolghino,84.90,125 g, None, Meny
+Makrell i Tomat,14.90,110 g, None, Meny
+Hamburgerrygg,44.90,250 g, None, Meny
+Salami,79.90,85 g, None, Meny
+Sjokoladepålegg,25.90,400 g, None, Meny
+Serranoskinke,179.00,300 g, None, Meny
+Laksepålegg,42.90,165 g, None, Meny
+Spekeskinke,99.00,300 g, None, Meny
+Nøttepålegg,24.90,400 g, None, Meny
+Corn Flakes,29.90,750 g, None, Meny
+Sursild,25.60,500 g, None, Meny
+Eplegele,50.90,425 g, None, Meny
+Poppa Muslibar,13.80,23 g, None, Meny
+Myntegele,70.90,200 g, None, Meny
+Lofotpostei,36.50,100 g, None, Meny
+Cocktailbit Sherry,29.50,55 g, None, Meny
+Chorizo,69.90,100 g, None, Meny
+Kick Naturell,117.00,375 g, None, Meny
+Rødvingele,60.70,425 g, None, Meny
+Serrano Skinke,74.60,1135 g, None, Meny
+Aprikos m/Mandler,45.50,110 g, None, Meny
+Alpen Musli,68.30,560 g, None, Meny
+Chorizo,56.90,80 g, None, Meny
+Chorizo,99.00,200 g, None, Meny
+Salami,94.90,125 g, None, Meny
+Jordbærsyltetøy,68.90,420 g, None, Meny
+Peppermyntegele,55.70,425 g, None, Meny
+Kirsebærgele,70.60,200 g, None, Meny
+Blåbær,46.90,380 g, None, Meny
+Granola,68.90,375 g, None, Meny
+Rømmesild,49.90,99 g, None, Meny
+Fiken Syltetøy,66.70,284 g, None, Meny
+Fenalår Urøkt,868.50,1500 g, None, Meny
+Serrano Skinke,154.00,285 g, None, Meny
+Hamburgerrygg,52.50,150 g, None, Meny
+Elgpølse,81.90,255 g, None, Meny
+Appelsinmarmelade,54.90,340 g, None, Meny
+Eldhusbacon i stykk,174.40,400 g, None, Meny
+Sjokoladepålegg,74.90,275 g, None, Meny
+Fire Frukter,63.00,284 g, None, Meny
+Gåsepate,45.90,80 g, None, Meny
+Marmelade,60.50,340 g, None, Meny
+Honning,51.00,130 g, None, Meny
+Black Cherry,62.20,284 g, None, Meny
+Dillsild,54.90,135 g, None, Meny
+Eplegele,43.50,330 g, None, Meny
+Egg og Rekesalat,47.90,180 g, None, Meny
+Makrell i Tomat,24.30,110 g, None, Meny
+Inkognito Salami,105.00,220 g, None, Meny
+Jordbærmarmelade,58.60,265 g, None, Meny
+Kryddersalami,59.90,150 g, None, Meny
+Salchicha Pikante,79.90,220 g, None, Meny
+Jordbær Rørte,60.40,250 g, None, Meny
+Speka Pølse,56.90,80 g, None, Meny
+Bresaola,124.00,225 g, None, Meny
+Appelsin & Ingefær,59.40,284 g, None, Meny
+Blåbærsyltetøy,68.60,420 g, None, Meny
+Leverpostei,35.80,175 g, None, Meny
+Hvitløkspate,94.90,150 g, None, Meny
+Bacon Speket,47.90,75 g, None, Meny
+Lynghonning,75.50,250 g, None, Meny
+Bringebær Rørte,65.30,250 g, None, Meny
+Spekeskinke,49.90,80 g, None, Meny
+Bresaola,64.90,70 g, None, Meny
+Peanøttsmør,69.90,462 g, None, Meny
+Bringebærsyltetøy,48.90,370 g, None, Meny
+Rødvinsalami Kubb,164.00,420 g, None, Meny
+Appelsinmarmelade,55.60,280 g, None, Meny
+Ølgelé,35.00,110 g, None, Meny
+Rødvinsnabb,99.00,300 g, None, Meny
+Skogshonning,94.00,350 g, None, Meny
+Passe Salami,140.00,255 g, None, Meny
+Rødvinsgele,69.90,155 g, None, Meny
+Leverpostei Grov,36.90,200 g, None, Meny
+Mango&Chili,75.60,110 g, None, Meny
+Rekesalat,26.30,180 g, None, Meny
+Provencefilet,49.90,110 g, None, Meny
+Jalapenoskinke,25.90,80 g, None, Meny
+Salami,83.00,125 g, None, Meny
+Crunchy Musli,52.20,450 g, None, Meny
+Fenalår,574.80,1200 g, None, Meny
+Leverpostei,21.70,240 g, None, Meny
+Myntegele,54.90,170 g, None, Meny
+Rognebærgele,61.30,160 g, None, Meny
+Coppaskinke Deli,79.90,80 g, None, Meny
+Angus Pastrami,449.00,1 stk, None, Meny
+Medisterkaker,55.20,300 g, None, Meny
+Multesyltetøy,115.00,370 g, None, Meny
+Ripsgele,59.90,170 g, None, Meny
+Pate Forest Style,54.90,150 g, None, Meny
+Pate Truffle,59.90,150 g, None, Meny
+Tomatsild,39.90,146 g, None, Meny
+Bacon,196.00,400 g, None, Meny
+Spekeskinke,159.00,300 g, None, Meny
+Speka Pølse,54.90,80 g, None, Meny
+Lammelår Speket,64.90,70 g, None, Meny
+Speck Affettato,86.00,1147 g, None, Meny
+Eple&Kanelsyltetøy,61.80,284 g, None, Meny
+Nduja,77.00,200 g, 110.00, Meny
+Reinpølse Speket,72.90,100 g, None, Meny
+Majones Real,61.90,250 ml, None, Meny
+Bringebærsyltetøy,34.90,960 g, None, Meny
+Salami Napoli,84.90,125 g, None, Meny
+Enervit Keto Bar,29.90,35 g, None, Meny
+Enervit Proteinbar,29.90,40 g, None, Meny
+Kofte Vebab,45.90,200 g, None, Meny
+Tyttebærsyltetøy,72.00,160 g, None, Meny
+Majones Garlic,59.90,253 g, None, Meny
+Bringebærsyltetøy,68.90,280 g, None, Meny
+Rognebærgele,95.00,400 g, None, Meny
+Nøtte-Pålegg,36.50,250 g, None, Meny
+Fenalår,804.00,2000 g, None, Meny
+Solbærgele,75.40,200 g, None, Meny
+Aquavitgele,169.00,270 g, None, Meny
+Aprikossyltetøy,55.60,284 g, None, Meny
+Spekepølse hel,79.90,220 g, None, Meny
+Eplegele,67.60,125 g, None, Meny
+Rognebærgele,59.50,200 g, None, Meny
+Ripsgele,71.90,200 g, None, Meny
+Fleskepølse,46.90,150 g, None, Meny
+Fruktmusli,87.00,550 g, None, Meny
+Portvingele,62.70,200 g, None, Meny
+Marmelade,66.40,120 g, None, Meny
+Fikenmarmelade,72.30,100 g, None, Meny
+Marmelade,66.40,120 g, None, Meny
+Ripsgele,56.70,425 g, None, Meny
+Marmelade,68.90,120 g, None, Meny
+Fikensyltetøy,39.60,110 g, None, Meny
+Rødvingele,54.80,200 g, None, Meny
+Pizzatopping,24.50,80 g, None, Meny
+Pizzatopping,24.50,80 g, None, Meny
+Serrano,64.90,70 g, None, Meny
+Waldorfsalat,43.70,350 g, None, Meny
+Holy Baloney,144.00,255 g, None, Meny
+Bringebærsyltetøy,49.90,325 g, None, Meny
+Aprikossyltetøy,66.90,325 g, None, Meny
+Sommerhonning,89.00,350 g, None, Meny
+Poppa Muslibar,37.90,100 g, None, Meny
+Ølpølse Bierbanger,34.90,50 g, None, Meny
+Stikkelsbær,63.00,420 g, None, Meny
+Flapjack Tranebær,39.90,85 g, None, Meny
+Kokt Skinke Ekte,47.80,100 g, None, Meny
+Kyllingfilet Spicy,53.10,100 g, None, Meny
+Weetos Choco,50.90,375 g, None, Meny
+Oreo O's,49.90,350 g, None, Meny
+Krydderskinke,53.70,110 g, None, Meny
+Sylte Håndlaget,44.50,100 g, None, Meny
+Italiensk Salat,29.90,200 g, None, Meny
+Prosciutto Cotto,56.70,100 g, 81.00, Meny
+Spekeskinke,76.90,80 g, None, Meny
+Ris Puffet,17.90,260 g, None, Meny
+Fuet Salami,135.00,170 g, None, Meny
+Havregryn Store,34.90,1 stk, None, Meny
+Marmelade,66.40,120 g, None, Meny
+Frokost-Tall,49.90,250 g, None, Meny
+Snackpølse,57.30,120 g, None, Meny
+Sommersalat,39.90,1 stk, None, Meny
+Speka Pølse,69.90,80 g, None, Meny
+Blåbærmarmelade,45.80,250 g, None, Meny
+Appelsinmarmelade,45.80,260 g, None, Meny
+Salami Italiano,69.90,70 g, None, Meny
+Appelsinmarmelade,50.80,400 g, None, Meny
+Salchichon,39.90,80 g, None, Meny
+Kylling Løvtynn,46.90,100 g, None, Meny
+Svinefilet Speket,49.90,80 g, None, Meny
+Servelat,25.40,150 g, None, Meny
+Havregryn Store,39.90,500 g, None, Meny
+Jubelsalami,43.60,100 g, None, Meny
+Puffet Havre,27.90,340 g, None, Meny
+Salciccia Toscana,175.00,300 g, None, Meny
+Iberico Skinke,209.00,341 g, None, Meny
+Andeleverpate,56.80,80 g, None, Meny
+Kødpølse 9%,19.80,80 g, None, Meny
+Gourmetsild,50.90,185 g, None, Meny
+Serrano Skinke,57.90,80 g, None, Meny
+Kalkunfilet,47.90,110 g, None, Meny
+Strandafilet,56.90,70 g, None, Meny
+Salciccia Toscana,175.00,300 g, None, Meny
+Linsepostei,32.00,175 g, None, Meny
+Pepperoni,79.90,220 g, None, Meny
+Kolbasz Paprika,140.00,200 g, None, Meny
+Wintersalami,165.00,250 g, None, Meny
+Chorizo,27.16,70 g, 38.80, Meny
+Hot Chorizo,41.90,100 g, None, Meny
+Jåla Trøffelsalami,149.00,250 g, None, Meny
+Trøffelsalami,52.20,80 g, None, Meny
+Bacon Tørrsaltet,59.90,100 g, None, Meny
+Serrano Skinke,76.90,80 g, None, Meny
+Sommerhonning,69.90,250 g, None, Meny

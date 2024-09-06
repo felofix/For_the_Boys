@@ -1,0 +1,4 @@
+BBQ Meat Feast Pizza,63.20,475
+Pizza Prosciutto,50.40,434
+Pizza Nduja,50.40,427
+Calzone Pepperoni og Ost,38.10,305

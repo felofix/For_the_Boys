@@ -134,7 +134,7 @@ def ingredient_names_overhaul(ingredient_names, ingredient_search):
 
     for w in range(len(new_list)):
         if new_list[w] in non_words:
-            continue
+            final_list.append("")
         else:
             final_list.append(new_list[w])
 
@@ -237,7 +237,6 @@ get_recipe("https://www.matprat.no/oppskrifter/familien/selleribiffer-med-varm-l
 get_recipe("https://www.matprat.no/oppskrifter/sunn/kikertgryte-med-oregano-og-tomat/", category = 'vegetar')
 get_recipe("https://www.matprat.no/oppskrifter/familien/spinatsuppe-med-egg/", category = 'vegetar')
 get_recipe("https://www.matprat.no/oppskrifter/rask/kikert--og-rodbeterosti/", category = 'vegetar')
-get_recipe("https://www.matprat.no/oppskrifter/kos/tofu-og-aubergine-med-basilikum/", category = 'vegetar')
 get_recipe("https://www.matprat.no/oppskrifter/familien/blomkal--og-potetcurry/", category = 'vegetar')
 get_recipe("https://www.matprat.no/oppskrifter/kos/lasagne-med-sopp/", category = 'vegetar')
 get_recipe("https://www.matprat.no/oppskrifter/tradisjon/vegetarpai-med-rotgronnsaker/", category = 'vegetar')

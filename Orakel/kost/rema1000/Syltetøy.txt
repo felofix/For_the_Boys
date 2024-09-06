@@ -1,0 +1,7 @@
+Bringebærsyltetøy,35.10,1
+Jordbærsyltetøy,27.80,1
+Eplesyltetøy Lett,30.30,525
+Bringebærsyltetøy Lett,45.00,525
+Jordbærsyltetøy Lett,40.30,525
+Blåbærsyltetøy Lett,42.40,525
+Multesyltetøy,61.20,320
