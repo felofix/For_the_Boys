@@ -7,8 +7,8 @@ class User:
     def __init__(self, name, is_vegetarian=False, non_repeating=False, non_wanted_recipies=None):
         self.name = name
         self.is_vegetarian = is_vegetarian
-        self.non_repeating = non_repeating  # Set by the user whether they want non-repeating recipes
-        self.non_wanted_recipies = non_wanted_recipies if non_wanted_recipies else []
+        self.non_repeating = non_repeating  # User flag for non-repeating recipes
+        self.non_wanted_recipies = non_wanted_recipies if non_wanted_recipies else []  # User flag for unwanted recipes
 
     def __str__(self):
         repetition = ("Non-repeating" if self.non_repeating else "Repeating")

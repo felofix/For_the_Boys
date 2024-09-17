@@ -115,8 +115,7 @@ def create_recipe_vector(ingredients_names, user):
 	recipes = cursor.fetchall()
 
 	# Make sure non_wanted recepies are removed from the search
-	if user.non_wanted_recipies:
-        recipes = [recipe for recipe in recipes if recipe[0] not in user.non_wanted_recipies]
+	if user.non_wanted_recipies:recipes = [recipe for recipe in recipes if recipe[0] not in user.non_wanted_recipies]
 
 	if len(recipes) > 1000:
 		print("USE SPARSE MATRICES.")
@@ -253,13 +252,18 @@ def return_information(recepies, best_plan, names, instructions, prices, titles,
 	return finished_ingredients, finished_amounts, finished_instructions
 	
 # Creating test user.
-user_test = u.User("odeau", is_vegetarian=True, non_repeating=True, non_wanted_recepies = [1,2])
+user_test = u.User(
+    name="odeau",
+    is_vegetarian=True,
+    non_repeating=True,  # User flag for non-repeating recipes
+    non_wanted_recipies=[1, 2]  # Replace with actual recipe titles
+)
 
-# Creating vectors. 
+# Creating vectors
 prices, recepies, names, instructions, titles, maxxer = create_vectors(user_test)
 
-# Finding meal plan. 
-findit = fmpp.FindMealplanPrice(recepies, prices, maxxer)
+# Finding meal plan, passing the user's non_repeating preference
+findit = fmpp.FindMealplanPrice(recepies, prices, maxxer, non_repeating=user_test.non_repeating)
 evolved, pop_fitness, minn = findit.evolve(10, 10000, 5, 1000)
 
 minimum_price = np.min(pop_fitness)
