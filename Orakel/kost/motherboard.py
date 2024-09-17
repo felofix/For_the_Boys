@@ -8,17 +8,16 @@ import User as u
 conn = mysql.connector.connect(
 	host="localhost",
 	user="root",
-	password="western12345",
-	database="recipes_databaze"
+	password="kostnation69",
+	database="recipes_database"
 )
 
 conn_ing = mysql.connector.connect(
 	host="localhost",
 	user="root",
-	password="western12345",
+	password="kostnation69",
 	database="ingredients"
 )
-
 """
 TBA:
 
@@ -114,6 +113,10 @@ def create_recipe_vector(ingredients_names, user):
 
 	# Fetch all recipes and their ingredients
 	recipes = cursor.fetchall()
+
+	# Make sure non_wanted recepies are removed from the search
+	if user.non_wanted_recipies:
+        recipes = [recipe for recipe in recipes if recipe[0] not in user.non_wanted_recipies]
 
 	if len(recipes) > 1000:
 		print("USE SPARSE MATRICES.")
@@ -248,8 +251,9 @@ def return_information(recepies, best_plan, names, instructions, prices, titles,
 	
 	
 	return finished_ingredients, finished_amounts, finished_instructions
+	
 # Creating test user.
-user_test = u.User("odeau", is_vegetarian=True, is_repetitive=False)
+user_test = u.User("odeau", is_vegetarian=True, non_repeating=True, non_wanted_recepies = [1,2])
 
 # Creating vectors. 
 prices, recepies, names, instructions, titles, maxxer = create_vectors(user_test)
