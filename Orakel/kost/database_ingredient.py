@@ -1,59 +1,226 @@
 import mysql.connector
-import numpy as np
-from tqdm import tqdm
-from deep_translator import GoogleTranslator
+
+#Deletes all entries. 
+# Connect to MySQL database
+conn = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    password="western12345",
+    database="recipes_databaze"
+)
+
+# Connect to the MySQL database
+conn_ingr = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    password="western12345",
+    database="ingredients"
+)
+
+# Create a cursor object
+cursor = conn.cursor()
+
+def delete_all_entries():
+    # Create a cursor object
+    cursor = conn.cursor()
+
+    # Delete all entries in the recipes_data_siloed table
+    delete_query = "DELETE FROM recipe_data_siloed"
+    cursor.execute(delete_query)
+    conn.commit()  # Commit the changes
+
+    # Check if the table is empty by selecting all entries
+    select_query = "SELECT * FROM recipe_data_siloed"
+    cursor.execute(select_query)
+    results = cursor.fetchall()
+
+    # Print results to confirm deletion
+    if not results:
+        print("All entries in 'recipes_data_siloed' have been successfully deleted.")
+    else:
+        print("There are still some entries in the 'recipes_data_siloed' table:")
+        for row in results:
+            print(row)
+
+    # Close the cursor and connection
+    cursor.close()
+    conn.close()
+
+
+"""
+import mysql.connector
 
 # Connect to the MySQL database
 conn = mysql.connector.connect(
-    host="localhost",  # Replace with your MySQL host name or IP address
-    user="root",  # Replace with your MySQL username
-    password="",  # Replace with your MySQL password
-    database="ingredients"  # Replace with the name of your MySQL database
+    host="localhost",
+    user="root",
+    password="western12345",
+    database="ingredients"
 )
 
-def add_product(name, price, amount, preprice, store, typ, english):
-	# Check if the product already exists in the "products" table
-	
-	product_data = (name, price, amount, preprice, store, typ, english)
-
-	try:
-		cursor.execute("""
-		    INSERT INTO products (name, price, amount, before_price, store, type, english)
-		    VALUES (%s, %s, %s, %s, %s, %s, %s)
-		""", product_data)
-		conn.commit()  # Commit the changes to the database
-	except mysql.connector.Error:
-		pass
-
-# Create a cursor object to interact with the database
-ingredient_type = ["dinner", "drink", "dinner", "dinner", "dinner", "dinner", "breakfast", "dessert", "dinner", "dinner", "snacks", "dinner", "dinner"]
+# Create a cursor object
 cursor = conn.cursor()
 
+# List of ingredients to search for
+ingredient_list = ['tofu', 'sennep']
 
-with open("meny/metadata.txt") as categories:
-	count = 0
-	documents = categories.readlines()
-	for document in documents:
-		with open("meny/" + document.split("\n")[0]) as test:
-			lines = test.readlines()[1:]
-			for line in lines:
-				splitline = line.split(",")
-				name = splitline[0]
-				price = splitline[1]
-				amount = splitline[2]
-				preprice = splitline[3]
-				butikk = splitline[4].split('\n')[0]
-				typ = ingredient_type[count]
-				if typ == "dinner":
-					english = GoogleTranslator(source='no', target='en').translate(f"{name}")
-					add_product(name, price, amount, preprice, butikk, typ, english)
-				else:
-					add_product(name, price, amount, preprice, butikk, typ, None)
-		print(count)
-		count += 1
+# Loop through each ingredient and perform the search
+for ingredient in ingredient_list:
+    # Prepare the SQL query to search for the ingredient in the products table
+    query = "SELECT * FROM products WHERE name LIKE %s"
+    cursor.execute(query, ('%' + ingredient + '%',))
 
-conn.commit()
+    # Fetch all results that match the query
+    results = cursor.fetchall()
 
-# Close the cursor and database connection
+    # Print the search results
+    if results:
+        print(f"Found matches for '{ingredient}':")
+        for row in results:
+            print(row)
+    else:
+        print(f"No matches found for '{ingredient}'.")
+
+# Close the cursor and connection
 cursor.close()
 conn.close()
+"""
+
+# Assuming 'conn' is your database connection object
+def find_recipes(recipes_to_search):
+    # Create a cursor object
+    cursor = conn.cursor()
+
+    # Create a query to search for the recipes in the list
+    # Using placeholders for parameterized query
+    search_query = """
+    SELECT * FROM recipe_data_siloed 
+    WHERE title IN (%s)
+    """ % ', '.join(['%s'] * len(recipes_to_search))
+
+    # Execute the search query with the recipes_to_search list
+    cursor.execute(search_query, recipes_to_search)
+    search_results = cursor.fetchall()
+
+    # Print the search results
+    if search_results:
+        print("Recipes found in 'recipe_data_siloed' table:")
+        for row in search_results:
+            print(row)
+    else:
+        print("No matching recipes found in the 'recipe_data_siloed' table.")
+
+    # Close the cursor and connection
+    cursor.close()
+    conn.close()
+
+def delete_recipe_by_title(conn, title):
+    """
+    Delete a recipe entry from the 'recipe_data_siloed' table based on the recipe title.
+
+    Parameters:
+    conn (object): The database connection object.
+    title (str): The title of the recipe to be deleted.
+
+    Returns:
+    str: A message indicating the result of the deletion.
+    """
+    cursor = conn.cursor()
+
+    # Delete query with parameterized input to avoid SQL injection
+    delete_query = "DELETE FROM recipe_data_siloed WHERE title = %s"
+
+    # Execute the delete query
+    cursor.execute(delete_query, (title,))
+
+    # Commit the changes
+    conn.commit()
+
+    # Check if any rows were affected
+    if cursor.rowcount > 0:
+        result = f"The recipe '{title}' has been successfully deleted."
+    else:
+        result = f"No recipe with the title '{title}' was found in the table."
+
+    # Close the cursor
+    cursor.close()
+
+def update_ingredient_in_recipe(conn, title, old_ingredient, new_ingredient):
+    """
+    Update a specific ingredient in a recipe with a given title.
+
+    Parameters:
+    conn (object): The database connection object.
+    title (str): The title of the recipe where the ingredient needs to be updated.
+    old_ingredient (str): The ingredient to be replaced.
+    new_ingredient (str): The new ingredient to replace the old one.
+
+    Returns:
+    str: A message indicating the result of the update operation.
+    """
+    # Create a cursor object
+    cursor = conn.cursor()
+
+    # SQL query to update the ingredient in the recipe
+    update_query = """
+    UPDATE recipe_data_siloed
+    SET ingredient_search = REPLACE(ingredient_search, %s, %s)
+    WHERE title = %s
+    """
+
+    # Execute the update query
+    cursor.execute(update_query, (old_ingredient, new_ingredient, title))
+
+    # Commit the changes
+    conn.commit()
+
+    # Check if any rows were affected
+    if cursor.rowcount > 0:
+        result = f"The ingredient '{old_ingredient}' has been successfully replaced with '{new_ingredient}' in the recipe '{title}'."
+    else:
+        result = f"No matching recipe found for title '{title}' or no change needed."
+
+    # Close the cursor
+    cursor.close()
+
+    return result
+
+def update_ingredient_amount_in_recipe(conn, name, new_amount):
+    """
+    Update the amount of a specific ingredient in a recipe with a given title.
+
+    Parameters:
+    conn (object): The database connection object.
+    title (str): The title of the recipe where the ingredient amount needs to be updated.
+    ingredient (str): The ingredient whose amount needs to be updated.
+    new_amount (float): The new amount for the specified ingredient.
+
+    Returns:
+    str: A message indicating the result of the update operation.
+    """
+    # Create a cursor object
+    cursor = conn.cursor()
+
+    # SQL query to update the amount of the ingredient in the recipe
+    update_query = """
+    UPDATE products
+    SET amount = %s
+    WHERE name = %s"""
+
+    # Execute the update query
+    cursor.execute(update_query, (new_amount, name))
+
+    # Commit the changes
+    conn.commit()
+
+    # Check if any rows were affected
+    if cursor.rowcount > 0:
+        result = f"The amount of ingredient '{name}' has been successfully updated to {new_amount}'."
+    else:
+        result = f"No matching recipe found for title '{name}' or no change needed."
+
+    # Close the cursor
+    cursor.close()
+
+    return result
+

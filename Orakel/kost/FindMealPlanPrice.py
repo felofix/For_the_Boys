@@ -158,6 +158,7 @@ class FindMealplanPrice:
         cutoff_count = 0
 
         for i in range(1, generations):
+            
             if cutoff_count == num_cutoff:
                 break
 
@@ -168,6 +169,8 @@ class FindMealplanPrice:
             mut_fitness = self.calculate_all_fitness(mutants)
             population = self.survivors(population, pop_fitness, mutants, mut_fitness)
             minimum_fit[i] = np.min(pop_fitness)
+
+
 
             if minimum_fit[i] == minimum_fit[i - 1]:
                 cutoff_count += 1

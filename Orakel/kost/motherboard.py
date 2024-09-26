@@ -3,6 +3,7 @@ import mysql.connector
 import FindMealPlanPrice as fmpp
 import Levenshtein  # Importing Levenshtein for string comparison
 import User as u
+import re
 
 # Connect to MySQL database
 conn = mysql.connector.connect(
@@ -107,7 +108,7 @@ def create_recipe_vector(ingredients_names, user):
 	if user.is_vegetarian:
 		query = "SELECT title, ingredient_search, grams, instructions FROM recipe_data_siloed WHERE category = 'vegetar';"
 	else:
-		query = "SELECT title, ingredient_search, grams, instructions FROM recipe_data_siloed;"  # No filter applied
+		query = "SELECT title, ingredient_search, grams, instructions FROM recipe_data_siloed WHERE category = 'kjøtt';"  # No filter applied
 
 	# Execute the query
 	cursor.execute(query)
@@ -170,33 +171,6 @@ def create_recipe_vector(ingredients_names, user):
 
 	return np.array(recepies), np.array(instructions), np.array(titles)
 
-def test_recipe(title):
-	"""
-	Testing the searching and locating of recipe. 
-	Need to have a max amount, which is how many grams in the whole thing. 
-	I might have that. So its simple:
-	If there is a max, then if it is over that limit a new one has to be bought.
-	If no max, then you can buy as much as you want.
-	"""
-
-	cursor = conn.cursor()
-	cursor_ing = conn_ing.cursor()
-
-	# Correct query execution
-	query = "SELECT * FROM recipe_data_siloed WHERE title = %s"
-	cursor.execute(query, (title,))
-
-	# Fetch the results after executing the query
-	result = cursor.fetchall()
-
-	print(result) 
-
-	# Close the cursor and connection after processing the results
-	cursor.close()
-	cursor_ing.close()
-	conn.close()
-	conn_ing.close()
-
 def create_vectors(user):
 	"""
 	For now it just chooses the cheapest product. 
@@ -245,24 +219,22 @@ def return_information(recepies, best_plan, names, instructions, prices, titles,
 	print(finished_ingredients)
 	print(best_plan)
 	print(finished_instructions)
+	print(finished_titles)
 	
 	
 	return finished_ingredients, finished_amounts, finished_instructions
+
 # Creating test user.
-user_test = u.User("odeau", is_vegetarian=True, is_repetitive=False)
+user_test = u.User("odeau", is_vegetarian=False, non_repeating=True)
 
 # Creating vectors. 
 prices, recepies, names, instructions, titles, maxxer = create_vectors(user_test)
 
 # Finding meal plan. 
-findit = fmpp.FindMealplanPrice(recepies, prices, maxxer)
+findit = fmpp.FindMealplanPrice(recepies, prices, maxxer, non_repeating=True)
 evolved, pop_fitness, minn = findit.evolve(10, 10000, 5, 1000)
 
 minimum_price = np.min(pop_fitness)
 minimum_recipe = evolved[np.where(pop_fitness == minimum_price)]
 best_plan = minimum_recipe[0] 
 ingredients, amounts, instructions = return_information(recepies, best_plan, names, instructions, prices, titles, maxxer)
-
-
-#test_recipe("Kikertgryte med oregano og tomat")
-
