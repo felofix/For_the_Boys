@@ -185,7 +185,7 @@ def update_ingredient_in_recipe(conn, title, old_ingredient, new_ingredient):
 
     return result
 
-def update_ingredient_amount_in_recipe(conn, name, new_amount):
+def update_ingredient_amount(conn, name, new_amount):
     """
     Update the amount of a specific ingredient in a recipe with a given title.
 
@@ -204,7 +204,7 @@ def update_ingredient_amount_in_recipe(conn, name, new_amount):
     # SQL query to update the amount of the ingredient in the recipe
     update_query = """
     UPDATE products
-    SET amount = %s
+    SET price = %s
     WHERE name = %s"""
 
     # Execute the update query
@@ -224,3 +224,31 @@ def update_ingredient_amount_in_recipe(conn, name, new_amount):
 
     return result
 
+def print_all_recipe_names(conn):
+    """
+    Queries and prints all recipe names from the 'recipe_data_siloed' table.
+
+    Parameters:
+    conn: A database connection object.
+    """
+    try:
+        # Create a cursor object to interact with the database
+        cursor = conn.cursor()
+        
+        # Query to select all recipe names from the table
+        query = "SELECT title FROM recipe_data_siloed;"
+        cursor.execute(query)
+        
+        # Fetch all results
+        recipes = cursor.fetchall()
+        
+        # Print out each recipe name
+        for recipe in recipes:
+            print(recipe[0])  # Assuming recipe_title is the first column in the result
+        
+    except Exception as e:
+        print(f"An error occurred: {e}")
+    finally:
+        cursor.close()
+
+print_all_recipe_names(conn)

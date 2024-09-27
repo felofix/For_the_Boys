@@ -95,11 +95,24 @@ def get_recipe(url, category = 'all'):
     grams_json = json.dumps(grams)
     ingredient_search, correctness = ingredient_names_overhaul(ingredient_names, ingredient_search)
 
+    # Check if the recipe already exists in the database
+    cursor = conn.cursor()
+    check_query = "SELECT COUNT(*) FROM recipe_data_siloed WHERE title = %s"
+    cursor.execute(check_query, (title,))
+    result = cursor.fetchone()
+
+    if result[0] > 0:
+        print(f"Recipe '{title}' already exists in the database.")
+        cursor.close()
+        driver.close()
+        return
+
     if correctness != 100:
         new_ingredient_search, new_instructions, new_title = manual_recipe_fix(ingredient_search, title, instructions, "recipe.txt")
         ingredient_search =  new_ingredient_search
-        title = new_instructions
+        instructions = new_instructions
         instructions = new_title
+
 
     # Insert data into the database
     cursor = conn.cursor()
@@ -355,7 +368,8 @@ def remove_extra_words(ingredient):
 	# Remove comments. 
 	return new_ingr
 
-"""# Vegetar. 
+# Vegetar. 
+"""
 get_recipe("https://www.matprat.no/oppskrifter/kos/gyoza-vegetar/", category = 'vegetar')
 get_recipe("https://www.matprat.no/oppskrifter/gjester/moussaka-vegetar/", category = 'vegetar')
 get_recipe("https://www.matprat.no/oppskrifter/familien/minestronesuppe-vegetar/", category = 'vegetar')
@@ -420,6 +434,7 @@ get_recipe("https://www.matprat.no/oppskrifter/gjester/helstekt-indrefilet-med-b
 get_recipe("https://www.matprat.no/oppskrifter/rask/burger-med-pulled-turkey-og-fetaost/", category = 'kjøtt')
 get_recipe("https://www.matprat.no/oppskrifter/rask/ribbe-med-gresk-salat/", category = 'kjøtt')
 get_recipe("https://www.matprat.no/oppskrifter/rask/ribbe-i-pita/", category = 'kjøtt')
+
 get_recipe("https://www.matprat.no/oppskrifter/kos/ribbe-i-airfryer/", category = 'kjøtt')
 get_recipe("https://www.matprat.no/oppskrifter/gjester/biff-med-flotegratinerte-poteter/", category = 'kjøtt')
 get_recipe("https://www.matprat.no/oppskrifter/gjester/helstekt-indrefilet-med-flotegratinerte-poteter/", category = 'kjøtt')
@@ -428,8 +443,8 @@ get_recipe("https://www.matprat.no/oppskrifter/gjester/biff-med-jordskokkpure/",
 get_recipe("https://www.matprat.no/oppskrifter/gjester/chateaubriand-med-bearnaise-og-pommes-frites/", category = 'kjøtt')
 get_recipe("https://www.matprat.no/oppskrifter/kos/halloween-burger/", category = 'kjøtt')
 get_recipe("https://www.matprat.no/oppskrifter/rask/blodig-spagetti/", category = 'kjøtt')
-get_recipe("https://www.matprat.no/oppskrifter/kos/reinsdyrbiff-pa-primus/", category = 'kjøtt')
 """
+
 
 
 
