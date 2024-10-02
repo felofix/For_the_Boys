@@ -1,0 +1,1313 @@
+#Navn #Pris #Mengde #Før #Butikk 
+Coca-Cola u/Sukker,45.60,1000 ml, None, Meny
+Fanta Sitron,44.90,1000 ml, None, Meny
+Margaret,79.00,750 ml, None, Meny
+Eplemost,49.90,700 ml, None, Meny
+Blå Java,169.00,500 g, None, Meny
+Espresso Italian,179.00,500 g, None, Meny
+Pepsi Max,24.50,500 ml, None, Meny
+Evergood Classic,29.94,250 g, 49.90, Meny
+Coca-Cola,22.40,500 ml, None, Meny
+Coca-Cola u/Sukker,21.30,500 ml, None, Meny
+Eplejuice,25.90,1000 ml, None, Meny
+God Morgen Juice,29.90,1750 ml, 37.90, Meny
+God Morgen Juice,29.90,1750 ml, 37.90, Meny
+Coca-Cola u/Sukker,59.90,6002 ml, None, Meny
+Monster,26.90,500 ml, None, Meny
+Iskaffe Mocca,21.90,330 ml, None, Meny
+Powerade Sport,27.90,500 ml, None, Meny
+Red Bull Regular,23.80,250 ml, None, Meny
+Red Bull,22.90,250 ml, None, Meny
+God Morgen Juice,29.90,850 ml, 47.90, Meny
+God Morgen Juice,29.90,850 ml, 47.90, Meny
+Evergood Dark,35.94,250 g, 59.90, Meny
+Farris,25.90,1500 ml, None, Meny
+Smoothie,19.90,250 ml, None, Meny
+Farris Bris,25.90,1500 ml, None, Meny
+Eplemost,49.90,700 ml, None, Meny
+Appelsinjuice,38.90,1000 ml, None, Meny
+Appelsinjuice,38.90,1000 ml, None, Meny
+Frydenlund Fatøl,221.40,3000 ml, None, Meny
+Smoothie,19.90,250 ml, None, Meny
+Solo Super,34.20,1500 ml, None, Meny
+Coca-Cola u/Sukker,30.90,1500 ml, None, Meny
+Coca-Cola,31.40,1500 ml, None, Meny
+Tropisk Juice,34.90,1000 ml, None, Meny
+Appelsinjuice,24.90,1000 ml, None, Meny
+Appelsinjuice,25.90,1000 ml, None, Meny
+Appelsinjuice,22.50,1000 ml, None, Meny
+Powerking,13.90,250 ml, None, Meny
+Powerking Zero,11.90,250 ml, None, Meny
+Coca-Cola,48.70,1000 ml, None, Meny
+Earl Grey Lemon,45.90,25 stk, None, Meny
+Coca-Cola u/Sukker,45.60,1000 ml, None, Meny
+Explo Savage,24.90,500 ml, None, Meny
+Battery Rise,27.90,500 ml, None, Meny
+Solo Super,19.90,330 ml, None, Meny
+Vitamin Well,29.90,500 ml, None, Meny
+Villa,27.90,500 ml, None, Meny
+Yt Sportsdrikk,24.90,500 ml, None, Meny
+Urge Citrus,44.90,1000 ml, None, Meny
+Sprite Zero,44.90,1000 ml, None, Meny
+Fanta Sitron,44.90,1000 ml, None, Meny
+Battery No Calorie,23.90,500 ml, None, Meny
+Villa Lett,27.40,500 ml, None, Meny
+Monster Juiced,27.90,500 ml, None, Meny
+Iskaffe Gusto,22.90,330 ml, None, Meny
+Zoegas Kaffe,126.00,450 g, None, Meny
+Monster Energy,27.90,500 ml, None, Meny
+Monster,27.90,500 ml, None, Meny
+Chai-Te Original,73.90,20 stk, None, Meny
+Peppermint,73.90,20 stk, None, Meny
+Isklar Stillvann,17.90,500 ml, None, Meny
+Urge,23.80,330 ml, None, Meny
+Yt Sportsdrikk,24.90,500 ml, None, Meny
+Dr Pepper,26.90,500 ml, None, Meny
+Monster,27.90,500 ml, None, Meny
+Monster,27.90,500 ml, None, Meny
+Mountain Dew,27.40,500 ml, None, Meny
+Iskaffe Espresso,21.90,330 ml, None, Meny
+Lemonjuice,35.90,250 ml, None, Meny
+Monster Ultra Gold,26.90,500 ml, None, Meny
+Tranebærdrikk,44.90,1000 ml, None, Meny
+Imsdal Sitron,29.90,650 ml, None, Meny
+Iskaffe Caramel,21.90,330 ml, None, Meny
+Iskaffe Cappuccino,21.90,330 ml, None, Meny
+Sitronsaft,22.40,115 ml, None, Meny
+Eplejuice,14.90,250 ml, None, Meny
+Monster,26.90,500 ml, None, Meny
+Farris Frus,23.80,500 ml, None, Meny
+Vitamin Well,29.90,500 ml, None, Meny
+Green Tea Mint,37.90,20 stk, None, Meny
+Appelsinjuice,44.90,1000 ml, None, Meny
+Burn Original,29.90,500 ml, None, Meny
+Burn Original,19.90,250 ml, None, Meny
+Cotw Lungo,42.90,1 stk, None, Meny
+Appelsinjuice,39.90,500 ml, None, Meny
+Farris Frus,22.90,500 ml, None, Meny
+Nocco Caribbean,32.90,330 ml, None, Meny
+Iskaffe Brasil,21.90,330 ml, None, Meny
+Coca Cola Light,24.50,500 ml, None, Meny
+Grønn Te Sitron,79.90,25 stk, None, Meny
+Isklar Sparkling,16.90,460 ml, None, Meny
+Monster Ultra,27.90,500 ml, None, Meny
+Red Bull Yellow,24.90,250 ml, None, Meny
+Red Bull Peach,24.90,250 ml, None, Meny
+Filterposer,29.90,100 stk, None, Meny
+Vitamin Well,29.90,500 ml, None, Meny
+Blå Java,77.00,200 g, None, Meny
+Burn Zero,26.90,500 ml, None, Meny
+Vitamin Well,33.90,500 ml, None, Meny
+Klementinjuice,39.90,1000 ml, None, Meny
+Burn,28.90,500 ml, None, Meny
+Orangina,25.90,500 ml, None, Meny
+Red Bull Vannmelon,24.90,250 ml, None, Meny
+Isklar Stillvann,19.90,660 ml, None, Meny
+Ingefærshot,17.90,100 ml, None, Meny
+Cotw Lungo,42.90,1 stk, None, Meny
+Olden Frisk,29.90,1250 ml, None, Meny
+Monster,27.90,500 ml, None, Meny
+Powerade Zero,27.90,500 ml, None, Meny
+Cult Miami Ice,26.50,500 ml, None, Meny
+Red Bull,24.90,250 ml, None, Meny
+Bonaqua Sport,24.90,700 ml, None, Meny
+Isklar Sparkling,18.90,460 ml, None, Meny
+Iskaffe Mocha,21.90,330 ml, None, Meny
+Isklar Sparkling,18.90,460 ml, None, Meny
+Bonaqua Sport,24.90,700 ml, None, Meny
+Coca-Cola,21.40,330 ml, None, Meny
+Eplejuice,21.90,500 ml, None, Meny
+Fanta Appelsin,44.90,1000 ml, None, Meny
+San Pellegrino,25.60,330 ml, None, Meny
+Red Bull,22.90,250 ml, None, Meny
+San Pellegrino,25.60,330 ml, None, Meny
+Rå Eplejuice,52.90,1000 ml, None, Meny
+San Pellegrino,23.30,330 ml, None, Meny
+Cappuccino,45.90,1 stk, None, Meny
+Stella Artois,39.90,330 ml, None, Meny
+Pærelemonade,49.90,850 ml, None, Meny
+Fanta,24.90,500 ml, None, Meny
+Brooklyn Swiipa,49.90,440 ml, None, Meny
+Nescafe Brasero,49.90,100 g, None, Meny
+Appelsinbrus,28.70,500 ml, None, Meny
+Limonade Original,39.90,1000 ml, None, Meny
+Eplejuice,39.90,1000 ml, None, Meny
+Sprite,24.90,500 ml, None, Meny
+Appelsinjuice,19.90,330 ml, None, Meny
+Iste Sitron,23.30,500 ml, None, Meny
+Red Bull Regular,29.90,355 ml, None, Meny
+Villa,39.90,1500 ml, None, Meny
+Smoothie,49.90,1000 ml, None, Meny
+Ingefærøl,36.90,1500 ml, None, Meny
+Fanta Lemon,23.80,500 ml, None, Meny
+Nocco Limon,32.90,330 ml, None, Meny
+Evergood Dark,37.74,250 g, 62.90, Meny
+Smoothie Lemonade,50.70,850 ml, None, Meny
+Rå Appelsinjuice,52.90,1000 ml, None, Meny
+Kronenbourgh 1664,19.50,330 ml, None, Meny
+Villa Lett,38.90,1500 ml, None, Meny
+Sprite Zero,22.90,500 ml, None, Meny
+Klementinjuice,39.90,1000 ml, None, Meny
+Red Bull Regular,39.90,473 ml, None, Meny
+Red Bull,38.90,473 ml, None, Meny
+Fuzetea,19.90,400 ml, None, Meny
+Appelsinjuice,21.90,500 ml, None, Meny
+Ingefærshot,44.90,500 ml, None, Meny
+Capri Sonne,12.00,200 ml, None, Meny
+Nocco Blood Orange,33.40,330 ml, None, Meny
+Farmers Coffee,35.94,250 g, 59.90, Meny
+Forest Fruit Te,28.50,20 stk, None, Meny
+Ginger Beer,43.30,500 ml, None, Meny
+Calypso Lemonade,41.50,473 ml, None, Meny
+Tonic Water,41.90,500 ml, None, Meny
+Corona Extra,251.40,2130 ml, None, Meny
+Ananasjuice,47.80,1000 ml, None, Meny
+Hansa Mango Ipa,42.90,500 ml, None, Meny
+Nocco Juicy Breeze,32.90,330 ml, None, Meny
+Appelsinjuice,69.90,1000 ml, None, Meny
+Tonic Water Zero,41.90,1000 ml, None, Meny
+Calypso Lemonade,41.30,473 ml, None, Meny
+Tranebærnektar,29.90,1000 ml, None, Meny
+Ananasbrus,36.90,1500 ml, None, Meny
+Espresso Roast,51.90,10 stk, None, Meny
+Colombia,51.90,10 stk, None, Meny
+Tonic Water,41.90,1000 ml, None, Meny
+Evergood Classic,35.94,250 g, 63.30, Meny
+Storm Hard Seltzer,34.90,330 ml, None, Meny
+Corona Extra,41.90,355 ml, None, Meny
+Appelsin&Jordbær,44.90,1000 ml, None, Meny
+Tuborg Lite,34.90,500 ml, None, Meny
+Tuborg Lite,221.40,3000 ml, None, Meny
+Huehuetenango,119.00,340 g, None, Meny
+Blå Java,109.00,340 g, None, Meny
+Red Bull,29.90,355 ml, None, Meny
+Calypso Lemonade,40.80,473 ml, None, Meny
+Fanta Appelsin,19.90,330 ml, None, Meny
+Kronenbourg 1664,44.90,500 ml, None, Meny
+Kronenbourg 1664,269.40,3000 ml, None, Meny
+Tuborg Grønn,286.80,3960 ml, None, Meny
+Grevens Cider,43.90,500 ml, None, Meny
+Fuzetea,51.60,1000 ml, None, Meny
+Tuborg Grønn,23.90,330 ml, None, Meny
+Ananasbrus Lett,35.90,1500 ml, None, Meny
+Lady Grey Tea,59.90,25 stk, None, Meny
+Nocco Golden Grape,33.40,330 ml, None, Meny
+Blå Java,169.00,500 g, None, Meny
+Coca-Cola u/Sukker,22.40,500 ml, None, Meny
+Iste Fersken,22.90,500 ml, None, Meny
+Frydenlund Juicy,43.90,500 ml, None, Meny
+Mozell Light,36.30,1500 ml, None, Meny
+Pærebrus Lett,35.90,1500 ml, None, Meny
+Green World Kaffe,35.94,250 g, 59.90, Meny
+Aass Lite,37.90,500 ml, None, Meny
+Eplejuice,36.90,1000 ml, None, Meny
+Isklar Sparkling,16.90,1500 ml, None, Meny
+Grevens Cider,43.90,500 ml, None, Meny
+Grevens Cider,43.90,500 ml, None, Meny
+Frydenlund Juicy,263.40,3000 ml, None, Meny
+Mozell,37.40,1500 ml, None, Meny
+Rabarbradrikk,38.60,330 ml, None, Meny
+Blåbærdrikk,38.60,330 ml, None, Meny
+Tomatjuice,29.70,1000 ml, None, Meny
+Peroni,24.90,330 ml, None, Meny
+Fanta Mango,23.80,500 ml, None, Meny
+Iste Sitron,22.60,1500 ml, None, Meny
+Margaret,79.00,750 ml, None, Meny
+Cocomax,69.90,1000 ml, None, Meny
+Coca Cola Light,36.50,1500 ml, None, Meny
+Hansa Fatøl,221.40,3000 ml, None, Meny
+Urge,22.40,500 ml, None, Meny
+Heineken,225.00,3000 ml, None, Meny
+Iste Fersken,21.90,1500 ml, None, Meny
+Nescafe Brasero,74.90,180 g, None, Meny
+Fanta,22.40,500 ml, None, Meny
+Rødbetejuice,55.90,750 ml, None, Meny
+Hansa Hard Seltzer,39.90,330 ml, None, Meny
+Mer Jordbær&Eple,14.40,200 ml, None, Meny
+Hansa Fatøl,36.90,500 ml, None, Meny
+Juice m/Druer,35.20,1000 ml, None, Meny
+Heineken,37.50,500 ml, None, Meny
+Fuzetea,19.90,400 ml, None, Meny
+Evergood,37.74,250 g, 62.90, Meny
+Appelsinjuice,14.90,250 ml, None, Meny
+Hansa Spesial,45.90,500 ml, None, Meny
+Frydenlund Gyllen,42.90,500 ml, None, Meny
+Smoothie,42.90,750 ml, None, Meny
+Ali Mørkbrent,47.90,250 g, None, Meny
+Coca-Cola u/Sukker,21.30,500 ml, None, Meny
+Isklar Sparkling,16.90,1500 ml, None, Meny
+Isklar Stillvann,16.90,1500 ml, None, Meny
+Nescafe Azera,85.00,100 g, None, Meny
+Nocco Raspberry,32.90,330 ml, None, Meny
+Aass Fatøl,221.40,3000 ml, None, Meny
+Isklar Sparkling,16.90,1500 ml, None, Meny
+Bulmers,34.90,330 ml, None, Meny
+Bulmers,34.90,330 ml, None, Meny
+Ananasjuice,44.90,1000 ml, None, Meny
+Nocco Pearade,32.90,330 ml, None, Meny
+Pepsi,35.20,1500 ml, None, Meny
+Urge,20.90,500 ml, None, Meny
+Pilsner Urquell,49.90,500 ml, None, Meny
+Mandarin,29.90,370 ml, None, Meny
+Mexican Cola,29.90,370 ml, None, Meny
+Lime,29.90,370 ml, None, Meny
+Guava,29.90,370 ml, None, Meny
+Mango,29.90,370 ml, None, Meny
+Pineapple,29.90,370 ml, None, Meny
+Crabbies,59.90,500 ml, None, Meny
+Evergood Dark,23.10,1 stk, 38.50, Meny
+Aass Vørterøl,12.90,330 ml, None, Meny
+Iste Sitron,22.60,1500 ml, None, Meny
+Aass Fatøl,36.90,500 ml, None, Meny
+Smoothie,19.90,250 ml, None, Meny
+Espresso Double,24.90,200 ml, None, Meny
+Tuborg Grønn,185.40,3000 ml, None, Meny
+Mango/Eple Juice,37.90,1000 ml, None, Meny
+Isklar Sparkling,16.90,1500 ml, None, Meny
+Klokk&Co Fripa,19.90,330 ml, None, Meny
+Klokk&Co Fripa,19.90,330 ml, None, Meny
+Isklar Sparkling,16.90,1500 ml, None, Meny
+Halmstad Cocktail,48.90,500 ml, None, Meny
+Eple/Bringeb.Juice,41.90,1000 ml, None, Meny
+Tuborg Grønn,30.90,500 ml, None, Meny
+Limonade Bringebær,39.90,1000 ml, None, Meny
+Evergood Classic,23.10,1 stk, 38.50, Meny
+Grevens Cider,39.90,500 ml, None, Meny
+Smoothie,19.90,250 ml, None, Meny
+Iste Fersken,20.90,1500 ml, None, Meny
+Blåbærshot,17.90,100 ml, None, Meny
+Tuborg Hard,39.90,330 ml, None, Meny
+Urge,37.60,1500 ml, None, Meny
+Frydenlund Fatøl,36.90,500 ml, None, Meny
+Isklar Sparkling,16.90,1500 ml, None, Meny
+Peroni,257.40,1980 ml, None, Meny
+Peroni,42.90,330 ml, None, Meny
+Coca Cola,21.50,330 ml, None, Meny
+Isklar Sparkling,16.90,1500 ml, None, Meny
+Smoothie,19.90,250 ml, None, Meny
+Americano,69.90,1 stk, None, Meny
+Smoothie,42.90,750 ml, None, Meny
+Cotw Breakfast,42.90,1 stk, None, Meny
+Smoothie,19.90,250 ml, None, Meny
+Isklar Sparkling,16.90,1500 ml, None, Meny
+Halmstad Spiked,48.90,500 ml, None, Meny
+Eplejuice Tyrol,37.90,1000 ml, None, Meny
+Mack Isbjørn Lite,221.40,3000 ml, None, Meny
+San Miguel,43.90,500 ml, None, Meny
+Eplemost,29.50,330 ml, None, Meny
+Smoothie,19.90,250 ml, None, Meny
+Mack Isbjørn Lite,36.90,500 ml, None, Meny
+Sitron&Limesaft,44.90,3500 ml, None, Meny
+Earl Grey Tea,155.00,100 stk, None, Meny
+Bringebærsaft,28.50,330 ml, None, Meny
+Cotw Dark Roast,42.90,1 stk, None, Meny
+Ginger Beer,49.90,750 ml, None, Meny
+Appelsinjuice,42.90,1750 ml, None, Meny
+Friele Frokost,57.90,250 g, None, Meny
+Nocco Ramonade,32.90,330 ml, None, Meny
+Smoothie,19.90,250 ml, None, Meny
+Klokk&Co Gringo,19.90,330 ml, None, Meny
+Caramel Macchiato,26.90,220 ml, None, Meny
+Smoothie,46.90,1000 ml, None, Meny
+Grapefruktjuice,49.90,1000 ml, None, Meny
+Iste Fersken,21.90,500 ml, None, Meny
+Fanta Appelsin,37.60,1500 ml, None, Meny
+Iskaffe Cappuccino,15.90,250 ml, None, Meny
+Appelsinjuice,47.90,1000 ml, None, Meny
+London Pride,49.90,500 ml, None, Meny
+Solo,35.20,1500 ml, None, Meny
+Skinny Latte,26.90,220 ml, None, Meny
+Cola Free,13.90,1499 ml, None, Meny
+Klokk&Co Fripa,24.90,330 ml, None, Meny
+Eplejuice,36.40,1000 ml, None, Meny
+Appelsinjuice Rød,49.90,1000 ml, None, Meny
+Kombucha,42.60,330 ml, None, Meny
+Mack Isbjørn,191.40,3000 ml, None, Meny
+Vann,39.50,5000 ml, None, Meny
+Hansa Pilsner,191.40,3000 ml, None, Meny
+Bringebærsaft,65.90,4501 ml, None, Meny
+Budweiser Budvar,41.90,500 ml, None, Meny
+Evergood Classic,29.94,250 g, 49.90, Meny
+House Blend,43.90,10 stk, None, Meny
+Hansa Pilsner,31.90,500 ml, None, Meny
+Brus Fruktsmak,13.90,1499 ml, None, Meny
+Fanta u/Sukker,36.40,1500 ml, None, Meny
+Eplemost,49.90,700 ml, None, Meny
+Fanta Mango,36.50,1500 ml, None, Meny
+Norsk Kombucha,54.80,500 ml, None, Meny
+Norsk Kombucha,54.80,500 ml, None, Meny
+Norsk Kombucha,54.80,500 ml, None, Meny
+Norsk Kombucha,54.80,500 ml, None, Meny
+Fun Light,35.80,7991 ml, None, Meny
+Fun Light,35.80,7991 ml, None, Meny
+Fanta,33.60,1500 ml, None, Meny
+Evergood Dark,63.00,500 g, 105.00, Meny
+Friele Frokost,110.00,500 g, None, Meny
+Appelsinjuice,49.90,850 ml, None, Meny
+Granateplejuice,44.90,1000 ml, None, Meny
+Aass Pilsner,30.90,500 ml, None, Meny
+Sprudle Eple,34.90,330 ml, None, Meny
+Fun Light,35.80,7991 ml, None, Meny
+Aass Pilsner,185.40,3000 ml, None, Meny
+Fun Light,35.80,7991 ml, None, Meny
+Farris Bris,25.90,1500 ml, None, Meny
+Frokostjuice,25.90,1500 ml, None, Meny
+Yellow Label Tea,47.60,50 stk, None, Meny
+San Pellegrino,109.00,3000 ml, None, Meny
+Evergood Dark,31.50,1 stk, 52.50, Meny
+Cotw Espresso,42.90,1 stk, None, Meny
+Sjokoladedrikk,35.90,1 stk, 39.90, Meny
+Husholdningssaft,53.80,6750 ml, None, Meny
+Evergood Classic,59.40,500 g, 108.00, Meny
+Fanta,33.60,1500 ml, None, Meny
+Evergood Classic,31.50,1 stk, 52.50, Meny
+Filterposer,32.40,202 stk, None, Meny
+Lorita,42.90,440 ml, None, Meny
+Solo,119.00,3960 ml, None, Meny
+Cappuccino,26.90,220 ml, None, Meny
+Cola,14.90,1501 ml, None, Meny
+Vann m/Kullsyre,10.90,1499 ml, None, Meny
+Stones Ginger Joe,25.90,330 ml, None, Meny
+Earl Grey Tea,45.90,25 stk, None, Meny
+Brus Fruktsmak,14.90,1501 ml, None, Meny
+Brus Appelsinsmak,13.90,1499 ml, None, Meny
+Cotw Lungo Dark,42.90,1 stk, None, Meny
+Seidel Pils,155.40,3000 ml, None, Meny
+Seidel Pils,25.90,500 ml, None, Meny
+Tropisk Juice,25.40,1500 ml, None, Meny
+Eplejuice,23.40,1500 ml, None, Meny
+Ali Original,45.90,250 g, None, Meny
+Nescafe Gull,109.00,200 g, None, Meny
+Zeroh!,32.90,8005 ml, None, Meny
+Brus Appelsinsmak,14.90,1501 ml, None, Meny
+Clausthaler,68.70,1980 ml, None, Meny
+Iskaffe m/Melk,34.90,1000 ml, None, Meny
+Zeroh!,32.90,8005 ml, None, Meny
+Coca-Cola u/Sukker,19.90,330 ml, None, Meny
+Zeroh!,32.90,8005 ml, None, Meny
+Zeroh!,32.90,8005 ml, None, Meny
+Appelsinjuice,22.90,1500 ml, None, Meny
+Coca-Cola,94.00,3301 ml, None, Meny
+Coca-Cola,96.00,3300 ml, None, Meny
+Solbærsaft,46.90,4501 ml, None, Meny
+Sprite Zero,36.50,1500 ml, None, Meny
+Fun Light,26.50,8006 ml, None, Meny
+Husholdningssaft,23.90,8985 ml, None, Meny
+Zeroh!,32.90,8005 ml, None, Meny
+Sprite u/Sukker,19.90,330 ml, None, Meny
+Coca-Cola,89.90,6001 ml, None, Meny
+Nescafe Gull,46.90,100 g, None, Meny
+Zeroh!,27.90,7994 ml, None, Meny
+Solbærsirup,71.50,9005 ml, None, Meny
+Husholdningssaft,39.90,6751 ml, None, Meny
+Vann u/Kullsyre,7.90,1499 ml, None, Meny
+Sprite,33.60,1500 ml, None, Meny
+Aass uten,5.90,330 ml, None, Meny
+Solbærsirup,34.60,4499 ml, None, Meny
+Aass uten,34.60,1981 ml, None, Meny
+Husholdningssaft,26.90,4498 ml, None, Meny
+Solo,89.00,6001 ml, None, Meny
+Eplejuice,13.90,2000 ml, None, Meny
+Pulverkaffe,29.90,200 g, None, Meny
+Appelsinjuice,15.90,2000 ml, None, Meny
+Solo Super,79.90,5998 ml, None, Meny
+Choco-Mint,21.50,1 stk, None, Meny
+Quick Milk Magic,32.90,1 stk, None, Meny
+Quick Milk,32.90,1 stk, None, Meny
+Choco-Appelsin,21.50,1 stk, None, Meny
+Sitronsaft,25.00,100 ml, None, Meny
+Solo,20.30,330 ml, None, Meny
+Coca-Cola u/Sukker,13.90,250 ml, None, Meny
+Kamille Te,49.90,20 stk, None, Meny
+Battery Pulse,27.90,500 ml, None, Meny
+Sweet Nights,49.90,20 stk, None, Meny
+Franskbrent,139.00,340 g, None, Meny
+Explo Cold Fusion,25.90,500 ml, None, Meny
+Friele Kaffe,63.10,125 g, None, Meny
+Mango Nektar,45.90,1000 ml, None, Meny
+Mozell,27.90,500 ml, None, Meny
+Kamille Te,53.90,24 stk, None, Meny
+Yogi Te Grønn,68.90,17 stk, None, Meny
+Monster Reserve,26.90,500 ml, None, Meny
+Iskaffe Cappuccino,47.90,1000 ml, None, Meny
+Baba Budan,129.00,340 g, None, Meny
+Iskaffe Mocha,47.90,1000 ml, None, Meny
+Monster,27.90,500 ml, None, Meny
+Guatemala,77.00,200 g, None, Meny
+Pink Tonic,27.90,500 ml, None, Meny
+Tranebærjucie,59.80,1000 ml, None, Meny
+Blå Java,279.00,700 g, None, Meny
+Tropisk Aroma,77.00,200 g, None, Meny
+Solbær Te,75.90,25 stk, None, Meny
+Zoegas Kaffe,126.00,450 g, None, Meny
+Limejuice,35.70,250 ml, None, Meny
+Feel New,73.90,20 stk, None, Meny
+Monster Juiced,27.90,500 ml, None, Meny
+Urtete,73.90,20 stk, None, Meny
+Clean Matcha Green,73.90,20 stk, None, Meny
+Licorice&Cinnamon,73.90,20 stk, None, Meny
+Night Te,73.90,20 stk, None, Meny
+Elderberry,73.90,20 stk, None, Meny
+Herrljunga Cider,34.20,1000 ml, None, Meny
+Earl Grey Tea,45.90,15 stk, None, Meny
+Monster Ultra,27.90,500 ml, None, Meny
+Sitron Te,76.50,25 stk, None, Meny
+Lemon Ginger,73.90,20 stk, None, Meny
+Mount Kenya,269.00,700 g, None, Meny
+Limesaft,22.50,115 ml, None, Meny
+Inzovu Rwanda,119.00,340 g, None, Meny
+Choco-Melk,13.90,1 stk, None, Meny
+African Rooibos Te,41.50,20 stk, None, Meny
+Lipton Icetea,16.50,1000 ml, None, Meny
+Prince Of Wales,73.60,25 stk, None, Meny
+Blue Fruit Te,37.90,20 stk, None, Meny
+Lipton Icetea,16.60,1000 ml, None, Meny
+Vitamin Well,32.90,500 ml, None, Meny
+Nypete,45.90,24 stk, None, Meny
+Dr Pepper Zero,26.50,500 ml, None, Meny
+Br.Bær/Hylleblomst,33.90,1000 ml, None, Meny
+Excelso Colombia,77.00,200 g, None, Meny
+Yorkshire Te,68.90,40 stk, None, Meny
+Burn Zero,29.70,500 ml, None, Meny
+Earl Grey Tea,78.90,25 stk, None, Meny
+Ringnes Lettøl,26.90,500 ml, None, Meny
+Fresh Start,73.90,20 stk, None, Meny
+Yorkshire Tea,59.90,40 stk, None, Meny
+Lowcaly Fruktdrikk,35.90,1000 ml, None, Meny
+Lowcaly Fruktdrikk,35.90,1000 ml, None, Meny
+Green Tea,37.90,20 stk, None, Meny
+Granateplejuice,45.90,1000 ml, None, Meny
+Birra Moretti,45.40,330 ml, None, Meny
+Birra Moretti,181.60,1320 ml, None, Meny
+Ringnes Lettøl,161.40,3000 ml, None, Meny
+Løfbergs Lila,89.00,450 g, None, Meny
+English Breakfast,66.70,25 stk, None, Meny
+Guinness,54.90,440 ml, None, Meny
+Cold Brew Latte,30.90,235 ml, None, Meny
+Lady Grey Te,155.00,200 g, None, Meny
+Tranebærjuice,51.50,1000 ml, None, Meny
+Hansa Lettøl,155.40,3000 ml, None, Meny
+Earl Grey Te,43.00,25 stk, None, Meny
+Yogi Te Ginger,59.90,17 stk, None, Meny
+Cult Original,26.50,500 ml, None, Meny
+Hansa Lettøl,25.90,500 ml, None, Meny
+Grønn Te Chai,79.90,25 stk, None, Meny
+Cult Flaming Mango,26.50,500 ml, None, Meny
+Carlsberg Free,19.90,330 ml, None, Meny
+Gaitania Colombia,135.00,340 g, None, Meny
+Fuzetea,16.40,250 ml, None, Meny
+Yogi Te Classic,58.90,17 stk, None, Meny
+Aass uten,14.90,330 ml, None, Meny
+Guinness,219.60,1760 ml, None, Meny
+Tonic Water,25.90,200 ml, None, Meny
+Brazilian French,177.00,500 g, None, Meny
+Appelsindrikk Rød,34.90,355 ml, None, Meny
+Mandarindrikk,34.90,355 ml, None, Meny
+Appelsindrikk,34.90,355 ml, None, Meny
+Grapefruktdrikk,34.90,355 ml, None, Meny
+Ingefærdrikk,34.90,355 ml, None, Meny
+Sitrondrikk,34.90,355 ml, None, Meny
+Icetea Fersken,44.90,2000 ml, None, Meny
+Sweet&Sour,93.00,1000 ml, None, Meny
+Kronenbourgh 1664,117.00,1980 ml, None, Meny
+My Little Pony,14.50,200 ml, None, Meny
+Earl Grey Tea,77.00,25 stk, None, Meny
+Nescafe Azera,99.00,100 g, None, Meny
+Iced Latte,50.40,1 stk, None, Meny
+Peppa Gris,14.50,200 ml, None, Meny
+Tonic Water,39.90,500 ml, None, Meny
+Oro Kaffe,169.00,500 g, None, Meny
+Lemon,44.00,1000 ml, None, Meny
+Barbie,14.50,200 ml, None, Meny
+Tonic Water,39.90,500 ml, None, Meny
+Ice Coffee,45.90,1 stk, None, Meny
+Mount Kenya,77.00,200 g, None, Meny
+Peppermynte Te,49.90,24 stk, None, Meny
+Ingefærøl,25.40,1000 ml, None, Meny
+San Pellegrino,24.90,500 ml, None, Meny
+Lipton Icetea,15.90,1000 ml, None, Meny
+Grønn Te Earl Grey,73.90,25 stk, None, Meny
+Appelsinsaft,74.90,6748 ml, None, Meny
+Eplemost,59.90,750 ml, None, Meny
+Tassimo Evergood,84.00,1 stk, None, Meny
+San Miguel,21.90,330 ml, None, Meny
+Munkholm Bayer,111.00,1980 ml, None, Meny
+Fuzetea,41.20,1250 ml, None, Meny
+Munkholm Bayer,18.50,330 ml, None, Meny
+Cafe Au Chocolat,45.90,1 stk, None, Meny
+Gulrotjuice,58.90,750 ml, None, Meny
+Stella Artois,239.40,1980 ml, None, Meny
+Cranberry Drikk,52.50,1000 ml, None, Meny
+Munkholm Fruktig,111.00,1980 ml, None, Meny
+Peach Mango Tea,39.40,20 stk, None, Meny
+Yellow Label Tea,29.90,25 stk, None, Meny
+Curiosity Cola,32.40,275 ml, None, Meny
+Cherry Cola,32.40,275 ml, None, Meny
+Urte Te,68.80,200 g, None, Meny
+Filterposer,43.30,101 stk, None, Meny
+Excelso Colombia,179.00,500 g, None, Meny
+Nescafe Colombia,42.90,10 stk, None, Meny
+Capri Sonne,99.00,2000 ml, None, Meny
+Tonic Water,41.90,500 ml, None, Meny
+Espresso Italian,179.00,500 g, None, Meny
+Grapefruktjuice,75.90,750 ml, None, Meny
+Lemon Ginger Te,45.90,15 stk, None, Meny
+Eple&Kanel&Rosin,64.50,25 stk, None, Meny
+Green Ceylon Te,44.90,24 stk, None, Meny
+Paulaner Hefe,29.90,500 ml, None, Meny
+Noisy Juicebrus,21.90,400 ml, None, Meny
+Ingefærøl,24.40,1000 ml, None, Meny
+Nescafe Brazil,42.90,10 stk, None, Meny
+San Miguel Fresca,43.90,330 ml, None, Meny
+Sjokoladedrikk,110.00,220 g, None, Meny
+Mack Tropical,171.60,2000 ml, None, Meny
+Nøgne Ø Global,52.90,500 ml, None, Meny
+Løfbergs Lila,92.00,450 g, None, Meny
+Nescafe Original,93.00,180 g, None, Meny
+Somersby Cider,39.90,500 ml, None, Meny
+Rooibos Te,43.90,20 stk, None, Meny
+Icetea Sitron&Lime,39.90,2000 ml, None, Meny
+Tuborg Lite,239.40,3000 ml, None, Meny
+Mack Isbjørn,77.40,1980 ml, None, Meny
+Mack Isbjørn,12.90,330 ml, None, Meny
+Grønn Te Ingefær,79.90,25 stk, None, Meny
+Nøgne Ø Blonde,52.90,500 ml, None, Meny
+Pærejuice m/Eple,59.90,1000 ml, None, Meny
+Tuborg Lite,239.40,3000 ml, None, Meny
+Nocco Bcaa,32.90,330 ml, None, Meny
+Eplejuice Cloudy,32.80,1000 ml, None, Meny
+Aass uten Ipa,15.50,330 ml, None, Meny
+Tundra Tonic Water,19.90,250 ml, None, Meny
+Tundra Tonic Water,19.90,250 ml, None, Meny
+Estrella Damm,14.60,330 ml, None, Meny
+Clausthaler,17.90,330 ml, None, Meny
+Hansa Mango Ipa,257.40,3000 ml, None, Meny
+Ginger Beer,33.90,275 ml, None, Meny
+Clausthaler,71.30,1320 ml, None, Meny
+Clausthaler,71.30,1320 ml, None, Meny
+Eplemost,59.90,750 ml, None, Meny
+Aass Halling,41.90,500 ml, None, Meny
+Mack Ginger Beer,147.60,1320 ml, None, Meny
+Irish Coffee,74.00,200 g, None, Meny
+Aass Halling,251.40,3000 ml, None, Meny
+Hollows Ingefærøl,39.90,330 ml, None, Meny
+Tsingtao Beer,39.90,330 ml, None, Meny
+7up,37.50,1500 ml, None, Meny
+Stones Ginger Joe,45.90,330 ml, None, Meny
+Budweiser,39.90,500 ml, None, Meny
+Spicy Indian Chai,72.90,20 stk, None, Meny
+Tuborg Lite,39.90,500 ml, None, Meny
+Sagene Kjørepils,22.70,330 ml, None, Meny
+Vanilla Coffee,72.30,200 g, None, Meny
+Mack Ginger Beer,36.90,330 ml, None, Meny
+Pærebrus,36.90,1500 ml, None, Meny
+Ægir Pils,263.40,3000 ml, None, Meny
+Breakfast Blend,51.90,1 stk, None, Meny
+Tuborg Lite,39.90,500 ml, None, Meny
+Heineken 0,0%,113.40,1980 ml, None, Meny
+Kaffefilter,78.00,25 stk, None, Meny
+Sjokoladedrikk,55.90,1 stk, None, Meny
+Calypso Lemonade,40.80,473 ml, None, Meny
+Ingefær Shot,51.90,500 ml, None, Meny
+Ingefær Shot,51.90,500 ml, None, Meny
+Grevens Cider,263.40,3000 ml, None, Meny
+Budweiser,239.40,500 ml, None, Meny
+Grevens Cider,43.90,500 ml, None, Meny
+Pale Ale,54.90,440 ml, None, Meny
+Løfbergs Lila,74.70,100 g, None, Meny
+Grevens Cider,43.90,500 ml, None, Meny
+Mack Ginger Beer,36.90,330 ml, None, Meny
+Grevens Cider,263.40,3000 ml, None, Meny
+Grevens Cider,263.40,3000 ml, None, Meny
+Munkholm Radler,16.90,330 ml, None, Meny
+Roscoe Ginger Beer,41.90,330 ml, None, Meny
+Eplejuice,59.90,1000 ml, None, Meny
+Ægir Pils,43.90,500 ml, None, Meny
+Grønnsaks Drikk,41.80,1000 ml, None, Meny
+Aass Ipa,263.40,3000 ml, None, Meny
+Mack 1877,251.40,3000 ml, None, Meny
+Grevens Cider,263.40,3000 ml, None, Meny
+Tonic Water,41.90,500 ml, None, Meny
+Aass Ipa,257.40,3000 ml, None, Meny
+Iste Fersken,34.90,355 ml, None, Meny
+Grevens Cider,263.40,3000 ml, None, Meny
+Coffee Mate,47.90,180 g, None, Meny
+Italiensk Espresso,79.00,200 g, None, Meny
+Tyttebærdrikk,38.60,330 ml, None, Meny
+Hoopers Ginger,64.90,500 ml, None, Meny
+Aass Lite,39.90,500 ml, None, Meny
+Beck's,35.90,500 ml, None, Meny
+Aass Blanc,42.90,500 ml, None, Meny
+Froosh Shorty,17.20,150 ml, None, Meny
+Kronenbourg 1664,239.40,3000 ml, None, Meny
+Juice Eple&Mango,42.40,1000 ml, None, Meny
+Carlsberg Pilsner,239.40,1980 ml, None, Meny
+Somersby Cider,44.90,500 ml, None, Meny
+Nøgne Ø Southern,46.90,500 ml, None, Meny
+Rose Lemonade,32.40,275 ml, None, Meny
+Aass Ipa,43.90,500 ml, None, Meny
+Beck's,215.40,3000 ml, None, Meny
+Kronenbourg 1664,39.90,500 ml, None, Meny
+Aass Lite Vienna,227.40,3000 ml, None, Meny
+Humlesus Citra,55.90,440 ml, None, Meny
+Mack Ginger Beer,34.90,330 ml, None, Meny
+Storm Hard Seltzer,34.90,330 ml, None, Meny
+Tundra Tonic Water,18.90,250 ml, None, Meny
+Mangobrus,35.90,1500 ml, None, Meny
+Snapple,35.80,473 ml, None, Meny
+Rips&Bringebærsaft,67.90,3149 ml, None, Meny
+Brooklyn Pulp Art,44.20,440 ml, None, Meny
+Friele Instant,104.00,200 g, None, Meny
+Jordbær Pure,198.00,1000 ml, None, Meny
+Mack Haakon Øl,42.90,500 ml, None, Meny
+Carlsberg Pilsner,39.90,330 ml, None, Meny
+Frydenlund Gyllen,257.40,3000 ml, None, Meny
+Founders All Day,48.50,355 ml, None, Meny
+Froosh Shorty,17.20,150 ml, None, Meny
+Hansa Spesial,44.90,500 ml, None, Meny
+Kona Longboard,44.90,355 ml, None, Meny
+Hansa Hard Seltzer,39.90,330 ml, None, Meny
+Mack Haakonøl,257.40,3000 ml, None, Meny
+Mer Pære,14.40,200 ml, None, Meny
+Mer Appelsin,14.40,200 ml, None, Meny
+Lucky Jack,34.90,330 ml, None, Meny
+Lucky Jack,209.40,1980 ml, None, Meny
+Lucky Jack,34.90,330 ml, None, Meny
+Erdinger,34.90,500 ml, None, Meny
+Nescafe Gull,78.00,100 g, None, Meny
+Fire Røde Frukter,58.90,25 stk, None, Meny
+Ginger Beer,30.90,200 ml, None, Meny
+Bitter Lemon,39.90,500 ml, None, Meny
+Evergood,37.74,250 g, 62.90, Meny
+Hansa Spesial,275.40,3000 ml, None, Meny
+Lille Lørdag,53.90,440 ml, None, Meny
+Eple&Pæresaft,59.90,4500 ml, None, Meny
+Hansa Pilsner Lite,35.90,500 ml, None, Meny
+Friele Cafe Noir,70.00,250 g, None, Meny
+Hansa Spesial,44.90,500 ml, None, Meny
+Granateplejuice,28.60,1000 ml, None, Meny
+Skjærgård Øl,44.90,330 ml, None, Meny
+Bulmers Cider,59.90,500 ml, None, Meny
+Herrljunga Shot,77.00,500 ml, None, Meny
+Aass Bayer,171.60,2000 ml, None, Meny
+Snapple,35.80,473 ml, None, Meny
+Eplemost,59.90,750 ml, None, Meny
+Bacardi Breezer,41.90,275 ml, None, Meny
+Aass Bayer,42.90,500 ml, None, Meny
+Bringebærsaft,88.00,3500 ml, None, Meny
+Storweiss,49.90,440 ml, None, Meny
+Snublejuice,38.20,330 ml, None, Meny
+Erdinger,29.90,500 ml, None, Meny
+Hansa Pilsner Lite,215.40,3000 ml, None, Meny
+No Worries,17.90,330 ml, None, Meny
+No Worries,17.90,330 ml, None, Meny
+Filterposer,40.80,204 stk, None, Meny
+Halmstad Cocktail,48.90,500 ml, None, Meny
+Sagene Pils,237.40,3000 ml, None, Meny
+Grapefruit,29.90,370 ml, None, Meny
+Aass Vørterøl,77.40,1980 ml, None, Meny
+Boon Kriek,74.40,375 ml, None, Meny
+Clausthaler,63.60,1320 ml, None, Meny
+Liereple Eplemost,85.00,1000 ml, None, Meny
+Hansa Null%,19.90,500 ml, None, Meny
+Nøgne Ø Low Five,23.90,330 ml, None, Meny
+Bacardi Breezer,41.90,275 ml, None, Meny
+Miller Genuine Draft,34.90,330 ml, None, Meny
+Kirin Ichiban,39.90,330 ml, None, Meny
+Calypso Lemonade,38.00,473 ml, None, Meny
+Nøgne Ø Classic,39.90,500 ml, None, Meny
+Nøgne Ø Classic,239.40,3000 ml, None, Meny
+Friele Frokost,67.30,250 g, None, Meny
+Rabarbrasaft,71.90,2800 ml, None, Meny
+Halmstad Cider,48.90,500 ml, None, Meny
+Eplemost,169.00,3000 ml, None, Meny
+Espresso,400.00,1000 g, None, Meny
+Clausthaler,15.90,330 ml, None, Meny
+Eplemost,169.00,3000 ml, None, Meny
+Halmstad Cocktail,48.90,500 ml, None, Meny
+Halmstad Cocktail,44.90,500 ml, None, Meny
+Aass Classic,37.90,500 ml, None, Meny
+Nøisom Birdie,49.90,440 ml, None, Meny
+Mack Isbjørn,225.60,3000 ml, None, Meny
+Bacardi Breezer,41.90,275 ml, None, Meny
+Mack Isbjørn,37.60,500 ml, None, Meny
+Aass Classic,151.60,2000 ml, None, Meny
+Sagene Pønsj,39.90,250 ml, None, Meny
+Liereple Eplemost,199.00,3000 ml, None, Meny
+Liefmans Fruitesse,35.00,250 ml, None, Meny
+Tonic Water,41.90,450 ml, None, Meny
+Kona Big Wave,49.90,355 ml, None, Meny
+Bacardi Breezer,167.60,1100 ml, None, Meny
+Frukt Te Taste,69.90,40 stk, None, Meny
+Rips&Bringebærsaft,91.50,2500 ml, None, Meny
+Friele Frokost,61.30,250 g, None, Meny
+Druejuice,44.90,1000 ml, None, Meny
+Mack Lager,34.90,500 ml, None, Meny
+Nøisom Sporty Ipa,49.90,440 ml, None, Meny
+Erdinger,29.90,500 ml, None, Meny
+Protein Shake,30.40,1 stk, None, Meny
+Hoppy Joe,38.60,330 ml, None, Meny
+Hoppy Joe,231.60,1980 ml, None, Meny
+Mack Lager,209.40,3000 ml, None, Meny
+No Worries,17.90,330 ml, None, Meny
+Nøgne Ø Stripped,23.90,330 ml, None, Meny
+Eplemost,99.00,1750 ml, None, Meny
+Hansa Null%,119.40,3000 ml, None, Meny
+Lungo Koffeinfri,72.90,1 stk, None, Meny
+Espresso Intenso,72.90,1 stk, None, Meny
+Western Highlands,139.00,340 g, None, Meny
+Limonade Bringebær,65.40,750 ml, None, Meny
+Himkok,57.90,330 ml, None, Meny
+Kilkenny Draught,49.90,440 ml, None, Meny
+Mack Pilsnerøl,215.40,3000 ml, None, Meny
+Grande Intenzo,69.90,1 stk, None, Meny
+Grande,69.90,1 stk, None, Meny
+Mack Isbjørn Lite,42.90,500 ml, None, Meny
+Somersby,49.90,500 ml, None, Meny
+Cappuccino,69.90,1 stk, None, Meny
+Snapple,32.60,473 ml, None, Meny
+Smooth Peachy,43.90,500 ml, None, Meny
+Smooth Mango Ipa,43.90,500 ml, None, Meny
+Halmstad Crush,48.90,500 ml, None, Meny
+Halmstad Spiked,48.90,500 ml, None, Meny
+Fjæra Gin&Tonic,50.90,330 ml, None, Meny
+Vinterjuice,39.90,1000 ml, None, Meny
+Eplemost,79.00,750 ml, None, Meny
+Smooth Mango Ipa,263.40,3000 ml, None, Meny
+Haandverkspils,48.60,440 ml, None, Meny
+Slogen Lys Ale,54.90,500 ml, None, Meny
+Froosh Shorty,98.00,900 ml, None, Meny
+Eplemost Årgang,66.70,750 ml, None, Meny
+Somersby,49.90,500 ml, None, Meny
+Eplemost Årgang,66.30,750 ml, None, Meny
+Askim Cider,37.90,700 ml, None, Meny
+Eplemost Årgang,66.30,750 ml, None, Meny
+Askim Cider,37.80,700 ml, None, Meny
+Askim Cider,37.80,700 ml, None, Meny
+Tuborg Lite,34.90,500 ml, None, Meny
+Tuborg Lite,209.40,3000 ml, None, Meny
+Bulmers Cider,59.90,500 ml, None, Meny
+Vidda Gin&Tonic,49.90,330 ml, None, Meny
+Erdinger Sitron,24.90,330 ml, None, Meny
+Mack Pilsnerøl,35.90,500 ml, None, Meny
+House Party,36.40,330 ml, None, Meny
+Solbærsaft,73.20,4499 ml, None, Meny
+Eplemost,55.90,750 ml, None, Meny
+Snapple,32.00,473 ml, None, Meny
+Solbærsaft,87.00,2500 ml, None, Meny
+Slogen Weizen,54.90,500 ml, None, Meny
+Ali Mørkbrent,47.90,1 stk, None, Meny
+Coca-Cola u/Sukker,36.50,1500 ml, None, Meny
+Austmann,41.60,330 ml, None, Meny
+Appelsinsaft,74.90,6748 ml, None, Meny
+Froosh,32.30,250 ml, None, Meny
+Bulmers Cider,59.90,500 ml, None, Meny
+Appelsinjuice,28.90,1000 ml, None, Meny
+Hotshot Vitamin D,35.90,500 ml, None, Meny
+Hansa Radler,21.90,500 ml, None, Meny
+Erdinger Hefe,49.90,500 ml, None, Meny
+Budweiser Budvar,36.90,330 ml, None, Meny
+Kaiserdom,39.90,500 ml, None, Meny
+Gin Mule,59.90,330 ml, None, Meny
+Balholm Eple,74.50,1000 ml, None, Meny
+Lipton Icetea,15.90,1000 ml, None, Meny
+Kinn Murar,69.90,750 ml, None, Meny
+Espresso,129.00,250 g, None, Meny
+Cafe Au Lait,65.90,1 stk, None, Meny
+Kona Hanalei,44.90,355 ml, None, Meny
+Budvar Nealko,19.90,500 ml, None, Meny
+Corona Cero,25.90,330 ml, None, Meny
+Somersby Sparkling,42.90,500 ml, None, Meny
+Mollbergs Zoegas,65.90,1 stk, None, Meny
+Klokk&Co,36.90,330 ml, None, Meny
+Balholm Eple,68.90,750 ml, None, Meny
+Nordic Pilsner,229.60,3000 ml, None, Meny
+Endelig Fredag,49.90,440 ml, None, Meny
+Klokk&Co Mango,24.90,330 ml, None, Meny
+Friele Frokost,115.00,500 g, None, Meny
+Staropramen,237.00,3000 ml, None, Meny
+Illy Espresso,132.00,250 g, None, Meny
+Kinn Humlepils,69.90,750 ml, None, Meny
+Eplemost,62.90,750 ml, None, Meny
+Balholm Eple&Pære,65.80,750 ml, None, Meny
+Hansa Radler,21.90,500 ml, None, Meny
+Staropramen,39.50,500 ml, None, Meny
+Sun Lolly Smoothie,23.90,180 ml, None, Meny
+Eplejuice,28.50,750 ml, None, Meny
+Hverdags Ipa,39.90,330 ml, None, Meny
+Sviskejuice,59.90,1000 ml, None, Meny
+Nøisom Happy,49.90,440 ml, None, Meny
+Nitro Stout,46.90,440 ml, None, Meny
+Nøisom Blanc,49.90,440 ml, None, Meny
+Sjokoladedrikk,75.90,2800 ml, None, Meny
+Nordic Pilsner,38.20,500 ml, None, Meny
+Kombucha,42.60,330 ml, None, Meny
+Kombucha,42.60,330 ml, None, Meny
+Lervig Easy,49.00,330 ml, None, Meny
+Mack Isbjørn,31.90,500 ml, None, Meny
+O'Haras Irish Red,52.90,440 ml, None, Meny
+Pike Place,43.90,10 stk, None, Meny
+Blonde Espresso,43.90,10 stk, None, Meny
+Klokk&Co,34.90,500 ml, None, Meny
+Klokk&Co,209.40,3000 ml, None, Meny
+Aass Energiøl,43.90,500 ml, None, Meny
+Ægir Tacofredag,54.90,440 ml, None, Meny
+Ægir Rallar,54.90,440 ml, None, Meny
+Brewdog,40.60,500 ml, None, Meny
+Norsk Kombucha,54.80,500 ml, None, Meny
+Ali Original,89.00,500 g, None, Meny
+Fun Light,35.80,7991 ml, None, Meny
+Eplemost,47.30,700 ml, None, Meny
+Eplesider,129.00,750 ml, None, Meny
+Fun Light,35.80,7991 ml, None, Meny
+Fun Light,35.80,7991 ml, None, Meny
+Ægir Flåmstanga,49.90,440 ml, None, Meny
+Ægir Dag Sitrus,49.90,440 ml, None, Meny
+Ægir Habanero,54.90,440 ml, None, Meny
+Ægir Sassy Lil Sis,54.90,440 ml, None, Meny
+Ægir Vetlebror,54.90,440 ml, None, Meny
+Ægir Dag Pineapple,49.90,440 ml, None, Meny
+Ægir,49.90,440 ml, None, Meny
+Nøisom Fusion Øl,44.90,330 ml, None, Meny
+Sjokoladedrikk,42.90,1 stk, None, Meny
+Turmeric Active Te,73.90,20 stk, None, Meny
+Sider Eple/Br.Bær,109.50,750 ml, None, Meny
+Blåbærsaft,59.50,3500 ml, None, Meny
+Hazyday Hero,44.90,440 ml, None, Meny
+Fun Light,35.80,7991 ml, None, Meny
+Thornbridgde,47.40,440 ml, None, Meny
+Kombucha,41.00,330 ml, None, Meny
+Eplemost Årgang,64.90,750 ml, None, Meny
+Macchiato Hazelnut,28.90,220 ml, None, Meny
+Kalossi Blend,269.00,700 g, None, Meny
+Brazilian Peaberry,269.00,700 g, None, Meny
+Eplemost Blaane,79.00,750 ml, None, Meny
+Ali Original,47.90,1 stk, None, Meny
+Tungtvann Cocktail,39.90,250 ml, None, Meny
+Iskaffe Cappuccino,29.90,1000 ml, None, Meny
+Klokk&Co Nada,24.90,330 ml, None, Meny
+Appelsinjuice,23.00,750 ml, None, Meny
+Estrella Damm,38.20,500 ml, None, Meny
+Evergood Classic,57.00,500 g, 105.00, Meny
+Lemonade Bringebær,33.40,330 ml, None, Meny
+Rosecider,129.00,750 ml, None, Meny
+Handverkcider,44.90,330 ml, None, Meny
+Cotw Colombia,42.90,1 stk, None, Meny
+Handverkcider,44.90,330 ml, None, Meny
+Heineken 0,0%,18.90,330 ml, None, Meny
+Sidamo Etiopia,119.00,340 g, None, Meny
+Ali Original,45.90,250 g, None, Meny
+Acai Nektar,56.50,1000 ml, None, Meny
+Sjokoladedrikk,42.90,1 stk, None, Meny
+Cotw Lungo,42.90,1 stk, None, Meny
+Handverkcider,44.90,330 ml, None, Meny
+Smirnoff Ice,188.00,1000 ml, None, Meny
+Earl Grey Tea,18.40,50 stk, None, Meny
+Clausthaler,11.50,330 ml, None, Meny
+Smirnoff Ice,185.60,1100 ml, None, Meny
+Smirnoff Ice,46.40,275 ml, None, Meny
+Zeroh!,36.90,8004 ml, None, Meny
+Regia Kakao,44.90,260 g, None, Meny
+O'Boy,61.90,1 stk, None, Meny
+O'Boy,34.90,1 stk, None, Meny
+Smirnoff Ice,42.80,275 ml, None, Meny
+Zeroh!,32.90,8005 ml, None, Meny
+Intenso Kaffe,24.90,250 g, None, Meny
+Zeroh!,32.90,8005 ml, None, Meny
+Nesquik,44.90,1 stk, None, Meny
+Appelsinsaft,23.90,8985 ml, None, Meny
+Choco-Caramell,20.50,1 stk, None, Meny
+Nescafe 3in1,53.60,1 stk, None, Meny
+Coca-Cola,14.00,250 ml, None, Meny
+Fanta Appelsin,14.10,250 ml, None, Meny
+Green Tea Lemon,47.90,15 stk, None, Meny
+Assam Tea,69.90,20 stk, None, Meny
+Herbal Collection,73.90,20 stk, None, Meny
+Herrljunga Cider,34.20,1000 ml, None, Meny
+Yellow Label Tea,72.50,150 g, None, Meny
+Tassimo Evergood,89.00,1 stk, None, Meny
+Tropisk Aroma,179.00,500 g, None, Meny
+Guatemala Kaffe,179.00,500 g, None, Meny
+Tomatjuice,49.90,1000 ml, None, Meny
+Green World Kaffe,139.00,500 g, None, Meny
+Yogi Te Sweet,59.90,17 stk, None, Meny
+Brewdog,20.90,330 ml, None, Meny
+Starbucks Espresso,165.00,450 g, None, Meny
+Egils Maltextrakt,33.50,500 ml, None, Meny
+Nescafe Gold,105.00,2100 g, None, Meny
+Starbucks Instant,49.90,1 stk, None, Meny
+Tropisk Nektar,33.40,1500 ml, None, Meny
+Tonic Water,36.10,200 ml, None, Meny
+Coladrikk u/Koffein,34.90,355 ml, None, Meny
+Aass Eplemost,22.80,330 ml, None, Meny
+Nescafe Gull,39.40,1 stk, None, Meny
+Cafe Vanilla,45.90,1 stk, None, Meny
+Earl Grey Te,45.90,24 stk, None, Meny
+Chocolate Drink,74.90,1 stk, None, Meny
+Carlsberg Free,119.40,1980 ml, None, Meny
+Munkholm Fruktig,18.50,330 ml, None, Meny
+Ananasjuice,96.00,750 ml, None, Meny
+Blåbær Rooibos Te,44.90,20 stk, None, Meny
+Grønnsaksjuice,71.90,1 stk, None, Meny
+Grønn Te,45.90,20 stk, None, Meny
+Grønn Te Sitron,45.70,20 stk, None, Meny
+Senseo Friele,103.00,1 stk, None, Meny
+Choco Mørk 72%,14.90,1 stk, None, Meny
+Mack Arctic,183.60,2000 ml, None, Meny
+Somersby Cider,239.40,3000 ml, None, Meny
+Starbucks,89.00,330 g, None, Meny
+Swiss Chocolate,72.30,200 g, None, Meny
+Hooch Lemon,39.90,275 ml, None, Meny
+Aass uten Ipa,93.00,1980 ml, None, Meny
+Senseo Strong,98.00,1 stk, None, Meny
+Farmers Coffee,116.00,500 g, None, Meny
+Mack Ginger Beer,147.60,1320 ml, None, Meny
+Bira91,41.90,330 ml, None, Meny
+Mack 1877,41.90,500 ml, None, Meny
+Friele Frokost,64.60,250 g, None, Meny
+Tundra Ingefærøl,19.10,250 ml, None, Meny
+Eplemost,69.90,750 ml, None, Meny
+Coors,39.90,500 ml, None, Meny
+Solbærsaft,64.90,3501 ml, None, Meny
+Eplemost,69.90,750 ml, None, Meny
+Kirsebærsaft,77.00,3500 ml, None, Meny
+Ripssaft,62.50,3499 ml, None, Meny
+Absolut Mixt,38.90,275 ml, None, Meny
+No Worries,71.60,1320 ml, None, Meny
+Froosh Mango&,48.50,750 ml, None, Meny
+Bacardi Breezer,41.90,275 ml, None, Meny
+Nesquik,69.90,1 stk, None, Meny
+Solbærsaft,54.90,2000 ml, None, Meny
+Absolut Mixt,38.90,275 ml, None, Meny
+Halmstad Cocktail,48.90,500 ml, None, Meny
+Færder Belgisk Øl,44.90,330 ml, None, Meny
+Tonic Water,41.90,450 ml, None, Meny
+Rhubarb Fizz,62.20,330 ml, None, Meny
+Grevens Cider,239.40,3000 ml, None, Meny
+Morning Blend,69.90,16 stk, None, Meny
+Halmstad Cocktail,48.90,500 ml, None, Meny
+Balholm Eple,68.90,1000 ml, None, Meny
+Eplemost Årgang,66.30,750 ml, None, Meny
+Hansa Premium,215.40,3000 ml, None, Meny
+Ali Original,47.90,1 stk, None, Meny
+Cirkel Kaffe,42.90,250 g, None, Meny
+Rabarbrasaft,28.40,330 ml, None, Meny
+Himkok,59.90,330 ml, None, Meny
+Eplemost,29.90,330 ml, None, Meny
+Somersby Sparkling,257.40,3000 ml, None, Meny
+Eplemost,169.00,3000 ml, None, Meny
+Eplemost,71.90,750 ml, None, Meny
+Ægir Dag Mango,54.90,440 ml, None, Meny
+Ægir Norsk Ipa,54.90,440 ml, None, Meny
+Balholm Eple,68.90,750 ml, None, Meny
+Sider Gardseple,109.50,750 ml, None, Meny
+Rabarbra,64.90,750 ml, None, Meny
+Earl Grey Tea,105.00,200 g, None, Meny
+Tungtvann Cocktail,39.90,250 ml, None, Meny
+Evergood Classic,289.00,1500 g, None, Meny
+Froosh Ananas,44.60,750 ml, None, Meny
+7up,104.00,8000 ml, None, Meny
+Appelsinjuice,28.90,1000 ml, None, Meny
+Appelsinjuice,29.90,1500 ml, None, Meny
+Reign Peach Fizz,25.70,500 ml, None, Meny
+O'Boy,56.90,1 stk, None, Meny
+Blåbær Råsaft,58.40,260 ml, None, Meny
+Nescafe Original,84.00,100 g, None, Meny
+Fruktsirup Pink,143.00,700 ml, None, Meny
+Fanta Sitron,14.10,250 ml, None, Meny
+Recovery Shake,32.10,1 stk, None, Meny
+Proteinshake,30.80,1 stk, None, Meny
+Blåbærsaft,98.00,3150 ml, None, Meny
+Sjokoladepulver,36.40,1 stk, None, Meny
+Somersby Cider,269.40,3000 ml, None, Meny
+Quick Milk Magic,32.90,1 stk, None, Meny
+Nøisom Bonfire,49.90,440 ml, None, Meny
+Nøisom Tropisk,49.90,440 ml, None, Meny
+Appelsinjuice,34.90,1000 ml, None, Meny
+Froosh Mango&,28.70,250 ml, None, Meny
+Aass Lite,239.40,3000 ml, None, Meny
+Mack Isbjørn Lite,257.40,3000 ml, None, Meny
+Aass Blanc,257.40,3000 ml, None, Meny
+Mirinda,104.00,8000 ml, None, Meny
+Mountain Dew,101.00,7997 ml, None, Meny
+Aass Energiøl,263.40,3000 ml, None, Meny
+Hansa Radler,131.40,3000 ml, None, Meny
+Crabbies Ginger,44.90,330 ml, None, Meny
+Mack Tropical,42.90,500 ml, None, Meny
+Corona Cero,155.40,1980 ml, None, Meny
+Aass uten,89.40,1980 ml, None, Meny
+Hansa Radler,131.40,3000 ml, None, Meny
+Coors,159.60,2000 ml, None, Meny
+Aass Ipa,42.90,500 ml, None, Meny
+7fjell Pils,46.90,500 ml, None, Meny
+Vestr Cider,129.00,750 ml, None, Meny
+Rha Rose,129.00,750 ml, None, Meny
+Herrljunga Shot,77.00,500 ml, None, Meny
+Grønn Rooibos,51.90,20 stk, None, Meny
+Smoothie Froosh,34.90,250 ml, None, Meny
+7fjell Pils,281.40,3000 ml, None, Meny
+Smooth Peachy,263.40,3000 ml, None, Meny
+Munkholm Radler,101.40,1980 ml, None, Meny
+Grevens Cider,263.40,3000 ml, None, Meny
+Froosh,27.90,250 ml, None, Meny
+Superblends,69.90,18 stk, None, Meny
+Superblends,69.90,18 stk, None, Meny
+Superblends,69.90,18 stk, None, Meny
+Superblends,69.90,18 stk, None, Meny
+Starbucks,85.00,220 g, None, Meny
+Lowcaly,35.90,1000 ml, None, Meny
+Ripssaft,67.60,2500 ml, None, Meny
+Kinn Globetrottar,79.90,750 ml, None, Meny
+Urge Citrus,13.90,250 ml, None, Meny
+Sprudle Eple,29.90,330 ml, None, Meny
+Humla Cider,129.00,750 ml, None, Meny
+Eplemost,156.00,3000 ml, None, Meny
+Sprite Zero,14.10,250 ml, None, Meny
+Froosh Ananas,26.50,250 ml, None, Meny
+Absolut Drinks,38.90,275 ml, None, Meny
+Absolut Drinks,38.90,275 ml, None, Meny
+Rai Rai Pils,39.10,500 ml, None, Meny
+Grevens Cider,43.90,500 ml, None, Meny
+Mojito Mint,160.00,700 ml, None, Meny
+Afternoon Darjeeling,79.90,20 stk, None, Meny
+Rai Rai Pils,242.60,3000 ml, None, Meny
+Maxim Esport,64.90,1 stk, None, Meny
+Clausthaler,17.90,330 ml, None, Meny
+Tassimo Gevalia,101.00,8 stk, None, Meny
+Miller,209.40,1980 ml, None, Meny
+Sider Eple/Jordb.,109.50,750 ml, None, Meny
+Brewdog,20.90,330 ml, None, Meny
+Vodka Essens,43.30,525 ml, None, Meny
+Tassimo Gevalia,123.00,1 stk, None, Meny
+Kinn Dampen,79.90,750 ml, None, Meny
+Klokk&Co Snik Ipa,32.90,330 ml, None, Meny
+English Breakfast,45.90,20 stk, None, Meny
+Sun Lolly Smoothie,69.90,720 ml, None, Meny
+Hansa Premium,35.90,500 ml, None, Meny
+Smirnoff Ice,47.00,250 ml, None, Meny
+Friele Kaffe,48.20,125 g, None, Meny
+Balholm Eple,71.90,750 ml, None, Meny
+Hansa Spesial,269.40,3000 ml, None, Meny
+Friele Frokost,65.00,250 g, None, Meny
+Skogsbær Grønn Te,92.00,25 stk, None, Meny
+Whisky Essens,45.60,326 ml, None, Meny
+Brandy Essens,43.10,556 ml, None, Meny
+Akevitt Essens,43.30,525 ml, None, Meny
+Tassimo Gevalia,115.00,1 stk, None, Meny
+Chamomile Vanilla,73.90,20 stk, None, Meny
+Brandy Essens,40.70,2326 ml, None, Meny
+Solbærtoddy,17.40,1 stk, None, Meny
+Rips&Solbærsaft,86.00,2500 ml, None, Meny
+Austmann Pilsner,43.80,500 ml, None, Meny
+Austmann Pilsner,262.80,3000 ml, None, Meny
+Friele Frokost,115.00,500 g, None, Meny
+Ginger Kick Te,55.80,15 stk, None, Meny
+Mack Arctic,45.90,500 ml, None, Meny
+Klokk&Co Snik Ipa,197.40,1980 ml, None, Meny
+Ginger Beer,28.70,200 ml, None, Meny
+Austmann,44.80,330 ml, None, Meny
+Sitron&Ingefær Te,89.00,20 stk, None, Meny
+Earl Grey Tea,77.90,150 g, None, Meny
+Bacardi Breezer,41.90,275 ml, None, Meny
+Sjokoladedrikk,74.90,3500 ml, None, Meny
+Sjokoladedrikk,68.90,3499 ml, None, Meny
+Tranebær Nektar,56.50,1000 ml, None, Meny
+Plomme&Solbærsaft,97.00,2500 ml, None, Meny
+Sun Lolly Smoothie,23.90,180 ml, None, Meny
+Sun Lolly Smoothie,69.90,720 ml, None, Meny
+Slogen Alpe Ipa,54.90,500 ml, None, Meny
+Slogen Pilsner,54.90,500 ml, None, Meny
+Pepsi Max,68.20,5998 ml, None, Meny
+Farris,25.90,1500 ml, None, Meny
+Pepsi Max,33.50,1500 ml, None, Meny
+Farris Bris,25.90,1500 ml, None, Meny
+Ringnes Pilsner,185.40,3000 ml, None, Meny
+Evergood Classic,57.00,500 g, 105.00, Meny
+Tropisk Juice,39.90,1000 ml, None, Meny
+Pepsi Max,127.00,3960 ml, None, Meny
+7up Free,19.60,330 ml, None, Meny
+Battery,24.90,500 ml, None, Meny
+Battery Juiced,24.90,500 ml, None, Meny
+Battery Fresh,26.90,500 ml, None, Meny
+Battery Blueberry,26.90,500 ml, None, Meny
+Battery Energy,26.90,500 ml, None, Meny
+Battery No Calorie,23.90,500 ml, None, Meny
+Solo,27.90,500 ml, None, Meny
+Tonic Water Zero,28.90,500 ml, None, Meny
+Solo Super,27.40,500 ml, None, Meny
+Farris Bris,23.80,500 ml, None, Meny
+Solo Super,24.90,500 ml, None, Meny
+Farris Bris,22.90,500 ml, None, Meny
+Tonic Water,29.90,500 ml, None, Meny
+Farris,23.80,500 ml, None, Meny
+Farris,23.80,500 ml, None, Meny
+Farris Bris,23.80,500 ml, None, Meny
+Russchian,29.90,500 ml, None, Meny
+Pepsi Max,24.90,500 ml, None, Meny
+Pepsi,25.60,500 ml, None, Meny
+Monsooned Malabar,119.00,340 g, None, Meny
+Imsdal Bringebær,29.90,650 ml, None, Meny
+Pepsi Max,25.90,500 ml, None, Meny
+Imsdal Fersken,29.90,650 ml, None, Meny
+Costa Rica Tres,179.00,500 g, None, Meny
+Farris Frus,23.80,500 ml, None, Meny
+Pepsi Max,15.90,330 ml, None, Meny
+Ringnes Vørterøl,105.00,1980 ml, None, Meny
+Ringnes Vørterøl,17.50,330 ml, None, Meny
+Nescafe Gold,119.00,626 g, None, Meny
+Iskaffe Latte,21.90,330 ml, None, Meny
+Isklar Sparkling,16.90,460 ml, None, Meny
+Ringnes Lite,251.40,3000 ml, None, Meny
+Ringnes Lite,41.90,500 ml, None, Meny
+Munkholm Fatøl,111.00,1980 ml, None, Meny
+Mozell Light,24.50,500 ml, None, Meny
+Hansa Fatøl,319.00,3300 ml, None, Meny
+Fanta Raspberry,22.90,500 ml, None, Meny
+Heineken,31.90,330 ml, None, Meny
+Carlsberg Pilsner,221.40,3000 ml, None, Meny
+Carlsberg Pilsner,36.90,500 ml, None, Meny
+Schous Pilsner,219.00,3000 ml, None, Meny
+Schous Pilsner,36.50,500 ml, None, Meny
+Imsdal,17.90,300 ml, None, Meny
+Brooklyn Lager,44.90,500 ml, None, Meny
+Ringnes Pilsner,259.00,3300 ml, None, Meny
+7up Free,36.50,1500 ml, None, Meny
+Pepsi Max,36.90,1500 ml, None, Meny
+Farris Bris,24.90,1500 ml, None, Meny
+Schous Pilsner,299.00,3300 ml, None, Meny
+Solrik,12.90,250 ml, None, Meny
+Farris Frus,30.70,1500 ml, None, Meny
+Imsdal,18.70,500 ml, None, Meny
+Solo Super,32.90,1500 ml, None, Meny
+Imsdal,25.60,1500 ml, None, Meny
+Isklar Sparkling,16.90,1500 ml, None, Meny
+Hansa Pilsner,249.00,3300 ml, None, Meny
+San Pellegrino,29.90,1000 ml, None, Meny
+Hansa Pilsner,24.90,330 ml, None, Meny
+Bacardi Breezer,41.90,275 ml, None, Meny
+Ringnes Lite,209.40,3000 ml, None, Meny
+Ringnes Pilsner,30.90,500 ml, None, Meny
+Ringnes Lite,34.90,500 ml, None, Meny
+Somersby Sparkling,42.90,500 ml, None, Meny
+Smoothie,22.90,250 ml, None, Meny
+Farris Bris,25.90,1500 ml, None, Meny
+Vinterjuice,42.90,1000 ml, None, Meny
+Coca-Cola u/Sukker,30.90,1500 ml, None, Meny
+Fun Light,35.80,7991 ml, None, Meny
+Frydenlund Pilsner,29.90,500 ml, None, Meny
+Frydenlund Pilsner,179.40,3000 ml, None, Meny
+Imsdal,21.30,650 ml, None, Meny
+Farris Frus,30.70,1500 ml, None, Meny
+San Pellegrino,149.00,6001 ml, None, Meny
+Solo Super,117.40,3960 ml, None, Meny
+Munkholm,11.50,330 ml, None, Meny
+Munkholm,69.00,1980 ml, None, Meny
+Soda Water,29.90,500 ml, None, Meny
+English Breakfast,69.90,20 stk, None, Meny
+Brooklyn Special,20.90,330 ml, None, Meny
+Relax Te,73.90,20 stk, None, Meny
+Costa Rica Tres,75.00,200 g, None, Meny
+Peace Te,73.90,20 stk, None, Meny
+Winter Warm,73.90,20 stk, None, Meny
+Yogi Te Turmeric,59.90,17 stk, None, Meny
+Starbucks Instant,49.90,1 stk, None, Meny
+Fun Light,46.00,8000 ml, None, Meny
+Frydenlund Bayer,281.40,3000 ml, None, Meny
+Latte,45.90,1 stk, None, Meny
+Munkholm Fatøl,18.50,330 ml, None, Meny
+Kronenbourg 1664,44.90,330 ml, None, Meny
+Heineken,239.40,1980 ml, None, Meny
+Frydenlund Fatøl,329.00,3300 ml, None, Meny
+Frydenlund Fatøl,32.90,330 ml, None, Meny
+Kronenbourg 1664,239.40,1980 ml, None, Meny
+Tuborg Grønn,197.40,1980 ml, None, Meny
+Frydenlund Bayer,46.90,500 ml, None, Meny
+Ringnes Lite,257.40,3000 ml, None, Meny
+Tuborg Grønn,32.90,330 ml, None, Meny
+Tuborg Lite,34.90,330 ml, None, Meny
+Fanta Zero,22.90,500 ml, None, Meny
+Tuborg Lime Cut,32.90,330 ml, None, Meny
+Tuborg Lime Cut,197.40,1980 ml, None, Meny
+Løfbergs Lila,85.00,400 g, None, Meny
+Hansa Fatøl,31.90,330 ml, None, Meny
+Heineken,319.00,3300 ml, None, Meny
+Carlsberg Pilsner,32.90,330 ml, None, Meny
+Somersby Cider,39.90,500 ml, None, Meny
+Ringnes Lite,42.90,500 ml, None, Meny
+Tonic Water,41.90,500 ml, None, Meny
+Somersby Cider,239.40,3000 ml, None, Meny
+Frydenlund Hveteøl,44.90,500 ml, None, Meny
+Brooklyn Lager,269.40,3000 ml, None, Meny
+Carlsberg Pilsner,329.00,3300 ml, None, Meny
+Frydenlund Hveteøl,269.40,3000 ml, None, Meny
+English Breakfast,136.00,200 g, None, Meny
+Pepsi Max,104.00,8000 ml, None, Meny
+Mack Ginger Beer,147.60,1320 ml, None, Meny
+Frydenlund Juicy,369.00,3300 ml, None, Meny
+Nordlands Pils,215.40,3000 ml, None, Meny
+Mack Ginger Beer,36.90,330 ml, None, Meny
+Frydenlund Juicy,36.90,330 ml, None, Meny
+Tonic Water,87.40,800 ml, None, Meny
+Iste Sitron,34.90,355 ml, None, Meny
+Munkholm Radler,16.90,330 ml, None, Meny
+Ringnes Lite,299.00,3300 ml, None, Meny
+Tuborg Lite,299.00,3300 ml, None, Meny
+Stella Artois,171.60,2000 ml, None, Meny
+Hansa Mango Ipa,42.90,500 ml, None, Meny
+Snapple,35.80,473 ml, None, Meny
+Solo Super,79.70,1980 ml, None, Meny
+Hansa Mango Ipa,257.40,3000 ml, None, Meny
+Stella Artois,42.90,500 ml, None, Meny
+Tuborg Lite,29.90,330 ml, None, Meny
+Hansa Chili Blonde,269.40,3000 ml, None, Meny
+Froosh,15.40,150 ml, None, Meny
+Hansa Chili Blonde,44.90,500 ml, None, Meny
+Bacardi Breezer,41.90,275 ml, None, Meny
+Somersby Cider,257.40,3000 ml, None, Meny
+Froosh Shorty,99.00,900 ml, None, Meny
+Z Cider,59.70,500 ml, None, Meny
+Pink Ginger,51.30,750 ml, None, Meny
+Flat White,69.90,1 stk, None, Meny
+Tuborg Grøn,201.00,3408 ml, None, Meny
+Tuborg Grøn,33.50,568 ml, None, Meny
+Aass Cider,257.40,3000 ml, None, Meny
+Aass Cider,42.90,500 ml, None, Meny
+Urge,131.00,3300 ml, None, Meny
+Pilsner,179.40,1980 ml, None, Meny
+Eplemost,155.00,3000 ml, None, Meny
+Somersby Cider,42.90,500 ml, None, Meny
+Mack Isbjørn Lite,259.00,3300 ml, None, Meny
+Fanta Appelsin,112.20,3300 ml, None, Meny
+Nøisom Fusion Øl,44.90,330 ml, None, Meny
+Ali Mørkbrent,47.90,1 stk, None, Meny
+Solbærtoddy,55.90,1 stk, None, Meny
+Day To Night,73.90,20 stk, None, Meny
+Blackcurrant Te,73.90,20 stk, None, Meny
+Appelsin Presset,57.50,900 ml, None, Meny
+Heineken,39.90,330 ml, None, Meny
+Reign Orange,25.70,500 ml, None, Meny
+Ringnes Pilsner,25.90,330 ml, None, Meny
+Nordlands Pils,35.90,500 ml, None, Meny
+Mythos Ice,41.90,330 ml, None, Meny
+Munkholm Radler,101.40,1980 ml, None, Meny
+Solrik,12.90,250 ml, None, Meny
+Iskaffe Cappuccino,21.90,330 ml, None, Meny
+Schous Pilsner,29.90,330 ml, None, Meny
+Smoothie,19.90,250 ml, None, Meny
+Austmann,48.60,500 ml, None, Meny
+Somersby Sparkling,257.40,3000 ml, None, Meny
+Kinn Pilegrim,36.90,330 ml, None, Meny
+Smoothie,22.90,250 ml, None, Meny
+Pilsner,29.90,330 ml, None, Meny
+Fuzetea,18.80,400 ml, None, Meny
+Mack Isbjørn,25.90,330 ml, None, Meny
+Liereple Blåbær,144.00,750 ml, None, Meny
+Liereple Bringebær,144.00,750 ml, None, Meny
+Crabbies,39.90,500 ml, None, Meny
+Calypso Lemonade,41.50,473 ml, None, Meny
+Orange Spritzsirup,142.00,700 ml, None, Meny
+Ringnes Lite,29.90,330 ml, None, Meny
+Ringnes Lite,29.90,330 ml, None, Meny
+Kronenbourg 1664,39.90,330 ml, None, Meny
+Apple&Cinnamon,73.90,20 stk, None, Meny
+Snapple,35.80,473 ml, None, Meny

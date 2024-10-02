@@ -1,0 +1,643 @@
+#Navn #Pris #Mengde #Før #Butikk 
+Solsikkebrød Grovt,49.90,790 g, None, Meny
+Kornbrød,53.90,680 g, None, Meny
+Marengsbunner,81.00,329 g, None, Meny
+Pain Au Chocolat,56.50,330 g, None, Meny
+Flatbrød,52.50,190 g, None, Meny
+Lapp m/Sjokolade,18.00,1 stk, None, Meny
+Lapper,15.00,1 stk, None, Meny
+Hannas Kneipp,30.00,700 g, 44.90, Meny
+Speltbrød 100%,49.90,660 g, None, Meny
+Berlinerbolle,19.90,1 stk, None, Meny
+Berlinerbolle,19.90,1 stk, None, Meny
+Pariserbaguette,29.90,1 stk, None, Meny
+Alpebrød,47.90,1 stk, None, Meny
+Rundstykke Kneipp,13.90,180 g, None, Meny
+Lomper Store,18.60,280 g, None, Meny
+Spandauer,20.70,1 stk, None, Meny
+Wienerpecan,19.90,1 stk, None, Meny
+Smør Croissant,21.00,1 stk, None, Meny
+Skolebrød,25.90,1 stk, None, Meny
+Croissant,21.00,1 stk, None, Meny
+Baguette,10.90,1 stk, None, Meny
+Sofies Grovbrød,45.90,700 g, None, Meny
+Ostebaguette,19.90,130 g, None, Meny
+Solsikkebrød,38.90,1 stk, None, Meny
+Engloff,28.90,1 stk, None, Meny
+Spesialloff,39.90,1 stk, None, Meny
+Spesialloff,39.90,1 stk, None, Meny
+Grovt Kornbrød,49.90,1 stk, None, Meny
+Pizzasnurr,25.00,1 stk, None, Meny
+Oskars,19.90,1 stk, None, Meny
+Toast Loff,42.70,660 g, None, Meny
+Mini Bakervarer,7.00,1 stk, None, Meny
+Annie Brød,41.50,1 stk, None, Meny
+Hamburgerbrød,39.90,300 g, None, Meny
+Hamburgerbrød,39.90,310 g, None, Meny
+Rundstykke Fint,13.90,180 g, None, Meny
+Grovt Speltbrød,46.90,1 stk, None, Meny
+Norsk Fjellbrød,35.40,750 g, None, Meny
+Fiberbrød,45.20,700 g, None, Meny
+Norsk Fjellbrød,33.90,750 g, None, Meny
+Julius Favoritt,33.90,750 g, None, Meny
+Lomper,15.90,260 g, None, Meny
+Fint Landbrød,49.90,1 stk, None, Meny
+Lomper,15.00,285 g, None, Meny
+Hverdagsgrovt,20.90,750 g, None, Meny
+Naan Bread,25.50,260 g, None, Meny
+Polarbrød,44.50,450 g, None, Meny
+Møllehjul Fullkorn,39.90,420 g, None, Meny
+Pølsebrød Hurra,19.90,320 g, None, Meny
+Minibaguetter,15.90,300 g, None, Meny
+Rugsprø,13.20,200 g, None, Meny
+Hvitløksbaguetter,17.90,350 g, None, Meny
+Solskinnsbolle,21.00,1 stk, None, Meny
+Donut,20.00,1 stk, None, Meny
+Hvetebolle,9.90,1 stk, None, Meny
+Rosinbolle,9.90,1 stk, None, Meny
+Tacobolle,29.90,1 stk, None, Meny
+Sjokoladebolle,9.90,1 stk, None, Meny
+Donut,20.80,1 stk, None, Meny
+Gourmetkorn,10.00,80 g, None, Meny
+Wienerstang,49.90,1 stk, None, Meny
+Donut,20.80,1 stk, None, Meny
+Alperundstykker,10.00,1 stk, None, Meny
+Kanelknute,22.90,1 stk, None, Meny
+Rosinbolle,25.00,1 stk, None, Meny
+Pain Au Chocolat,22.00,1 stk, None, Meny
+Rundstykke,9.80,1 stk, None, Meny
+Gulrotbrød,44.90,750 g, None, Meny
+Mini Berliner,6.90,1 stk, None, Meny
+Krokanwiener,23.90,1 stk, None, Meny
+Formloff m/Valmue,38.90,600 g, None, Meny
+Turklenning,11.90,50 g, None, Meny
+Bondebrød,46.60,1 stk, None, Meny
+Energirundstykke,10.00,1 stk, None, Meny
+Korn Diamant,10.00,75 g, None, Meny
+Rugbrød,24.90,500 g, None, Meny
+Focaccia,12.00,100 g, None, Meny
+Punchrull,59.90,210 g, None, Meny
+Osterundstykke,10.00,1 stk, None, Meny
+Burgerbrød,39.90,320 g, None, Meny
+4-Kornstykke,10.00,75 g, None, Meny
+Formloff,39.30,600 g, None, Meny
+Møllehjul Sesamfrø,51.80,420 g, None, Meny
+Solstykke,10.00,1 stk, None, Meny
+Gourmet Rundstykke,10.00,1 stk, None, Meny
+Gourmetkorn,10.00,1 stk, None, Meny
+Papadums,39.90,110 g, None, Meny
+Vestlandslefsa,15.30,1 stk, None, Meny
+Gourmet Muffins,22.40,1 stk, None, Meny
+Treats Donut,25.50,1 stk, None, Meny
+Yoghurtbrød,42.00,750 g, None, Meny
+Karamellmuffins,22.40,1 stk, None, Meny
+Burgerbrød,39.90,320 g, None, Meny
+Havrebrød,51.70,750 g, None, Meny
+Blåbærmuffins,22.40,1 stk, None, Meny
+Dansk Rugbrød,49.90,1 stk, None, Meny
+Flerkornbrød,51.40,750 g, None, Meny
+Pølsebrød,48.90,520 g, None, Meny
+Gourmet Muffins,22.00,1 stk, None, Meny
+Balldonut,25.50,1 stk, None, Meny
+Langlomper,24.90,290 g, None, Meny
+Vestlandslefsa,78.90,420 g, None, Meny
+Kornbrød,53.90,680 g, None, Meny
+Kokosboller,49.90,165 g, None, Meny
+Rundstykker,59.90,6 stk, None, Meny
+Speltlomper,32.80,270 g, None, Meny
+Baguette Grov,13.90,1 stk, None, Meny
+Oslobrød,29.90,500 g, None, Meny
+Spiralloff,50.90,600 g, None, Meny
+Brownie Mini,69.90,300 g, None, Meny
+Steam Buns,62.90,300 g, None, Meny
+Noras Grovbrød,46.50,1 stk, None, Meny
+Seterbrød,26.90,500 g, None, Meny
+Tigerloff,52.50,520 g, None, Meny
+Twistbaguette,43.90,1 stk, None, Meny
+Twistbaguette Frø,43.90,1 stk, None, Meny
+Gulrot Solsikkebrød,51.90,715 g, None, Meny
+Potetkaker,41.70,350 g, None, Meny
+Sitronkake,42.90,1 stk, None, Meny
+Pølsebrød Brioche,46.90,400 g, None, Meny
+Sjokoladeboller,49.90,165 g, None, Meny
+Hvetebriks,29.90,300 g, None, Meny
+Focaccia,39.90,1 stk, None, Meny
+Surdeigstykke,59.50,402 g, None, Meny
+Frokostbaguette,14.90,1 stk, None, Meny
+Mors Brød,44.90,750 g, None, Meny
+Ostesnurr,28.10,1 stk, None, Meny
+Lomper Spelt,28.90,270 g, None, Meny
+Kneippbrød,44.90,750 g, None, Meny
+Hvitløksbaguetter,48.90,525 g, None, Meny
+Speltbrød 100%,49.90,700 g, None, Meny
+Bagels,69.50,510 g, None, Meny
+Pain Au Chocolat,49.90,230 g, None, Meny
+Gammeldags Loff,49.90,1 stk, None, Meny
+Norsk Grovbrød,43.90,1 stk, None, Meny
+Brioche Gourmet,62.90,600 g, None, Meny
+Toast Kneipp,42.70,660 g, None, Meny
+Grissini,22.80,125 g, None, Meny
+Fiberstykker,30.90,225 g, None, Meny
+Vafler,49.90,440 g, None, Meny
+Bagel,16.90,1 stk, None, Meny
+Bagel,16.90,1 stk, None, Meny
+Bagel,16.90,1 stk, None, Meny
+Sjokoladefondant,57.90,180 g, None, Meny
+Club Sandwich,53.50,1 stk, None, Meny
+Naan Håndlagde,42.30,260 g, None, Meny
+Terteskjell,45.90,210 g, None, Meny
+Mini Berliner,6.90,1 stk, None, Meny
+Lomper Store,23.30,280 g, None, Meny
+Cheesecake Oreo,45.90,80 g, None, Meny
+Ostekake,57.60,190 g, None, Meny
+Gourmetrundstykker,44.90,480 g, None, Meny
+Vålerengabrød,46.90,750 g, None, Meny
+Pølsebrød Brioche,39.90,270 g, None, Meny
+Kardemomme By Brød,39.90,750 g, None, Meny
+Grovt Solsikkebrød,42.90,1 stk, None, Meny
+Sandwichbrød,85.00,340 g, None, Meny
+Brioche,46.90,500 g, None, Meny
+Åkerbrød,27.30,500 g, None, Meny
+Brix Korn,36.90,420 g, None, Meny
+Maiskaker,41.60,125 g, None, Meny
+Bondebrød Surdeig,59.90,800 g, None, Meny
+Surdeigsbrød,59.90,1 stk, None, Meny
+Pavé,44.50,1 stk, None, Meny
+Energibrød Fransk,49.90,630 g, None, Meny
+Grissini,22.80,125 g, None, Meny
+Knekkebrød,48.90,190 g, None, Meny
+Croutons,16.90,50 g, None, Meny
+Knekkebrød,46.90,190 g, None, Meny
+Møllebrød,51.50,1 stk, None, Meny
+Naan Håndlagde,39.90,260 g, None, Meny
+Brioche Gourmet,64.90,600 g, None, Meny
+Snack A Jack,21.90,23 g, None, Meny
+Mandelkake Daim,98.00,380 g, None, Meny
+Mandelpotet Lomper,29.00,290 g, None, Meny
+Grovkrisp,21.50,100 g, None, Meny
+Baguette,57.00,1 stk, None, Meny
+Makroner Franske,84.00,144 g, None, Meny
+Nan Brød,25.40,260 g, None, Meny
+Powerknekkebrød,43.40,225 g, None, Meny
+Brix Sesam,36.90,390 g, None, Meny
+Brioche Bagels,50.90,300 g, None, Meny
+Knekkebrød Surdeig,38.00,275 g, None, Meny
+Rundstykker,59.90,420 g, None, Meny
+Toastbrød Fint,40.90,550 g, None, Meny
+Klenning,37.90,260 g, None, Meny
+Energirundstykker,44.90,480 g, None, Meny
+Alperundstykker,44.90,480 g, None, Meny
+Gourmetloff,45.90,520 g, None, Meny
+Baguette,60.10,1 stk, None, Meny
+Sandwich,51.60,1 stk, None, Meny
+Muslibrød,43.90,475 g, None, Meny
+Gourmetstykker,47.50,438 g, None, Meny
+Knekkebrød,45.40,220 g, None, Meny
+Julekake,49.90,1 stk, None, Meny
+Lefser,24.90,240 g, None, Meny
+Rullekake,84.90,340 g, None, Meny
+Epleterte,37.90,1 stk, None, Meny
+Bringebærterte,37.90,1 stk, None, Meny
+Gårdsbrød,54.90,1 stk, None, Meny
+Croughnut,22.90,1 stk, None, Meny
+Kornbrød,45.90,680 g, None, Meny
+Hvitløksbrød,29.50,205 g, None, Meny
+Mini Snacka,45.90,1 stk, None, Meny
+Speltbrød,45.90,530 g, None, Meny
+Havre&Surdeigsbrød,45.90,530 g, None, Meny
+Rugknekkebrød,35.30,245 g, None, Meny
+Lantgoda Brød,49.90,650 g, None, Meny
+Knekkebrød,43.90,235 g, None, Meny
+Frøbaguette,48.10,1 stk, None, Meny
+Knekkebrød Runda,41.50,290 g, None, Meny
+Flerkornbriks,29.80,300 g, None, Meny
+Bygg -Og Havre,43.50,420 g, None, Meny
+Franske Makroner,79.00,1 stk, None, Meny
+Cheesecake,45.90,85 g, None, Meny
+Mini Croissant,44.90,300 g, None, Meny
+Esekielsbrød,67.30,450 g, None, Meny
+Ostebaguetter,82.00,250 g, None, Meny
+Knekkebrød,28.90,140 g, None, Meny
+Pitabrød,31.90,480 g, None, Meny
+Bringebærmousse,42.90,1 stk, None, Meny
+Kjernebrød,69.90,500 g, None, Meny
+Vestlandslefsa,19.90,230 g, None, Meny
+Lefser,21.90,250 g, None, Meny
+Baguette,62.20,1 stk, None, Meny
+Croissanter,51.90,360 g, None, Meny
+Burgerbrød Grove,23.20,160 g, None, Meny
+Delikatess Sesam,31.00,285 g, None, Meny
+Baguette,62.20,1 stk, None, Meny
+Havrebrød Runde,43.90,225 g, None, Meny
+Bagels,59.60,480 g, None, Meny
+Bagels Valmue,59.60,480 g, None, Meny
+Havreknekkebrød,33.90,265 g, None, Meny
+Ryvita Knekkebrød,33.40,250 g, None, Meny
+Krutonger Caesar,69.90,142 g, None, Meny
+Lomper,29.90,180 g, None, Meny
+Leksands Knekke,34.70,200 g, None, Meny
+Chiabrød,54.90,500 g, None, Meny
+Spirebrød,54.90,500 g, None, Meny
+Grovbrød,42.70,750 g, None, Meny
+Kornbrød Grovt,42.70,750 g, None, Meny
+Speltbrød Grovt,42.70,620 g, None, Meny
+Minigrissini,24.90,90 g, None, Meny
+Fjellbrød,50.90,690 g, None, Meny
+4-Kornbrød,50.90,690 g, None, Meny
+Krutonger,24.90,90 g, None, Meny
+Butterdeigsplater,29.90,450 g, None, Meny
+Burgerbrød Sesam,22.40,180 g, None, Meny
+Sliders Mini,49.90,480 g, None, Meny
+Vestlandslefsa,35.20,230 g, None, Meny
+Kokosboller,31.00,90 g, None, Meny
+Sprøde Maisbrød,18.20,70 g, None, Meny
+Burgerbrød,33.90,480 g, None, Meny
+Knekkebrød,44.70,150 g, None, Meny
+Fruktstang,22.90,100 g, None, Meny
+Knekkebrød 100,28.90,245 g, None, Meny
+Rundstykker Grove,41.90,480 g, None, Meny
+Julius Brød,34.10,750 g, None, Meny
+Sesam&Solsikkebrød,41.90,680 g, None, Meny
+Smørloff Håndlagd,49.90,635 g, None, Meny
+Skorpor,33.40,240 g, None, Meny
+Minibakkels,43.00,250 g, None, Meny
+Havrebrød,42.70,750 g, None, Meny
+Vestlandslefsa,43.80,345 g, None, Meny
+Leksands Knekke,30.90,200 g, None, Meny
+Vestlandslefsa,19.70,230 g, None, Meny
+Solsikkebrød Grovt,49.90,790 g, None, Meny
+Marka Spelt,49.90,1 stk, None, Meny
+Landbrød Grovt,49.90,790 g, None, Meny
+Surdeigsbrød,49.90,740 g, None, Meny
+Riskaker,33.90,95 g, None, Meny
+Baguette Fin,23.80,250 g, None, Meny
+Polarbrød,47.80,450 g, None, Meny
+Sandwich Cheese,11.50,30 g, None, Meny
+Myk&Rund Fullkorn,47.80,450 g, None, Meny
+Sandwich Cheese,11.50,37 g, None, Meny
+Maiskaker,29.90,125 g, None, Meny
+Flatbrød,24.90,275 g, None, Meny
+Pain Au Chocolat,56.50,330 g, None, Meny
+Ryvita Knekkebrød,38.90,400 g, None, Meny
+Knekkebrød,39.90,270 g, None, Meny
+Havreflarn,37.90,300 g, None, Meny
+Smultringer,43.60,430 g, None, Meny
+Flatbrød,19.90,190 g, None, Meny
+Maiskaker,29.90,125 g, None, Meny
+Sitronterte,39.90,1 stk, None, Meny
+Vanillas Boller,37.90,220 g, None, Meny
+Hvitløksbaguetter,42.90,350 g, None, Meny
+Matpakkebrød,39.90,680 g, None, Meny
+Napoleonskake,72.90,350 g, None, Meny
+Frokostbriks,23.90,300 g, None, Meny
+Rundstykker,29.90,480 g, None, Meny
+Rugsprø Havre,26.60,180 g, None, Meny
+Knekkebrød,56.50,240 g, None, Meny
+Naan Bread,25.90,260 g, None, Meny
+Sjokoladekake,72.90,320 g, None, Meny
+Sandwich Cheese,11.50,40 g, None, Meny
+Speltlomper,21.40,260 g, None, Meny
+Pitabrød,32.90,400 g, None, Meny
+Kornmo Knekkebrød,34.90,200 g, None, Meny
+Myk&Rund Havre,47.80,450 g, None, Meny
+Flerkorn Brød,49.90,300 g, None, Meny
+Pølsebrød Grove,31.90,410 g, None, Meny
+Marsipankake,72.90,310 g, None, Meny
+Polarbrød,37.70,450 g, None, Meny
+Peanut Choco,155.00,180 g, None, Meny
+Leksands Knekke,27.90,200 g, None, Meny
+Baguetter,17.90,300 g, None, Meny
+Fiber Balance,21.90,230 g, None, Meny
+Husman Knekkebrød,15.50,260 g, None, Meny
+Minibaguetter,17.90,300 g, None, Meny
+Ciabatta,19.90,250 g, None, Meny
+Flatbrød Mors,34.90,260 g, None, Meny
+Sandwich Brunost,10.90,36 g, None, Meny
+Grovbrød,69.90,500 g, None, Meny
+Ostekake,59.90,380 g, 72.90, Meny
+Veggen Spelt,40.90,420 g, None, Meny
+Gifflar Kanel,32.00,300 g, None, Meny
+Baguetter,16.70,300 g, None, Meny
+Sandwichbaguetter,15.90,300 g, None, Meny
+Blueberry Muffins,10.40,100 g, None, Meny
+Melkesjoko Muffins,10.40,100 g, None, Meny
+Sjokolade Muffins,10.40,100 g, None, Meny
+Pølsebrød Sesam,35.80,400 g, None, Meny
+Burgerbrød Store,35.80,540 g, None, Meny
+Havre Knekkebrød,25.50,300 g, None, Meny
+Knekkebrød,34.90,260 g, None, Meny
+Frukost Knekkebrød,17.90,240 g, None, Meny
+Pitabrød,20.90,400 g, None, Meny
+Burgerbrød,24.90,480 g, None, Meny
+Knekkebrød,17.60,210 g, None, Meny
+Flatbrød Mors,41.50,520 g, None, Meny
+Havre Knekkebrød,46.50,600 g, None, Meny
+Husman Knekkebrød,25.30,520 g, None, Meny
+Ciabatta Rustica,31.50,200 g, None, Meny
+Ciabatta,29.50,200 g, None, Meny
+Grove Rundstykker,33.00,600 g, None, Meny
+Muffins Carrot,10.40,100 g, None, Meny
+Kuvertbrød,29.90,750 g, None, Meny
+Rundstykker,22.90,600 g, None, Meny
+Sandwichbaguetter,44.90,1200 g, None, Meny
+Kneipp Brød,9.90,750 g, None, Meny
+Loff,9.90,500 g, None, Meny
+Frukost Fullkorn,15.90,320 g, None, Meny
+Maiskaker,15.90,130 g, None, Meny
+Lomper,6.90,260 g, None, Meny
+Donuts,16.90,1 stk, None, Meny
+Donut,20.80,1 stk, None, Meny
+Donut,20.80,1 stk, None, Meny
+Sara Bernard,54.90,150 g, None, Meny
+Hveteboller,25.00,1 stk, None, Meny
+Fyrstekake,63.50,450 g, None, Meny
+Melkesjokoladekake,96.00,420 g, None, Meny
+Grissini,38.90,125 g, None, Meny
+Gullkornbriks,8.50,1 stk, None, Meny
+Sjokoladeboller,25.00,1 stk, None, Meny
+Caramelcake Salted,115.00,420 g, None, Meny
+Havreknekkebrød,56.50,215 g, None, Meny
+Fyrstekakebiter,44.20,220 g, None, Meny
+Grissini,38.50,125 g, None, Meny
+Hannas Kneipp,30.00,1 stk, 44.90, Meny
+Gulrot Diamant,10.00,75 g, None, Meny
+Oreo Cake,111.00,400 g, None, Meny
+Mandelkake,283.90,750 g, None, Meny
+Gourmet Muffins,22.00,1 stk, None, Meny
+Knekkebrød,47.70,130 g, None, Meny
+Grovbrød,53.40,1 stk, None, Meny
+Valmuerundstykke,10.00,1 stk, None, Meny
+Fransk,38.90,1 stk, None, Meny
+Dansk Rugbrød,49.90,1 stk, None, Meny
+Papadam,34.70,125 g, None, Meny
+Brownies,33.40,144 g, None, Meny
+Baguette,27.40,185 g, None, Meny
+Havrebrød,72.60,500 g, None, Meny
+Pumpernickel,29.90,250 g, None, Meny
+Ostekake i glass,38.90,80 g, None, Meny
+Sofies Grovbrød,45.90,1 stk, None, Meny
+Bringebærkube,22.90,1 stk, None, Meny
+Fiberrik Solsikke,43.90,125 g, None, Meny
+Stor Sjokoladekake,167.00,950 g, None, Meny
+Burgerbrød Pretzel,49.90,300 g, None, Meny
+Ryvita Knekkebrød,51.40,200 g, None, Meny
+Maiskaker Mini,28.90,40 g, None, Meny
+Mandelkake,82.00,400 g, None, Meny
+Fiberbaguetter,69.90,300 g, None, Meny
+Bouchees Mini,72.60,726 g, None, Meny
+Ostekake,36.90,80 g, None, Meny
+Potetkaker,30.90,300 g, None, Meny
+Bagels,55.10,340 g, None, Meny
+Grissini,27.70,125 g, None, Meny
+Snacksbrød,22.90,1 stk, None, Meny
+Snacksbrød,22.80,1 stk, None, Meny
+Sjokoladekake,42.90,1 stk, None, Meny
+Smultringer,87.00,240 g, None, Meny
+Suksessterte,266.00,700 g, None, Meny
+Brød Libanesisk,34.90,333 g, None, Meny
+Jacobs Kornbrød,49.90,1 stk, None, Meny
+Dessertsnitter,45.80,250 g, None, Meny
+Lefsegodt,25.90,230 g, None, Meny
+Havreterninger,45.90,160 g, None, Meny
+Pitabrød,69.50,230 g, None, Meny
+Knekkebrød,46.90,220 g, None, Meny
+Brownies Chocolate,35.90,200 g, None, Meny
+Sjokoladekake,56.70,330 g, None, Meny
+Melbatoast,31.70,100 g, None, Meny
+Gulrotkake,56.70,330 g, None, Meny
+Gammeldags Loff,49.90,1 stk, None, Meny
+Krustader,67.20,195 g, None, Meny
+Pitabrød,56.90,220 g, None, Meny
+Speltbrød,44.90,500 g, None, Meny
+Churros,73.00,400 g, None, Meny
+Tropisk Aroma,179.00,1 stk, None, Meny
+Knekkebrød,44.40,220 g, None, Meny
+Frøkrisp,48.40,170 g, None, Meny
+Grissini,22.80,100 g, None, Meny
+Treats Muffins,27.50,1 stk, None, Meny
+Twistbrød m/Sesam,59.90,1 stk, None, Meny
+Rugbrødchips,41.70,140 g, None, Meny
+Pave Mørkt,44.50,1 stk, None, Meny
+Toasty Fiber Brød,64.90,400 g, None, Meny
+Kladdkaka,109.00,400 g, None, Meny
+Fruktstang,26.00,100 g, None, Meny
+Knekkebrød Runda,43.90,330 g, None, Meny
+Tynnknekke,51.80,120 g, None, Meny
+Knekkebrød,47.70,200 g, None, Meny
+Kanelsnegle,47.70,340 g, None, Meny
+Grissini,73.00,200 g, None, Meny
+Melbatoast,34.90,110 g, None, Meny
+Minibaguetter,65.50,300 g, None, Meny
+Papadam Orginal,28.90,125 g, None, Meny
+Rundstykker,40.60,240 g, None, Meny
+Formkake,43.90,270 g, None, Meny
+Kardemommesnurr,23.90,1 stk, None, Meny
+Klenning Kanel,37.90,260 g, None, Meny
+Skjenning,136.00,300 g, None, Meny
+Crustini Oliven,35.80,120 g, None, Meny
+Rugknekkebrød,36.20,245 g, None, Meny
+Sandwich Pizza,14.00,37 g, None, Meny
+Brioche Baguette,40.50,340 g, None, Meny
+Knekkebrød,43.00,225 g, None, Meny
+Sandwich,14.00,33 g, None, Meny
+Kanelsnurrer,64.90,225 g, None, Meny
+Croissanter,73.00,1 stk, None, Meny
+Seeded Toast,54.90,100 g, None, Meny
+Frokostbrød Lyst,51.70,175 g, None, Meny
+Bondekringler,66.10,350 g, None, Meny
+Fruktstang,24.90,100 g, None, Meny
+Fyrstekake,83.00,500 g, None, Meny
+Grovbrød Xl,64.90,450 g, None, Meny
+Knekkebrød,44.90,235 g, None, Meny
+Riskjeks m/Sjokol.,34.90,100 g, None, Meny
+Focaccia,51.90,225 g, None, Meny
+Rundstykker Grove,74.90,320 g, None, Meny
+Østerdalsflatbrød,92.00,500 g, None, Meny
+Smaskens Kokosrull,14.00,35 g, None, Meny
+Rundstykker Fine,74.90,280 g, None, Meny
+Leksands Knekke,37.00,200 g, None, Meny
+Grovstykker,44.50,402 g, None, Meny
+Grovkrisp,35.50,170 g, None, Meny
+Hamburgerbrød,49.90,160 g, None, Meny
+Grissini,43.70,200 g, None, Meny
+Munker,58.80,560 g, None, Meny
+Knekkebrød,65.20,240 g, None, Meny
+Tynnknekke,48.40,120 g, None, Meny
+Loff,54.10,500 g, None, Meny
+Knekkebrød,46.90,200 g, None, Meny
+Butterdeig,57.50,250 g, None, Meny
+Klibrød,31.30,100 g, None, Meny
+Grovbrød,85.00,570 g, None, Meny
+Lefserull,25.30,420 g, None, Meny
+Grissini Fullkorn,77.00,200 g, None, Meny
+Crustini Sjøsalt,34.60,120 g, None, Meny
+Pitabrød,39.80,420 g, None, Meny
+Potetflatbrød,37.90,210 g, None, Meny
+Marsipankake,340.00,1000 g, None, Meny
+Knekkebrød,44.90,200 g, None, Meny
+Seterlefse,39.90,216 g, None, Meny
+Bagels Multifrø,59.60,480 g, None, Meny
+Cappuccino,39.90,1 stk, None, Meny
+Tortillabrød,33.80,220 g, None, Meny
+Hamburgerbrød,54.90,300 g, None, Meny
+Rullekake Sjoko,85.90,400 g, None, Meny
+Sandwich Brød,55.90,400 g, None, Meny
+Rugbrød skivet,27.90,500 g, None, Meny
+Rømmebrød,53.90,150 g, None, Meny
+Krutonger Sea Salt,68.70,142 g, None, Meny
+Minibaguette Grov,85.00,280 g, None, Meny
+Gifflar Vanilje,37.90,280 g, None, Meny
+Pølsebrød,64.00,192 g, None, Meny
+Myk&Rund,51.30,450 g, None, Meny
+Boller m/Rosin,43.20,170 g, None, Meny
+Hvitløksbaguetter,39.50,105 g, None, Meny
+Brød Lyst,78.70,450 g, None, Meny
+Pulled Bbq Rull,52.00,1 stk, None, Meny
+Krutonger Herbs,49.90,142 g, None, Meny
+Krutonger Ranch,49.90,142 g, None, Meny
+Erterflatbrød,36.90,210 g, None, Meny
+Chiabrød,82.00,580 g, None, Meny
+Muffins Chocolate,15.20,1 stk, None, Meny
+Sandwich Brød,61.90,400 g, None, Meny
+Sprøde Risbrød,22.50,70 g, None, Meny
+Rundstykker Grove,36.40,240 g, None, Meny
+Boller m/Rosiner,73.00,280 g, None, Meny
+Rosette Rundstykke,79.90,350 g, None, Meny
+Marsipankake,340.00,900 g, None, Meny
+Fiberbrød,85.00,500 g, None, Meny
+Flatbrød,52.50,190 g, None, Meny
+Kanelsnurrer,42.40,200 g, None, Meny
+Grissini,37.90,200 g, None, Meny
+Grissini,37.90,200 g, None, Meny
+Hamburgerbrød,69.50,320 g, None, Meny
+Flatbrød,115.00,500 g, None, Meny
+Byggbrød Grovt,49.90,640 g, None, Meny
+Vaniljedrøm,340.00,960 g, None, Meny
+Kjernegodt Brød,40.80,700 g, None, Meny
+Minibakels,50.10,250 g, None, Meny
+Frøloff Lettstekt,37.90,670 g, None, Meny
+Focaccia,43.80,295 g, None, Meny
+Bavarois Chocolate,54.90,1 stk, None, Meny
+Landbrød,49.90,790 g, None, Meny
+Baguette,29.80,250 g, None, Meny
+Hamburgerbrød,75.40,320 g, None, Meny
+Rullekake Jordbær,29.90,300 g, None, Meny
+Myk&Rund Hvete,44.10,450 g, None, Meny
+Kavringer,37.90,350 g, None, Meny
+Potetflatbrød,144.00,500 g, None, Meny
+Grovbrød,38.30,750 g, None, Meny
+Toast m/Aprikos,78.90,100 g, None, Meny
+Sjokoladekake,510.00,1640 g, None, Meny
+Flatbrød,79.90,400 g, None, Meny
+Rundstykker,77.90,280 g, None, Meny
+Frøbrød,60.50,600 g, None, Meny
+Kornbrød,49.80,500 g, None, Meny
+Flerkornrundstykke,10.00,1 stk, None, Meny
+Toast m/Kirsebær,78.90,100 g, None, Meny
+Kokosmakroner,67.50,400 g, None, Meny
+Familiekneipp,79.90,500 g, None, Meny
+Oreokake,245.00,635 g, None, Meny
+Skolebrød,102.00,300 g, None, Meny
+Lefsekling,274.00,400 g, None, Meny
+Familiebrød Grovt,38.30,750 g, None, Meny
+Bamsekake,515.00,1600 g, None, Meny
+Mango&Berry,155.00,180 g, None, Meny
+Ostekake,310.00,890 g, None, Meny
+Ostekake,310.00,1000 g, None, Meny
+Kanelboller,74.90,230 g, None, Meny
+Loff,74.90,500 g, None, Meny
+Kransekake 18 Ring,179.00,1 stk, None, Meny
+Surdeigsbrød Grovt,89.00,500 g, None, Meny
+Dripcake,890.00,2615 g, None, Meny
+Bringebær Dripcake,310.00,1160 g, None, Meny
+Sjokoladekake,310.00,1220 g, None, Meny
+Lomper,60.70,210 g, None, Meny
+Kornbrød,37.90,750 g, None, Meny
+Kanelsnurrer,102.00,280 g, None, Meny
+Havrebrød,84.00,500 g, None, Meny
+Brownie,96.00,520 g, None, Meny
+Donut,25.50,1 stk, None, Meny
+Tjukklefse,109.00,240 g, None, Meny
+Sarah Bernard,10.90,1 stk, None, Meny
+Baguette,16.90,1 stk, None, Meny
+Mor Monsen,47.20,300 g, None, Meny
+Snack A Jack,17.90,64 g, None, Meny
+Jacobs Grovbrød,53.40,1 stk, None, Meny
+Jordbær Ostekake,372.00,1100 g, None, Meny
+Croutons,26.50,50 g, None, Meny
+Focaccia Jacobs,42.50,1 stk, None, Meny
+Baguette,44.90,650 g, None, Meny
+Crustini Rosmarin,37.70,120 g, None, Meny
+Crustini Hvitløk,37.70,120 g, None, Meny
+Rundstykke Fint,10.00,1 stk, None, Meny
+Speltrundstykker,54.90,480 g, None, Meny
+Alpebrød,47.90,1 stk, None, Meny
+Rundstykker,49.90,420 g, None, Meny
+Lefserull,42.90,420 g, None, Meny
+Frøknekkebrød,41.50,170 g, None, Meny
+Shortcake Caramel,62.90,320 g, None, Meny
+Lingue Flatbrød,58.50,100 g, None, Meny
+Mellomgrovtbrød,91.00,500 g, None, Meny
+Grovbrød,90.00,500 g, None, Meny
+Brød Classic,61.30,300 g, None, Meny
+Blåbærmuffins,69.10,160 g, None, Meny
+Minibaguette,74.00,240 g, None, Meny
+Frokostbrød Grov,48.30,260 g, None, Meny
+Pølsebrød,68.90,260 g, None, Meny
+Focaccia,52.90,200 g, None, Meny
+Sjokoladekake,52.20,220 g, None, Meny
+Sitronterte,39.90,488 g, None, Meny
+Sandwich Taco,11.90,33 g, None, Meny
+Livs Klokkebrød,58.00,500 g, None, Meny
+Oreokake,245.00,635 g, None, Meny
+Treats Muffins,27.50,1 stk, None, Meny
+Treats Muffins,27.50,1 stk, None, Meny
+Pizzarull,25.00,115 g, None, Meny
+Kransekake,510.00,1050 g, None, Meny
+Havrebrød,44.50,300 g, None, Meny
+Klibrød,31.30,100 g, None, Meny
+Skolebrød,21.40,120 g, None, Meny
+Gourmetrundstykke,10.00,1 stk, None, Meny
+Croughnut,26.00,1 stk, None, Meny
+Tarteletter,59.40,72 g, None, Meny
+Ostestick,27.50,1 stk, None, Meny
+Pretzel,21.00,1 stk, None, Meny
+Speltrundstykker,10.00,1 stk, None, Meny
+Rundstykke Sesam,10.00,80 g, None, Meny
+Rundstykke Frø,10.00,80 g, None, Meny
+Brødskiver Fine,15.90,75 g, None, Meny
+Vanilje Pretzel,31.00,1 stk, None, Meny
+Vestlandslefsa,29.30,360 g, None, Meny
+Sjokoladesnitter,32.90,1 stk, None, Meny
+Bocadito,34.30,1 stk, None, Meny
+Rustikk Baguette,38.90,1 stk, None, Meny
+Påskekake,179.00,900 g, None, Meny
+Påskekake,95.00,425 g, None, Meny
+Havrerundstykker,71.50,280 g, None, Meny
+Proteinbrød,63.90,250 g, None, Meny
+Kanelgiffel,99.00,280 g, None, Meny
+Crustini Chili,38.80,120 g, None, Meny
+Ostekake,640.00,1700 g, None, Meny
+Baguette Rustikk,44.90,650 g, None, Meny
+Melbatoast,39.60,100 g, None, Meny
+Hamburgerbrød,65.50,280 g, None, Meny
+Vaniljedrøm,620.00,1775 g, None, Meny
+Sjokoladekake,1,3 g, None, Meny
+Vaniljedrøm,620.00,1775 g, None, Meny
+Dripcake,890.00,2985 g, None, Meny
+Brødskiver Grove,17.90,85 g, None, Meny
+Wienerkringle,560.00,2250 g, None, Meny
+Havreterninger,40.30,160 g, None, Meny
+Bløtkake,610.00,1710 g, None, Meny
+Krutonger Fatfree,54.90,142 g, None, Meny
+Mazariner 4pk,39.00,220 g, None, Meny
+Belgisk Vaffel,10.00,1 stk, 22.50, Meny
+Lefserull 4stk,42.20,240 g, None, Meny
+Krutonger Cheese,49.90,142 g, None, Meny
+Dipkjeks,65.20,100 g, None, Meny
+Brød Vital,55.90,350 g, None, Meny
+Hamburgerbrød,58.80,320 g, None, Meny
+Toast m/Dadler,78.90,100 g, None, Meny
+Pølsebrød,55.90,480 g, None, Meny
+Riskaker,10.90,100 g, None, Meny
+Rugbrød,26.90,500 g, None, Meny

@@ -93,7 +93,7 @@ def get_recipe(url, category = 'all'):
 
     # Convert grams list to JSON string
     grams_json = json.dumps(grams)
-    ingredient_search, correctness = ingredient_names_overhaul(ingredient_names, ingredient_search)
+    ingredient_search = ingredient_names_overhaul(ingredient_names, ingredient_search)
 
     # Check if the recipe already exists in the database
     cursor = conn.cursor()
@@ -107,13 +107,15 @@ def get_recipe(url, category = 'all'):
         driver.close()
         return
 
+    correctness = find_correctness(ingredient_search)
+
     if correctness != 100:
         new_ingredient_search, new_instructions, new_title = manual_recipe_fix(ingredient_search, title, instructions, "recipe.txt")
         ingredient_search =  new_ingredient_search
         instructions = new_instructions
-        instructions = new_title
+        title = new_title
 
-
+    
     # Insert data into the database
     cursor = conn.cursor()
     insert_query = """
@@ -140,6 +142,22 @@ def get_recipe(url, category = 'all'):
     
     cursor.close()
     driver.close()
+
+def find_correctness(ingredient_search):
+    cursor_ing = conn_ing.cursor()
+    maxxer = len(ingredient_search)
+    found = 0
+
+    for ingredient in ingredient_search:
+        ingredient = ingredient.lstrip()
+
+        cursor_ing.execute("SELECT * FROM products WHERE name LIKE %s", ('%' + ingredient + '%',))
+        search = cursor_ing.fetchall()
+
+        if len(search) != 0:
+            found += 1
+
+    return found/maxxer
 
 def manual_recipe_fix(ingredient_search, title, instructions, filename):
     cursor_ing = conn_ing.cursor()
@@ -277,7 +295,6 @@ def ingredient_names_overhaul(ingredient_names, ingredient_search):
             correct += 1
             new_list.append(newword)
         else:
-            print(ingredient_names[w])
             new_list.append(ingredient_search[w])
 
     final_list = []
@@ -290,11 +307,7 @@ def ingredient_names_overhaul(ingredient_names, ingredient_search):
 
     final_list = [item for item in final_list if item]
 
-    correctness = (correct/max_correct)*100
-
-    print(final_list)
-
-    return np.array(final_list), correctness
+    return np.array(final_list)
 
 def check_in_data(ingredient):
     splitigr = ingredient.split(" ")
@@ -368,6 +381,7 @@ def remove_extra_words(ingredient):
 	# Remove comments. 
 	return new_ingr
 
+
 # Vegetar. 
 """
 get_recipe("https://www.matprat.no/oppskrifter/kos/gyoza-vegetar/", category = 'vegetar')
@@ -434,7 +448,6 @@ get_recipe("https://www.matprat.no/oppskrifter/gjester/helstekt-indrefilet-med-b
 get_recipe("https://www.matprat.no/oppskrifter/rask/burger-med-pulled-turkey-og-fetaost/", category = 'kjøtt')
 get_recipe("https://www.matprat.no/oppskrifter/rask/ribbe-med-gresk-salat/", category = 'kjøtt')
 get_recipe("https://www.matprat.no/oppskrifter/rask/ribbe-i-pita/", category = 'kjøtt')
-
 get_recipe("https://www.matprat.no/oppskrifter/kos/ribbe-i-airfryer/", category = 'kjøtt')
 get_recipe("https://www.matprat.no/oppskrifter/gjester/biff-med-flotegratinerte-poteter/", category = 'kjøtt')
 get_recipe("https://www.matprat.no/oppskrifter/gjester/helstekt-indrefilet-med-flotegratinerte-poteter/", category = 'kjøtt')

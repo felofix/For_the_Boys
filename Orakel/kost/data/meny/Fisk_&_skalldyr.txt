@@ -1,0 +1,206 @@
+#Navn #Pris #Mengde #Før #Butikk 
+Krabbeklør,56.25,150 g, None, Meny
+Krabbeskjell,49.90,1 stk, None, Meny
+Krabbeskjell,99.00,1 stk, None, Meny
+Salma Laks,320.93,670 g, None, Meny
+Reker Pillede,49.90,250 g, 69.90, Meny
+Reker 60/80,149.00,1 stk, None, Meny
+Krabbeskjell,99.00,1 stk, None, Meny
+Torskefilet,119.00,420 g, None, Meny
+Nigiri Laks L,118.90,1 stk, None, Meny
+Sushi Menu 45,219.50,1 stk, None, Meny
+Laks Porsjoner,119.00,400 g, None, Meny
+Salma Laks,164.30,343 g, None, Meny
+Laksefilet,59.90,500 g, None, Meny
+Spekesildfilet,26.20,150 g, None, Meny
+Laks Røkt,69.90,100 g, None, Meny
+Ørret Røkt,69.90,100 g, None, Meny
+Scampi,119.00,500 g, None, Meny
+Reker i Lake,99.00,300 g, None, Meny
+Scampi,125.00,400 g, None, Meny
+Rekecabaret,41.80,300 g, None, Meny
+Isgalt,49.00,200 g, None, Meny
+Laks Røkt,59.90,100 g, None, Meny
+Scampi Chili,79.90,170 g, None, Meny
+Laks Gravet,63.90,100 g, None, Meny
+Torsk,295.00,1 stk, None, Meny
+Peppermakrell,24.90,100 g, None, Meny
+Reker i Lake Msc,65.70,200 g, None, Meny
+Dorade,209.00,1 stk, None, Meny
+Havabbor,112.50,500 g, None, Meny
+Peppermakrell,38.10,150 g, None, Meny
+Laks Røkt,129.00,250 g, None, Meny
+Brosme,280.00,1 stk, None, Meny
+Sjøkreps,71.85,150 g, None, Meny
+Laks Røkt,69.30,100 g, None, Meny
+Hardanger,171.00,600 g, None, Meny
+Makrellfilet,53.10,400 g, None, Meny
+Pepperlaks,116.50,250 g, None, Meny
+Torskefilet,119.60,400 g, None, Meny
+Reker Pillede,36.90,100 g, None, Meny
+Torsk Loin,335.00,1 stk, None, Meny
+Makrell,215.00,1 stk, None, Meny
+Reker i Lake,129.00,240 g, None, Meny
+Ørretfilet,189.00,500 g, None, Meny
+Krabbeklør,56.25,150 g, None, Meny
+Laks Backloin,99.00,180 g, None, Meny
+Skrei,210.00,1 stk, None, Meny
+Lettsaltet Torsk,230.00,1 stk, None, Meny
+Laks Røkt,47.50,100 g, None, Meny
+Breiflabb,505.00,1 stk, None, Meny
+Ørret Røkt,98.50,250 g, None, Meny
+Ørret Røkt,69.90,100 g, None, Meny
+Laks Røkt,155.00,260 g, None, Meny
+Fylt Hummer,249.00,1 stk, None, Meny
+Laks Porsjoner,89.90,250 g, None, Meny
+Scampi,83.00,270 g, None, Meny
+California Triple Spicy,99.80,1 stk, None, Meny
+Nigiri Laks,68.50,1 stk, None, Meny
+Wakame,48.90,1 stk, None, Meny
+Sushi Meny 7 Xl,269.50,1 stk, None, Meny
+Sushi Meny 21 Xl,168.50,1 stk, None, Meny
+Sushi Meny 14,218.50,1 stk, None, Meny
+Sushi Meny 12 Xl,238.50,1 stk, None, Meny
+Sushi Meny 6 L,149.90,1 stk, None, Meny
+Sushi Meny 4 M,128.50,1 stk, None, Meny
+Sushi Meny 2 L,175.90,1 stk, None, Meny
+Sushi Meny 1 L,141.90,1 stk, None, Meny
+Nigiri Laks Xl,198.50,1 stk, None, Meny
+Jiaozi Kylling,98.90,1 stk, None, Meny
+Spicy Laks,108.50,1 stk, None, Meny
+California Masago,105.50,1 stk, None, Meny
+Crunch Laks,115.50,1 stk, None, Meny
+Crunch California,99.50,1 stk, None, Meny
+Tempura Shrimp,109.50,1 stk, None, Meny
+Flame Roll,109.50,1 stk, None, Meny
+Sushi Menu 42,175.90,1 stk, None, Meny
+Sashimi Laks,89.50,1 stk, None, Meny
+Salma190 Laks,110.00,190 g, None, Meny
+Laks Porsjoner,169.00,500 g, None, Meny
+Torskeloin,119.60,400 g, None, Meny
+Ørret Porsjoner,129.00,400 g, None, Meny
+Laksefilet u/Skinn,48.00,1 stk, None, Meny
+Lyngen Reker,259.00,1 stk, None, Meny
+Kolje Røkt,67.50,250 g, None, Meny
+Ørret Filet,330.00,1 stk, None, Meny
+Tunfisk,389.00,1 stk, None, Meny
+Laks,297.00,1 stk, None, Meny
+Krabbeskjell,49.90,1 stk, None, Meny
+Torsk Lettsaltet,131.60,400 g, None, Meny
+Kveite,1,2 g, None, Meny
+Laks Midloin,135.00,300 g, None, Meny
+Blåskjell,69.90,1 stk, None, Meny
+Torskeloins,125.00,500 g, None, Meny
+Reker,229.00,1 stk, None, Meny
+Salma Laks,320.93,670 g, None, Meny
+Ørret Røkt,47.90,100 g, None, Meny
+Seifilet Msc,28.90,400 g, None, Meny
+Laksefilet,128.00,500 g, None, Meny
+Torskefilet Blokk,49.90,400 g, None, Meny
+Ørretfilet,89.00,500 g, None, Meny
+Torskefilet,109.00,800 g, None, Meny
+Laks Røkt,39.90,200 g, None, Meny
+Scampi,119.00,500 g, None, Meny
+Kryddersildfilet,24.90,150 g, None, Meny
+Blåskjell Pillede,22.90,200 g, None, Meny
+Klippfisk Biter,149.00,400 g, None, Meny
+Tørrfisksnacks,73.50,163 g, None, Meny
+Ørret Røkt,149.00,250 g, None, Meny
+Villreker,149.00,500 g, None, Meny
+Scampi Rå,360.00,1000 g, None, Meny
+Kamskjell Msc Rå,219.00,300 g, None, Meny
+Reker i Lake,149.00,300 g, None, Meny
+Spekesild,37.00,250 g, None, Meny
+Scampi Crispy,149.00,400 g, None, Meny
+Klippfisk i Biter,193.00,400 g, None, Meny
+Laks Røkt,69.90,100 g, None, Meny
+Krepsehaler,85.00,170 g, None, Meny
+Uer,206.15,1330 g, None, Meny
+Laks Gravet,67.10,100 g, None, Meny
+Ørret Einerrøkt,146.00,250 g, None, Meny
+Torsk,108.15,350 g, None, Meny
+Steinbit,98.00,400 g, None, Meny
+Kreps 28/35,209.00,1000 g, None, Meny
+Reker i Lake,55.90,170 g, None, Meny
+Ishavsrøye,208.00,800 g, None, Meny
+Scampi Tempura,109.00,265 g, None, Meny
+Snegler,84.00,85 g, None, Meny
+Tørrfiskchips,68.60,239 g, None, Meny
+Kamskjell Msc Rå,199.00,200 g, None, Meny
+Scampi Ingefær,79.90,170 g, None, Meny
+Nordlandsreker,226.00,250 g, None, Meny
+Lysing Filet,289.00,1 stk, None, Meny
+Hvalbiff,114.00,400 g, None, Meny
+Uer,125.00,500 g, None, Meny
+Hummer,153.00,300 g, None, Meny
+Kamskjell,275.00,400 g, None, Meny
+Makrell,215.00,1 stk, None, Meny
+Reker,695.00,1 stk, None, Meny
+Østers,255.00,1 stk, None, Meny
+Skrei Kjake,92.70,300 g, None, Meny
+Kolje,119.00,500 g, None, Meny
+Steinbitfilet,225.00,1 stk, None, Meny
+Skrei Backloin,191.60,400 g, None, Meny
+Klippfisk Loins,229.00,400 g, None, Meny
+Ørret Røkt,164.00,260 g, None, Meny
+Laks Varmrøkt,142.00,270 g, None, Meny
+Lettsaltet Torsk,230.00,1 stk, None, Meny
+Laksefilet m/Skinn,45.00,125 g, None, Meny
+Laks Gravet,221.00,500 g, None, Meny
+Laks Røkt,98.50,250 g, None, Meny
+Rødspette,128.00,800 g, None, Meny
+Flyndre,97.80,300 g, None, Meny
+Bøkling Dansk,44.82,180 g, None, Meny
+Torsk,285.00,1 stk, None, Meny
+Sushi Meny 15 Xl,235.50,1 stk, None, Meny
+Tartar Laks,135.80,1 stk, None, Meny
+Wakame Lakseroll,129.50,1 stk, None, Meny
+Wakame Roll,115.50,1 stk, None, Meny
+Nigiri Triple L,128.90,1 stk, None, Meny
+Nigiri Reker,89.50,1 stk, None, Meny
+Edamame,39.50,1 stk, None, Meny
+Klippfisk Loins,215.00,300 g, None, Meny
+Laks hel,547.95,2810 g, None, Meny
+Steinbit Filet,91.60,400 g, None, Meny
+Kveite,360.00,1 stk, None, Meny
+Laksefilet m/Skinn,40.00,125 g, None, Meny
+Blåkveite,309.00,1 stk, None, Meny
+Ørret,68.75,250 g, None, Meny
+Ørretfilet,105.00,280 g, None, Meny
+Reker i Lake,69.90,400 g, None, Meny
+Ørret Røkt,159.00,270 g, None, Meny
+Laks Røkt Bit,149.50,500 g, None, Meny
+Blåskjell,69.90,1 stk, None, Meny
+Seafoodmix,99.00,400 g, None, Meny
+Tørrfisksnacks,73.80,160 g, None, Meny
+Torskfilet,119.00,500 g, None, Meny
+Blåskjell,29.90,150 g, None, Meny
+Skalldyr Kabaret,128.00,870 g, None, Meny
+Klippfisk,215.00,400 g, None, Meny
+Østers,25.00,1 stk, None, Meny
+Hummer,340.00,1 stk, None, Meny
+Villreker,92.00,250 g, None, Meny
+Krydderlaks,63.90,125 g, None, Meny
+Steinbitfilet,299.00,1 stk, None, Meny
+Laksefilet,159.00,500 g, None, Meny
+Krepsehaler,69.90,150 g, None, Meny
+Skalldyrkasse,499.00,1 stk, None, Meny
+Piggvar,347.63,1125 g, None, Meny
+Blåkveite,218.30,740 g, None, Meny
+Makrellfilet,35.10,100 g, None, Meny
+Klippfisk,148.00,308 g, None, Meny
+Scampi Rå,318.00,800 g, None, Meny
+Kveite 1-3kg,957.00,3000 g, None, Meny
+Klippfisk Loins,327.00,400 g, None, Meny
+Scallops 10/20,649.00,800 g, None, Meny
+Klippfisk,320.00,4800 g, None, Meny
+Scampi Kokt,304.00,800 g, None, Meny
+Sei,85.00,500 g, None, Meny
+Ørret,562.50,2500 g, None, Meny
+Laks Midloin,285.35,650 g, None, Meny
+Ørret Røkt,239.00,500 g, None, Meny
+Sushibowl,64.10,1 stk, None, Meny
+Sushibowl,73.90,1 stk, None, Meny
+Laks Porsjoner,99.00,250 g, None, Meny
+Reker m/Skall Msc,119.00,2000 g, None, Meny
+Laksefilet i Biter,67.90,400 g, None, Meny

@@ -1,0 +1,377 @@
+#Navn #Pris #Mengde #Før #Butikk 
+Kjøttdeig Angus,84.00,400 g, None, Meny
+Svin Porchetta,340.60,1300 g, None, Meny
+Storfe Høyrygg,171.50,700 g, None, Meny
+Norsk Angusburger,34.90,130 g, None, Meny
+Lunsjkake,20.00,1 stk, 29.00, Meny
+Kjøttboller,49.90,360 g, 60.80, Meny
+Sommerkotelett,167.70,1300 g, None, Meny
+Karbonadedeig,89.00,400 g, None, Meny
+Kjøttdeig Storfe,74.90,400 g, None, Meny
+Kjøttdeig Angus,84.00,400 g, None, Meny
+Norsk Angusburger,34.90,130 g, None, Meny
+Karbonadedeig,129.00,600 g, None, Meny
+Kjøttpølse,40.90,450 g, None, Meny
+Wienerpølser,33.90,560 g, None, Meny
+Grillpølse,49.90,600 g, None, Meny
+Lunsjkaker,20.00,1 stk, 29.00, Meny
+Spareribs,137.00,500 g, None, Meny
+Ostepølse,59.90,250 g, None, Meny
+Lammeskank,135.00,500 g, None, Meny
+Kjøttpølse Røkt,58.90,450 g, None, Meny
+Høyrygg m/Ben,199.00,1 stk, None, Meny
+Wienerpølser,88.00,550 g, None, Meny
+Kjøttboller,84.00,250 g, None, Meny
+Wienerpølse,47.30,220 g, None, Meny
+Kjøttpudding,84.00,500 g, None, Meny
+Kjøttboller,29.33,120 g, 41.90, Meny
+Ostegrill,77.70,600 g, None, Meny
+Kylling Kjøttdeig,69.00,400 g, None, Meny
+Elgkarbonader,84.90,270 g, None, Meny
+Medisterpølse,47.80,350 g, None, Meny
+Varanger Skav,119.00,300 g, None, Meny
+Chorizo,55.50,240 g, None, Meny
+Medisterkaker,58.20,350 g, None, Meny
+Bacon Ternet,54.90,250 g, None, Meny
+Medisterfarse,68.20,580 g, None, Meny
+Grillpølser,57.90,440 g, None, Meny
+Karbonader,81.00,600 g, None, Meny
+Storfe Hamburger,59.90,260 g, None, Meny
+Kjøttkaker,71.90,600 g, None, Meny
+Falukorv,33.40,200 g, None, Meny
+Norsk Angusburger,34.90,130 g, None, Meny
+Bratwurst,62.90,250 g, None, Meny
+Frankfurter,97.00,480 g, None, Meny
+Svinekoteletter,44.70,300 g, None, Meny
+Rein Finnbiff,169.00,400 g, None, Meny
+Høyrygg,239.00,1 stk, None, Meny
+Røde Pølser,64.90,375 g, None, Meny
+Bratwurst 80%,55.50,240 g, None, Meny
+Svinekam,138.00,1 stk, None, Meny
+Biffkarbonader,76.80,270 g, None, Meny
+Svin Ytrefilet,79.90,350 g, None, Meny
+Kjøttdeig,79.90,400 g, None, Meny
+Baconpølse 80%,55.50,240 g, None, Meny
+Svinekotelett,71.90,320 g, None, Meny
+Medisterkaker,350.00,2500 g, None, Meny
+Svinestrimler,74.90,500 g, None, Meny
+Svinestrimler,54.90,250 g, None, Meny
+Lambertseter,84.00,300 g, None, Meny
+Biffstrimler,38.29,100 g, 54.70, Meny
+Lammekoteletter,111.60,400 g, None, Meny
+Angusburger,79.90,300 g, None, Meny
+Knacker Chorizo,56.70,250 g, None, Meny
+Chateaubriand,129.00,200 g, None, Meny
+Tynnribbe,247.00,1 stk, None, Meny
+Storfe Mørbrad,128.31,390 g, None, Meny
+Siciliana Picante,62.90,240 g, None, Meny
+Lunsjkaker,40.00,280 g, None, Meny
+Wienerpølser,89.00,520 g, None, Meny
+Storfe Høyrygg,171.50,700 g, None, Meny
+Bratwurst Rå,62.90,270 g, None, Meny
+Hamburger,166.00,800 g, None, Meny
+Kjøttboller,27.65,120 g, 39.50, Meny
+Svin Nakkekotelett,119.00,1000 g, None, Meny
+Smårett m/Bacon,29.33,180 g, 41.90, Meny
+Sommerkoteletter,61.16,440 g, None, Meny
+Lammedeig,64.90,400 g, None, Meny
+Kjøttboller,75.90,600 g, None, Meny
+Kjøttdeig Svin,49.90,300 g, None, Meny
+Ostepølse 80%,48.90,240 g, None, Meny
+Kjøttkaker,104.00,800 g, None, Meny
+Pulled Pork,116.00,500 g, None, Meny
+Falukorv,55.90,400 g, None, Meny
+Indrefilet,1,2 g, None, Meny
+Storfe Entrecote,134.75,350 g, None, Meny
+Entrecote,379.00,1 stk, None, Meny
+Svinekotelett,89.25,750 g, None, Meny
+Kjøttboller,107.00,630 g, None, Meny
+Kalkunkorv,54.90,450 g, None, Meny
+Kjøttdeig Storfe,100.00,400 g, None, Meny
+Karbonadedeig,95.00,400 g, None, Meny
+Svin Nakkekotelett,95.00,540 g, None, Meny
+Stjernebacon,44.90,150 g, None, Meny
+Grillpølser,53.70,600 g, None, Meny
+Karbonadedeig,82.00,300 g, None, Meny
+Spicy Ostepølse,62.90,260 g, None, Meny
+Entrecote,99.75,250 g, None, Meny
+Svin Indrefilet,112.86,540 g, None, Meny
+Ytrefilet,91.80,200 g, None, Meny
+Knacker Bratwurst,56.70,250 g, None, Meny
+Løvbiff,41.90,200 g, None, Meny
+Medisterpølse Kokt,45.40,400 g, None, Meny
+Kjøttboller,79.90,500 g, None, Meny
+Chorizo Rå,62.90,270 g, None, Meny
+Storfe Indrefilet,195.65,350 g, None, Meny
+Storfe Angus,92.00,300 g, None, Meny
+Svineknoke,90.87,1300 g, None, Meny
+Kjøttdeig Svin,54.90,400 g, None, Meny
+Storfe Ytrefilet,167.60,400 g, None, Meny
+Angus Entrecote,194.70,300 g, None, Meny
+Wienerpølse,77.70,520 g, None, Meny
+indrefilet,127.80,200 g, None, Meny
+Knacker Bacon,59.90,250 g, None, Meny
+Karbonader,105.00,720 g, None, Meny
+Smårettskinke,30.94,180 g, 44.20, Meny
+Nakkekoteletter,41.70,300 g, None, Meny
+Karbonadekaker,35.00,200 g, None, Meny
+Lammepølse m/Ost,67.90,260 g, None, Meny
+Kjøttdeig,95.00,600 g, None, Meny
+Kyllingkjøttdeig,59.90,600 g, None, Meny
+Kjøttboller,108.00,800 g, None, Meny
+Svin Grillribbe,139.00,600 g, None, Meny
+Kjøttpølse,90.00,900 g, None, Meny
+Kjøttdeig 14% Fett,63.90,400 g, None, Meny
+Chipolata Pølse,62.90,240 g, None, Meny
+Karbonadedeig,74.90,400 g, None, Meny
+Storfe Mørbrad,47.90,150 g, None, Meny
+Medisterkaker,73.00,800 g, None, Meny
+Kjøttpølse,46.00,450 g, None, Meny
+Wienerpølse,69.90,520 g, None, Meny
+Smårettskinke,24.43,200 g, 34.90, Meny
+Kyllingpølse Chili,61.90,250 g, None, Meny
+Ostegrill,47.90,480 g, None, Meny
+Wienerpølse,138.84,1560 g, None, Meny
+Storfe Ytrefilet,47.90,150 g, None, Meny
+Storfe Entrecote,47.90,180 g, None, Meny
+Råtass,51.80,300 g, 74.00, Meny
+Sommerkoteletter,29.80,200 g, None, Meny
+Grillpølse,55.90,600 g, None, Meny
+Kjøttdeig,199.00,1 stk, None, Meny
+Grillpølse,32.90,1000 g, None, Meny
+Ister,19.95,500 g, None, Meny
+Svinelever,44.00,500 g, None, Meny
+Storfe Margbein,62.00,500 g, None, Meny
+Bibringe,183.00,1 stk, None, Meny
+Karbonader,24.00,1 stk, None, Meny
+Lammestek skiver,128.80,350 g, None, Meny
+Kalv Skank,370.70,1100 g, None, Meny
+Medisterkake,20.00,1 stk, None, Meny
+Fårikålkjøtt,181.00,1000 g, None, Meny
+Kebab,79.90,350 g, None, Meny
+Lammekoteletter,47.80,200 g, None, Meny
+Spicy Burger,29.00,1 stk, None, Meny
+Kalv Ytrefilet,589.60,800 g, None, Meny
+Bayonneskinke Kokt,185.00,1000 g, None, Meny
+Angus Skirt Steak,349.00,1 stk, None, Meny
+Pulled Pork,119.00,550 g, None, Meny
+Storfehaler,74.50,500 g, None, Meny
+Storfeburger,94.00,300 g, None, Meny
+Lammelår,636.00,3000 g, None, Meny
+Baconburger,85.00,400 g, None, Meny
+Mørbradbiff,71.80,200 g, None, Meny
+Lammeskav,108.00,300 g, None, Meny
+Kalv Indrefilet,690.40,800 g, None, Meny
+Wienerpølser,159.00,1100 g, None, Meny
+Spareribs,194.00,500 g, None, Meny
+Dåhjort Ytrefilet,578.00,1000 g, None, Meny
+Lammekoteletter,47.25,150 g, None, Meny
+Chickenburger,79.10,300 g, None, Meny
+Kjøttpudding,65.50,450 g, None, Meny
+Lunsjkaker,73.90,500 g, None, Meny
+Elgskav,127.00,300 g, None, Meny
+Lammestek Av Bog,319.20,800 g, None, Meny
+Lammelår,263.00,1000 g, None, Meny
+Løvstek,77.50,240 g, None, Meny
+Kuba Chorizo,81.00,300 g, None, Meny
+Nakkekoteletter,38.70,300 g, None, Meny
+Kyllingpølse,68.40,260 g, None, Meny
+Kaiser Bratwurst,54.90,310 g, None, Meny
+Karbonader Grove,78.60,270 g, None, Meny
+Pølse Ungarsk,62.90,250 g, None, Meny
+Ramsløkpølse,54.90,310 g, None, Meny
+Storfe Indrefilet,805.50,1500 g, None, Meny
+Bacon Ternet,49.90,120 g, None, Meny
+Karbonader,63.10,370 g, None, Meny
+Ghostburger,34.90,130 g, None, Meny
+Middagspølse,64.50,425 g, None, Meny
+Lam Indrefilet,208.80,300 g, None, Meny
+Vegan Pølsiner,52.60,200 g, None, Meny
+Rein Margbein,117.00,1000 g, None, Meny
+Storfe Høyrygg,234.40,800 g, None, Meny
+Chipotlepølse,54.90,310 g, None, Meny
+Oksestek,456.00,1500 g, None, Meny
+Storfe Mørbrad,244.30,700 g, None, Meny
+Porkwings,116.00,450 g, None, Meny
+Angus Flank Steak,349.00,1 stk, None, Meny
+Sinsenkrysset,75.50,300 g, None, Meny
+Spareribs Babyback,189.00,800 g, None, Meny
+Pulled Pork,145.00,450 g, None, Meny
+Rein Suppekjøtt,232.00,1000 g, None, Meny
+Elgsteik,1,2 g, None, Meny
+Knacker Ost,56.70,250 g, None, Meny
+Lammestek,552.00,1500 g, None, Meny
+Skinkestek,278.00,2000 g, None, Meny
+Råtass Rå Chorizo,50.33,300 g, 71.90, Meny
+Grøstadburger,94.00,250 g, None, Meny
+Andeburger Stekt,93.00,300 g, None, Meny
+Kjøttpudding Grov,73.30,500 g, None, Meny
+Svinehoder,267.50,2500 g, None, Meny
+Vossakorv,58.50,350 g, None, Meny
+Indrefilet,119.50,500 g, None, Meny
+Kotelettflesk,121.20,600 g, None, Meny
+Medisterfarse,67.90,750 g, None, Meny
+Chilipølse,59.90,250 g, None, Meny
+Lam Lårskiver,126.00,500 g, None, Meny
+Svin Sideflesk,100.40,400 g, None, Meny
+Winnern,64.90,300 g, None, Meny
+Butcher Burger,143.00,560 g, None, Meny
+Rein Ytrefilet,229.00,300 g, None, Meny
+Storfe Ytrefilet,189.70,350 g, None, Meny
+Lammekoteletter,35.85,150 g, None, Meny
+Sinnataggen,65.50,300 g, None, Meny
+Wienerpølse,120.00,700 g, None, Meny
+Chili&Ostepølse,57.30,225 g, None, Meny
+Cheeseburger,166.00,800 g, None, Meny
+Rein Medaljong,185.00,300 g, None, Meny
+Tynnribbe,189.00,1 stk, None, Meny
+Pølse Chipotle,54.90,225 g, None, Meny
+Kikut,72.50,300 g, None, Meny
+Kampens Hete,68.90,300 g, None, Meny
+Ostegrill,77.90,330 g, None, Meny
+Oslo Øst,65.50,300 g, None, Meny
+Indrefilet,163.90,550 g, None, Meny
+Mørbradbiff,349.00,1 stk, None, Meny
+Salsicciapølse,54.90,225 g, None, Meny
+Svin Nakkekotelett,129.00,1000 g, None, Meny
+Manglerud,68.90,300 g, None, Meny
+Siliana&Ostepølse,54.90,225 g, None, Meny
+Ytrefilet,439.00,1 stk, None, Meny
+Lammelår,959.70,2100 g, None, Meny
+Fårikålkjøtt,175.00,1 stk, None, Meny
+Grillribbe,25.10,100 g, None, Meny
+Flesk Lettsaltet,121.60,400 g, None, Meny
+Storfe Entrecote,161.98,275 g, None, Meny
+Svin Ytrefilet,92.50,500 g, None, Meny
+Urtegata,72.70,300 g, None, Meny
+Sommerkoteletter,22.53,300 g, None, Meny
+Svin Nakke,239.00,1000 g, None, Meny
+Rein Mørbrad,98.00,200 g, None, Meny
+Wienerpølse Halal,79.90,500 g, None, Meny
+Karbonadedeig,224.00,1 stk, None, Meny
+Kjøttpølse Røkt,42.90,450 g, None, Meny
+Sommerskinke,240.90,1100 g, None, Meny
+Storfe Bibringe,146.00,1000 g, None, Meny
+Hverdagslam,105.00,300 g, None, Meny
+Indrefilet,643.50,1300 g, None, Meny
+Rein Indrefilet,174.75,250 g, None, Meny
+Storfe Minuttbiff,119.60,400 g, None, Meny
+Reinsdyr Skav,119.00,400 g, None, Meny
+Knacker Kylling,44.90,225 g, None, Meny
+Kalv Flatbiff,492.00,1000 g, None, Meny
+Skinkestek u/Svor,296.40,1300 g, None, Meny
+Baconburger,40.00,280 g, None, Meny
+Grøstadburger,94.00,250 g, None, Meny
+Skinkeknoke,135.00,1350 g, None, Meny
+Svin Indrefilet,124.50,500 g, None, Meny
+Angus Mørbrad,93.80,200 g, None, Meny
+Wienerpølser,129.00,1050 g, None, Meny
+Lammelår,622.50,1500 g, None, Meny
+Storfe Bog,170.10,700 g, None, Meny
+Lammekoteletter,51.80,200 g, None, Meny
+Helsfyr,64.90,300 g, None, Meny
+Ring-1,71.90,300 g, None, Meny
+Angus Ytrefilet,649.00,1 stk, None, Meny
+Storfe Bankekjøtt,165.20,700 g, None, Meny
+Smårettskinke,31.90,170 g, None, Meny
+Flatbiff,446.60,1450 g, None, Meny
+Hamburger Rå,99.00,1000 g, None, Meny
+Kjøttpølse,43.80,880 g, None, Meny
+Sommerskinke Kokt,99.00,1000 g, None, Meny
+Storfe Kraftbein,47.00,500 g, None, Meny
+Kalv Bogstek,503.80,1100 g, None, Meny
+Kjøttboller,79.50,300 g, None, Meny
+Biffkarbonader,98.90,360 g, None, Meny
+Hamburger Original,151.00,520 g, None, Meny
+Hamburger Halal,159.00,520 g, None, Meny
+Angus Høyrygg,319.00,1 stk, None, Meny
+Lammestek Av Lår,480.70,1100 g, None, Meny
+Angus Storfeburger,99.00,300 g, None, Meny
+Lam Ytrefilet,335.50,500 g, None, Meny
+Angus Dragebifff,349.00,1 stk, None, Meny
+Påskekinke Rå,310.80,1400 g, None, Meny
+Lammebiff,254.00,500 g, None, Meny
+Lammeskank,281.70,900 g, None, Meny
+indrefilet,725.00,1 stk, None, Meny
+Pulled Pork Taco,111.00,525 g, None, Meny
+Kylling Grillpølse,52.90,400 g, None, Meny
+Lammestek,368.00,1000 g, None, Meny
+Rein Stek Surret,383.00,1000 g, None, Meny
+Knacker Currywurst,69.90,290 g, None, Meny
+Angus Indrefilet,159.80,200 g, None, Meny
+Kalv Lårstek,559.90,1100 g, None, Meny
+Kjøttdeig,39.90,400 g, None, Meny
+Montebello,76.90,300 g, None, Meny
+Smårettpølse,43.30,200 g, None, Meny
+Pølse Rå Midsummer,72.90,270 g, None, Meny
+Chorizoburger,29.00,1 stk, None, Meny
+Angus Rundstek,329.00,1 stk, None, Meny
+Angus Hanger Steak,329.00,1 stk, None, Meny
+Lammestek,651.70,1900 g, None, Meny
+Kebab Av Storfe,76.90,300 g, None, Meny
+Karbonader,520.00,2500 g, None, Meny
+Angus Flat Iron,369.00,1 stk, None, Meny
+Angus Denver Steak,359.00,1 stk, None, Meny
+Angus Bankekjøtt,249.00,1 stk, None, Meny
+Snack King,55.80,190 g, None, Meny
+Storfe Rundstek,412.10,1300 g, None, Meny
+Lunsjkaker,492.50,2500 g, None, Meny
+Svinehaler,37.74,600 g, None, Meny
+Angus Culotte,291.75,750 g, None, Meny
+Svin Smult,62.00,500 g, None, Meny
+Ytrefilet,247.00,1 stk, None, Meny
+Vossakorv,63.90,350 g, None, Meny
+Angus Tri Tip,303.20,800 g, None, Meny
+Lammelår,597.00,3000 g, None, Meny
+Rein Carre,408.80,700 g, None, Meny
+Sideflesk,95.60,400 g, None, Meny
+Hot Dogs Chakalaka,47.80,270 g, None, Meny
+Lammeribbe,247.80,700 g, None, Meny
+Lammecarre,366.75,750 g, None, Meny
+Lammelår skiver,88.20,350 g, None, Meny
+Lammesadel,367.50,1250 g, None, Meny
+Burger Big Juicy,79.90,360 g, None, Meny
+Biffkarbonader,94.60,400 g, None, Meny
+Elgkarbonader,89.90,420 g, None, Meny
+Hamburger,95.00,400 g, None, Meny
+Pepperoniboller,67.70,360 g, None, Meny
+Karbonader,40.00,250 g, None, Meny
+Svin Ytrefilet,83.00,380 g, None, Meny
+Burger Big Beef,79.90,360 g, None, Meny
+Storfe Ytrefilet,139.28,225 g, None, Meny
+Salsiccia Rå,28.63,295 g, 40.90, Meny
+Karbonadekaker,57.90,1000 g, None, Meny
+Kyllingpølse,61.90,250 g, None, Meny
+Svin Porchetta,340.60,1300 g, None, Meny
+Carpaccio Original,154.00,385 g, None, Meny
+Grillpølse,45.90,440 g, None, Meny
+Storfe Indrefilet,248.10,300 g, None, Meny
+Oksestek,362.60,1400 g, None, Meny
+Steak House Beef,88.00,300 g, None, Meny
+Bratwurst Urøkt,59.90,260 g, None, Meny
+Grillpølse,29.90,220 g, None, Meny
+Landpølse,62.90,250 g, None, Meny
+Storfe Entrecote,204.82,380 g, None, Meny
+Burger Big Pack,109.00,600 g, None, Meny
+Storfestrimler,92.00,300 g, None, Meny
+Svin Skinkeknoke,103.87,1300 g, None, Meny
+Svin Grillfilet,149.00,600 g, None, Meny
+Storfe Indrefilet,123.93,170 g, None, Meny
+Svinestrimler,62.90,300 g, None, Meny
+Svin Grillribbe,238.50,1500 g, None, Meny
+Svinestrimler,62.90,300 g, None, Meny
+Svin Nakkekotelett,79.90,360 g, None, Meny
+Denver Steak,259.00,500 g, None, Meny
+Hjorteskav,79.90,300 g, None, Meny
+Lammestek M Sjy,440.70,1300 g, None, Meny
+Matblod,79.90,500 g, None, Meny
+Storfelever,42.50,500 g, None, Meny
+Knakkwurst,86.00,500 g, None, Meny
+Spareribs,215.28,720 g, None, Meny
+Filetkotelett,71.75,250 g, None, Meny
+Svin Indrefilet,176.55,550 g, None, Meny
+Nakkekotelett,61.25,250 g, None, Meny
+Brunsjpølser,49.30,200 g, None, Meny
+Storfe Mørbrad,95.80,200 g, None, Meny
+Lammecarre,687.50,1100 g, None, Meny
+Lammecarre,499.00,1000 g, None, Meny

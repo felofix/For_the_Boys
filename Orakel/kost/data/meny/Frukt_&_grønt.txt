@@ -1,0 +1,333 @@
+#Navn #Pris #Mengde #Før #Butikk 
+Sopp,79.90,1 stk, None, Meny
+Mango,39.90,1 stk, None, Meny
+Gulrot,19.90,750 g, 29.90, Meny
+Bananer,4.48,180 g, None, Meny
+Agurk,24.90,1 stk, None, Meny
+Klementin stykk,3.24,130 g, 5.19, Meny
+Druer,39.90,500 g, None, Meny
+Appelsin stykk,12.22,350 g, None, Meny
+Avocado,42.90,1 stk, None, Meny
+Gulrot,19.90,750 g, 29.90, Meny
+Jordbær,31.43,400 g, 44.90, Meny
+Vårløk,27.90,150 g, None, Meny
+Jordbær,69.30,1000 g, 99.00, Meny
+Salatbar,169.00,1 stk, None, Meny
+Gulrot,16.90,400 g, None, Meny
+Brokkoli,21.90,1 stk, None, Meny
+Crispi Salat,34.90,150 g, None, Meny
+Rødløk,18.90,375 g, None, Meny
+Blåbær,55.93,400 g, 79.90, Meny
+Bringebær,31.43,125 g, 44.90, Meny
+Poteter,1.99,130 g, 2.85, Meny
+Epler,5.92,180 g, None, Meny
+Pærer,5.98,200 g, None, Meny
+Druer,42.90,500 g, None, Meny
+Blåbær,23.03,125 g, 32.90, Meny
+Lime stykk,5.77,75 g, None, Meny
+Avocado,34.90,1 stk, None, Meny
+Amalfi Sitron,11.98,200 g, None, Meny
+Paprika,22.89,210 g, None, Meny
+Bananer,22.68,1200 g, None, Meny
+Tomat stykk,5.19,80 g, None, Meny
+Tomat Søt,34.90,175 g, None, Meny
+Hvitløk,18.90,2 stk, None, Meny
+Løk,18.90,450 g, None, Meny
+Babyleaf Mix,12.90,65 g, 19.90, Meny
+Tomat Søt,27.90,175 g, None, Meny
+Paprika Rød,42.90,300 g, None, Meny
+Blomkål,32.90,1 stk, None, Meny
+Løk,2.99,150 g, None, Meny
+Isbergsalat,26.90,1 stk, None, Meny
+Tomat Søt,54.90,500 g, None, Meny
+Sitron,6.90,200 g, None, Meny
+Epler,6.25,190 g, None, Meny
+Epler,5.92,180 g, None, Meny
+Perlepoteter,20.93,400 g, 29.90, Meny
+Epler,49.90,900 g, None, Meny
+Mango,39.90,1 stk, None, Meny
+Ruccula,12.90,65 g, 19.90, Meny
+Brokkolini,29.90,200 g, None, Meny
+Babyspinat,12.90,65 g, 19.90, Meny
+Kiwi,6.90,1 stk, None, Meny
+Ingefær,139.00,1 stk, None, Meny
+Hjertesalat,29.90,300 g, None, Meny
+Koriander,29.90,1 stk, None, Meny
+Basilikum,29.90,1 stk, None, Meny
+Søtpotet stykk,9.29,350 g, 13.27, Meny
+Champignon,74.90,1 stk, None, Meny
+Sommerkål,44.90,1000 g, None, Meny
+Purre,12.98,200 g, None, Meny
+Cherry Tomat,19.90,250 g, None, Meny
+Gulrot,22.90,1000 g, None, Meny
+Champignon,14.90,250 g, None, Meny
+Paprika,16.47,300 g, None, Meny
+Asparges,149.00,1 stk, None, Meny
+Hvit Asparges,219.00,None, None, Meny
+Squash,21.90,1 stk, None, Meny
+Reddiker,26.90,150 g, None, Meny
+Sjalottløk,24.90,350 g, None, Meny
+Chilipepper,19.90,50 ml, None, Meny
+Sukkererter,39.90,200 g, None, Meny
+Morenepotet,24.43,1500 g, 34.90, Meny
+Epler,44.90,1 stk, None, Meny
+Epler,44.90,1 stk, None, Meny
+Gulrot,29.90,1 stk, None, Meny
+Paprika,21.80,200 g, None, Meny
+Juanitatomat,49.90,200 g, None, Meny
+Stangselleri,29.90,350 g, None, Meny
+Bananer,24.02,730 g, None, Meny
+Tomater,19.80,200 g, None, Meny
+Isberg Mix,32.90,250 g, None, Meny
+Maiskolbe,27.90,500 g, None, Meny
+Agurk,24.90,1 stk, None, Meny
+Agurk,32.90,1 stk, None, Meny
+Potet,39.83,1999 g, 56.90, Meny
+Bladpersille,29.90,1 stk, None, Meny
+Potet,32.83,1999 g, 46.90, Meny
+Romano Mix,32.90,175 g, None, Meny
+Spinat,31.90,200 g, None, Meny
+Bakepotet,8.55,350 g, 12.22, Meny
+Potet,32.83,1999 g, 46.90, Meny
+Feldsalat Mix,12.90,65 g, 19.90, Meny
+Sellerirot,41.94,600 g, None, Meny
+Tomat Snack,54.90,500 g, None, Meny
+Hodekål,32.85,1500 g, None, Meny
+Hvitløk stykk,9.81,90 g, None, Meny
+Dill,14.90,1 stk, None, Meny
+Kruspersille,14.90,1 stk, None, Meny
+Granateplekjerner,39.90,80 g, None, Meny
+Gressløk,14.90,1 stk, None, Meny
+Paprika,16.35,150 g, None, Meny
+Sopp,79.90,1 stk, None, Meny
+Kålrot stykk,27.39,1100 g, None, Meny
+Asparges,39.90,250 g, None, Meny
+Mango,19.90,1 stk, None, Meny
+Rødløk,19.90,1000 g, None, Meny
+Blåbær,27.93,125 g, 39.90, Meny
+Løk,23.90,700 g, None, Meny
+Erter,10.90,350 g, None, Meny
+Epler,18.90,1000 g, None, Meny
+Avocado,44.90,700 g, None, Meny
+Appelsiner,22.90,1000 g, None, Meny
+Selskapserter,18.50,250 g, None, Meny
+Vannmelon Delt,79.35,1500 g, None, Meny
+Hvitløk,21.90,100 g, None, Meny
+Mango,29.80,300 g, None, Meny
+Kirsebær,29.80,300 g, None, Meny
+Wok Frisk,65.90,450 g, None, Meny
+Chilipepper,2.69,15 g, None, Meny
+Aubergin,22.90,1 stk, None, Meny
+Grønnkål Hakket,26.90,450 g, None, Meny
+Ananas,26.90,300 g, None, Meny
+Fiken Frisk,14.90,1 stk, None, Meny
+Perfekt Lapskaus,59.90,750 g, None, Meny
+Cantaloupe Delt,28.45,475 g, None, Meny
+Erter,31.90,320 g, None, Meny
+Rødbeter,59.90,500 g, None, Meny
+Pastinakk,24.75,250 g, None, Meny
+Salat Sikori,49.90,300 g, None, Meny
+Potet,24.43,1500 g, 34.90, Meny
+Squash Grønn,29.90,350 g, None, Meny
+Smoothie Mix,29.90,400 g, None, Meny
+Hvitløk,22.90,100 g, None, Meny
+Honningmelon Delt,44.93,750 g, None, Meny
+Bukettgrønnsaker,27.90,500 g, None, Meny
+Mais,59.90,1000 g, None, Meny
+Stekegrønnsaker,28.50,500 g, None, Meny
+Sitrongress,22.90,50 g, None, Meny
+Vannmelon hel,193.05,4500 g, None, Meny
+Habanero,22.90,50 g, None, Meny
+Rotgrønnsaker,45.90,450 g, None, Meny
+Paprika,29.90,150 g, None, Meny
+Bønnespirer,22.90,180 g, None, Meny
+Rødbeter,37.90,500 g, None, Meny
+Aspargesbønner,34.90,300 g, None, Meny
+Blåbær,37.50,300 g, None, Meny
+Grønnsaker,49.90,500 g, None, Meny
+Ruccula Salat,22.90,75 g, None, Meny
+Rosenkål,35.90,320 g, None, Meny
+Agurk,13.50,1 stk, None, Meny
+Løk Delikatesse,19.90,350 g, None, Meny
+Spinatblader,14.90,450 g, None, Meny
+Jordbær,39.40,300 g, None, Meny
+Brokkoli,29.90,300 g, None, Meny
+Hjertesalat,34.90,2 stk, None, Meny
+Champignon,23.90,150 g, None, Meny
+Smoothie Pack,66.90,400 g, None, Meny
+Cherrytomat,44.90,250 g, None, Meny
+Alfaspirer,22.90,100 g, None, Meny
+Chilipepper,19.90,3 stk, None, Meny
+Romano Salat,36.90,250 g, None, Meny
+Middelhavs Mix,32.90,100 g, None, Meny
+Persillerot stykk,34.75,250 g, None, Meny
+Aromasopp,23.90,150 g, None, Meny
+Pasjonsfrukt,39.90,1 stk, None, Meny
+Wok Mix,36.90,300 g, None, Meny
+Physalis,25.83,125 g, 36.90, Meny
+Viltgrønnsaker,28.50,500 g, None, Meny
+Råkost Mix,24.90,250 g, None, Meny
+Cantaloupe hel,48.65,975 g, None, Meny
+Gulrot,26.90,175 g, None, Meny
+Rotmix,54.90,1000 g, None, Meny
+Sellerirot,69.90,1 stk, None, Meny
+Tyttebær,25.90,300 g, None, Meny
+Paprika,32.90,200 g, None, Meny
+Lime,34.90,200 g, None, Meny
+Kål Mix,36.90,300 g, None, Meny
+Grønnkål,36.90,200 g, None, Meny
+Grønnkål,29.90,150 g, None, Meny
+Grønnkål Mix,33.90,300 g, None, Meny
+Edelløk,36.90,400 g, None, Meny
+Isbergsalat,36.90,444 g, None, Meny
+Wok Spicy,51.90,450 g, None, Meny
+Kruspersille,29.90,40 g, None, Meny
+Edelløk,36.90,600 g, None, Meny
+Aspargesbønner,17.50,300 g, None, Meny
+Brokkolimix,26.90,75 g, None, Meny
+Spirer,26.90,75 g, None, Meny
+Edamame Soyabønner,45.90,400 g, None, Meny
+Løk,34.90,500 g, None, Meny
+Appelsin,49.90,1 stk, None, Meny
+Spirer,26.90,75 g, None, Meny
+Potet,32.83,1999 g, 46.90, Meny
+Ingefær,31.90,150 g, None, Meny
+Ananas,39.90,1 stk, None, Meny
+Grapefrukt,18.90,1 stk, None, Meny
+Reddik Spirer,26.90,50 g, None, Meny
+Aromasopp,29.90,250 g, None, Meny
+Potet,20.93,900 g, 29.90, Meny
+Kinakål,32.90,650 g, None, Meny
+Løk Sjalott,39.90,150 g, None, Meny
+Brokkolisalat,44.90,260 g, None, Meny
+Minimais,34.90,125 g, None, Meny
+Plommer,5.05,92 g, None, Meny
+Meksikansk Kit,39.90,270 g, None, Meny
+Ruccula Mix,32.90,175 g, None, Meny
+Gulrot Snacks,22.90,200 g, None, Meny
+Aspargesbønner,34.90,200 g, None, Meny
+Edamame Soyabønner,46.30,400 g, None, Meny
+Portobello,109.00,1 stk, None, Meny
+Piel De Sapo hel,87.33,1750 g, None, Meny
+Sopp,249.00,1 stk, None, Meny
+Blåbær,99.00,400 g, None, Meny
+Physalis,17.43,1 stk, 24.90, Meny
+Kyllingsalat,44.90,225 g, None, Meny
+Honningmelon hel,74.85,1500 g, None, Meny
+Stangselleri,39.90,400 g, None, Meny
+Østerssopp,139.00,1 stk, None, Meny
+Kålrot,20.94,600 g, None, Meny
+Pak Choy,32.90,1 stk, None, Meny
+Estragon,29.90,1 stk, None, Meny
+Oregano,29.90,1 stk, None, Meny
+Rødkål,37.35,1500 g, None, Meny
+Blomkål,39.90,1 stk, None, Meny
+Bringebær,89.00,300 g, None, Meny
+Timian,29.90,1 stk, None, Meny
+Pærer,59.90,500 g, None, Meny
+Mynte,29.90,1 stk, None, Meny
+Ost og Skinkesalat,44.90,255 g, None, Meny
+Wok Chinese,23.00,500 g, None, Meny
+Sitronmelisse,29.90,1 stk, None, Meny
+Druer,39.90,500 g, None, Meny
+Dill,29.90,40 g, None, Meny
+Paprika Rød,33.39,210 g, None, Meny
+Rødløk,46.90,500 g, None, Meny
+Druer,42.90,500 g, None, Meny
+Bringebær,57.90,400 g, None, Meny
+Brokkolitopper,18.90,450 g, None, Meny
+Blomkålblanding,20.90,500 g, None, Meny
+Avocado,47.90,2 stk, None, Meny
+Tacosalat,44.90,242 g, None, Meny
+Brokkoliblanding,18.40,500 g, None, Meny
+Potet,32.83,1999 g, 46.90, Meny
+Nypotet,27.93,1500 g, 39.90, Meny
+Bjørnebær,48.93,125 g, 69.90, Meny
+Amerikansk,19.90,800 g, None, Meny
+Jordbær,24.90,400 g, None, Meny
+Paprika Rød,49.90,1 stk, None, Meny
+Ananas i Biter,29.90,200 g, None, Meny
+Brokkoli&Blomkål,38.90,500 g, None, Meny
+Rips,41.93,125 g, 59.90, Meny
+Skogsbær,35.80,400 g, None, Meny
+Lapskausblanding,19.90,800 g, None, Meny
+Tomat Cherry,19.90,250 g, None, Meny
+Rosenkål,26.90,600 g, None, Meny
+Rosmarin,29.90,1 stk, None, Meny
+Fruktmiks Tropisk,29.90,180 g, None, Meny
+Blåbær,31.90,400 g, None, Meny
+Granateple,36.90,1 stk, None, Meny
+Melonmiks,29.90,200 g, None, Meny
+Tomat,37.90,350 g, None, Meny
+Fruktmiks,29.90,180 g, None, Meny
+Wok Classic,41.50,480 g, None, Meny
+Smoothie Mix,28.30,400 g, None, Meny
+Babygulrøtter,12.40,300 g, None, Meny
+Vannmelon i Biter,29.90,200 g, None, Meny
+Potet,24.43,2501 g, 34.90, Meny
+Kiwi,42.90,330 g, None, Meny
+Pepperrot,58.60,90 g, None, Meny
+Wok Mild,64.90,480 g, None, Meny
+Vannmelon skivet,62.90,1 stk, None, Meny
+Trøfler skivet,176.00,338 g, None, Meny
+Løk Hakket,22.90,400 g, None, Meny
+Shiitake Sopp,54.60,75 g, None, Meny
+Bjørnebær,39.90,400 g, None, Meny
+Steinsopp,81.00,1620 g, None, Meny
+Smoothie Grønn,52.30,600 g, None, Meny
+Veggie Sides,56.90,400 g, None, Meny
+Mangostan stykk,19.90,None, None, Meny
+Blåbær,372.00,2500 g, None, Meny
+Veggie Sides,54.90,400 g, None, Meny
+Piel Del Sapo Delt,59.90,1000 g, None, Meny
+Wok Creamy,48.90,400 g, None, Meny
+Tropisk Frukt,175.00,2500 g, None, Meny
+Jegerblanding,47.90,500 g, None, Meny
+Bønneblanding,36.50,500 g, None, Meny
+Smågodt Fruktmiks,27.90,120 g, None, Meny
+Grønnsaker,49.90,500 g, None, Meny
+Jordbær,159.00,2000 g, None, Meny
+Chili Rawit,22.90,50 g, None, Meny
+Jordskokk,54.90,500 g, None, Meny
+Smoothie Pack,66.90,400 g, None, Meny
+Smoothie Pack,66.90,400 g, None, Meny
+Pepperrot,32.90,100 g, None, Meny
+Brokkoliblanding,92.00,2000 g, None, Meny
+Papaya,99.00,1 stk, None, Meny
+Kongeøsterssopp,59.90,130 g, None, Meny
+Karse,14.90,150 g, None, Meny
+Portobellosopp,34.90,150 g, None, Meny
+Lollo Salat,39.90,1 stk, None, Meny
+Multer,199.00,380 g, None, Meny
+Kinakål,32.90,1 stk, None, Meny
+Champignon,46.90,200 g, None, Meny
+Solbær,99.00,400 g, None, Meny
+Østerssopp,49.90,300 g, None, Meny
+Tyttebær,86.00,400 g, None, Meny
+Salvie,29.90,1 stk, None, Meny
+Fransk Potetform,39.90,400 g, None, Meny
+Hodekål,47.97,1300 g, None, Meny
+Bringebær,199.00,2000 g, None, Meny
+Jordbær,257.00,2500 g, None, Meny
+Wokblanding,138.00,2500 g, None, Meny
+Grønnsaks Fries,57.50,1 stk, None, Meny
+Kokosnøtt,21.90,1 stk, None, Meny
+Gresskar,59.85,1500 g, None, Meny
+Pitahaya,89.00,1 stk, None, Meny
+Bjørnebær,360.00,2500 g, None, Meny
+Morkler,251.00,456 g, None, Meny
+Pepperrot Saus,74.80,170 g, None, Meny
+Kantarell,95.00,127 g, None, Meny
+Favorittkurv,199.00,3000 g, None, Meny
+Favorittkurv,339.00,5000 g, None, Meny
+Favorittkurv,469.00,7000 g, None, Meny
+Basiskurv,169.00,3000 g, None, Meny
+Plusskurv,379.00,4500 g, None, Meny
+Tyttebær,294.00,2500 g, None, Meny
+Skogsbærblanding,337.00,2500 g, None, Meny
+Trøfler Sorte,141.00,4935 g, None, Meny
+Salatbønner,82.00,1000 g, None, Meny
+Bringebær,522.00,2500 g, None, Meny
+Brokkolitopper,110.00,1500 g, None, Meny
+Smoothie,53.50,450 g, None, Meny
+Avokado i skiver,42.90,300 g, None, Meny

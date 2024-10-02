@@ -228,7 +228,6 @@ Basmatiris
 Grønnsakbuljong
 Kajennepepper
 Pommes frites
-Fetaost
 Kylling
 Karri
 Ansjos
@@ -545,7 +544,7 @@ Spisskummen
 Peanøttsmør
 Tørkede urter
 Sherry
-Tørket aprikos
+Aprikos
 Soya-saus
 Havremel
 Gresskarfrø
