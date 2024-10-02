@@ -1,51 +1,24 @@
 import mysql.connector
+import os
 import subprocess
+from dotenv import load_dotenv
+load_dotenv()
 
-#Deletes all entries. 
-# Connect to MySQL database
+# Connect to the recipes database
 conn = mysql.connector.connect(
-	host="localhost",
-	user="root",
-	password="western12345",
-	database="recipes_databaze"
+    host=os.getenv("DB_HOST"),
+    user=os.getenv("DB_USER"),
+    password=os.getenv("DB_PASSWORD"),
+    database=os.getenv("DB_NAME_RECIPES")
 )
 
-# Connect to the MySQL database
+# Connect to the ingredients database
 conn_ingr = mysql.connector.connect(
-	host="localhost",
-	user="root",
-	password="western12345",
-	database="ingredients"
+    host=os.getenv("DB_HOST"),
+    user=os.getenv("DB_USER"),
+    password=os.getenv("DB_PASSWORD"),
+    database=os.getenv("DB_NAME_INGREDIENTS")
 )
-
-# Create a cursor object
-cursor = conn.cursor()
-
-def delete_all_entries():
-	# Create a cursor object
-	cursor = conn.cursor()
-
-	# Delete all entries in the recipes_data_siloed table
-	delete_query = "DELETE FROM recipe_data_siloed"
-	cursor.execute(delete_query)
-	conn.commit()  # Commit the changes
-
-	# Check if the table is empty by selecting all entries
-	select_query = "SELECT * FROM recipe_data_siloed"
-	cursor.execute(select_query)
-	results = cursor.fetchall()
-
-	# Print results to confirm deletion
-	if not results:
-		print("All entries in 'recipes_data_siloed' have been successfully deleted.")
-	else:
-		print("There are still some entries in the 'recipes_data_siloed' table:")
-		for row in results:
-			print(row)
-
-	# Close the cursor and connection
-	cursor.close()
-	conn.close()
 
 # Assuming 'conn' is your database connection object
 def find_recipes(recipes_to_search):
@@ -391,12 +364,4 @@ def save_database_as_sql(host, user, password, database, output_file):
 	except Exception as e:
 		print(f"An error occurred: {e}")
 
-# Usage example
-save_database_as_sql(
-	host="localhost",
-	user="root",
-	password="western12345",
-	database="recipes_databaze",
-	output_file="recipes_databaze_backup.sql"
-)
 
